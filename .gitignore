@@ -20,3 +20,8 @@ Thumbs.db
 
 # IDE
 .vscode/
+# External reference datasets
+data/external/
+
+# Raw collected job data
+data/raw/
