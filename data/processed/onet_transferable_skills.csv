@@ -1,0 +1,101 @@
+GradPath Role,Mapping Type,O*NET-SOC Code,Title,Element ID,Element Name,Scale ID,Scale Name,Data Value,Recommend Suppress,Not Relevant,Date,Domain Source
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.a,Social Perceptiveness,IM,Importance,2.88,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.a,Social Perceptiveness,LV,Level,2.88,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.b,Coordination,IM,Importance,3.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.b,Coordination,LV,Level,3.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.c,Persuasion,IM,Importance,2.88,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.c,Persuasion,LV,Level,3.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.d,Negotiation,IM,Importance,2.5,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.d,Negotiation,LV,Level,2.88,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.e,Instructing,IM,Importance,3.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.e,Instructing,LV,Level,3.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.f,Service Orientation,IM,Importance,2.88,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.1.f,Service Orientation,LV,Level,2.88,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.2.i,Complex Problem Solving,IM,Importance,3.38,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.2.i,Complex Problem Solving,LV,Level,3.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.a,Operations Analysis,IM,Importance,1.88,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.a,Operations Analysis,LV,Level,1.62,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.b,Technology Design,IM,Importance,1.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.b,Technology Design,LV,Level,0.88,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.c,Equipment Selection,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.c,Equipment Selection,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.d,Installation,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.d,Installation,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.e,Programming,IM,Importance,2.5,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.e,Programming,LV,Level,2.5,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.g,Operations Monitoring,IM,Importance,1.75,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.g,Operations Monitoring,LV,Level,1.12,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.h,Operation and Control,IM,Importance,1.38,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.h,Operation and Control,LV,Level,0.38,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.j,Equipment Maintenance,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.j,Equipment Maintenance,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.k,Troubleshooting,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.k,Troubleshooting,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.l,Repairing,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.l,Repairing,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.m,Quality Control Analysis,IM,Importance,2.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.3.m,Quality Control Analysis,LV,Level,1.5,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.4.e,Judgment and Decision Making,IM,Importance,3.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.4.e,Judgment and Decision Making,LV,Level,4.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.4.g,Systems Analysis,IM,Importance,3.12,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.4.g,Systems Analysis,LV,Level,3.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.4.h,Systems Evaluation,IM,Importance,3.12,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.4.h,Systems Evaluation,LV,Level,3.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.5.a,Time Management,IM,Importance,3.12,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.5.a,Time Management,LV,Level,3.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.5.b,Management of Financial Resources,IM,Importance,1.88,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.5.b,Management of Financial Resources,LV,Level,1.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.5.c,Management of Material Resources,IM,Importance,1.75,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.5.c,Management of Material Resources,LV,Level,1.25,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.5.d,Management of Personnel Resources,IM,Importance,2.12,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.B.5.d,Management of Personnel Resources,LV,Level,2.0,N,N,08/2024,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.a,Social Perceptiveness,IM,Importance,2.88,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.a,Social Perceptiveness,LV,Level,2.88,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.b,Coordination,IM,Importance,2.88,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.b,Coordination,LV,Level,3.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.c,Persuasion,IM,Importance,2.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.c,Persuasion,LV,Level,3.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.d,Negotiation,IM,Importance,2.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.d,Negotiation,LV,Level,2.25,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.e,Instructing,IM,Importance,2.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.e,Instructing,LV,Level,3.12,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.f,Service Orientation,IM,Importance,2.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.1.f,Service Orientation,LV,Level,2.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.2.i,Complex Problem Solving,IM,Importance,3.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.2.i,Complex Problem Solving,LV,Level,4.12,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.a,Operations Analysis,IM,Importance,1.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.a,Operations Analysis,LV,Level,0.75,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.b,Technology Design,IM,Importance,1.62,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.b,Technology Design,LV,Level,1.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.c,Equipment Selection,IM,Importance,1.12,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.c,Equipment Selection,LV,Level,0.12,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.d,Installation,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.d,Installation,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.e,Programming,IM,Importance,3.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.e,Programming,LV,Level,3.88,Y,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.g,Operations Monitoring,IM,Importance,1.88,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.g,Operations Monitoring,LV,Level,1.38,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.h,Operation and Control,IM,Importance,1.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.h,Operation and Control,LV,Level,0.38,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.j,Equipment Maintenance,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.j,Equipment Maintenance,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.k,Troubleshooting,IM,Importance,1.12,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.k,Troubleshooting,LV,Level,0.12,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.l,Repairing,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.l,Repairing,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.m,Quality Control Analysis,IM,Importance,1.88,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.3.m,Quality Control Analysis,LV,Level,1.38,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.4.e,Judgment and Decision Making,IM,Importance,3.38,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.4.e,Judgment and Decision Making,LV,Level,4.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.4.g,Systems Analysis,IM,Importance,2.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.4.g,Systems Analysis,LV,Level,2.88,Y,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.4.h,Systems Evaluation,IM,Importance,2.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.4.h,Systems Evaluation,LV,Level,3.0,Y,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.5.a,Time Management,IM,Importance,3.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.5.a,Time Management,LV,Level,2.88,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.5.b,Management of Financial Resources,IM,Importance,1.38,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.5.b,Management of Financial Resources,LV,Level,0.5,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.5.c,Management of Material Resources,IM,Importance,1.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.5.c,Management of Material Resources,LV,Level,0.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.5.d,Management of Personnel Resources,IM,Importance,2.38,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.B.5.d,Management of Personnel Resources,LV,Level,2.38,N,N,08/2026,Analyst

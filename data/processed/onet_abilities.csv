@@ -1,0 +1,209 @@
+GradPath Role,Mapping Type,O*NET-SOC Code,Title,Element ID,Element Name,Scale ID,Scale Name,Data Value,Recommend Suppress,Not Relevant,Date,Domain Source
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.a.1,Oral Comprehension,IM,Importance,4.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.a.1,Oral Comprehension,LV,Level,4.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.a.2,Written Comprehension,IM,Importance,4.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.a.2,Written Comprehension,LV,Level,4.62,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.a.3,Oral Expression,IM,Importance,4.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.a.3,Oral Expression,LV,Level,4.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.a.4,Written Expression,IM,Importance,4.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.a.4,Written Expression,LV,Level,4.12,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.1,Fluency of Ideas,IM,Importance,3.38,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.1,Fluency of Ideas,LV,Level,3.88,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.2,Originality,IM,Importance,3.12,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.2,Originality,LV,Level,3.25,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.3,Problem Sensitivity,IM,Importance,3.25,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.3,Problem Sensitivity,LV,Level,3.5,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.4,Deductive Reasoning,IM,Importance,3.75,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.4,Deductive Reasoning,LV,Level,4.5,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.5,Inductive Reasoning,IM,Importance,4.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.5,Inductive Reasoning,LV,Level,4.38,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.6,Information Ordering,IM,Importance,3.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.6,Information Ordering,LV,Level,4.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.7,Category Flexibility,IM,Importance,3.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.b.7,Category Flexibility,LV,Level,4.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.c.1,Mathematical Reasoning,IM,Importance,3.5,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.c.1,Mathematical Reasoning,LV,Level,3.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.c.2,Number Facility,IM,Importance,3.12,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.c.2,Number Facility,LV,Level,3.62,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.d.1,Memorization,IM,Importance,2.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.d.1,Memorization,LV,Level,2.25,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.e.1,Speed of Closure,IM,Importance,2.75,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.e.1,Speed of Closure,LV,Level,2.88,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.e.2,Flexibility of Closure,IM,Importance,3.25,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.e.2,Flexibility of Closure,LV,Level,3.12,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.e.3,Perceptual Speed,IM,Importance,2.5,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.e.3,Perceptual Speed,LV,Level,2.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.f.1,Spatial Orientation,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.f.1,Spatial Orientation,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.f.2,Visualization,IM,Importance,2.25,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.f.2,Visualization,LV,Level,2.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.g.1,Selective Attention,IM,Importance,2.75,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.g.1,Selective Attention,LV,Level,3.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.g.2,Time Sharing,IM,Importance,2.12,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.1.g.2,Time Sharing,LV,Level,2.12,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.a.1,Arm-Hand Steadiness,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.a.1,Arm-Hand Steadiness,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.a.2,Manual Dexterity,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.a.2,Manual Dexterity,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.a.3,Finger Dexterity,IM,Importance,1.5,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.a.3,Finger Dexterity,LV,Level,0.5,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.b.1,Control Precision,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.b.1,Control Precision,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.b.2,Multilimb Coordination,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.b.2,Multilimb Coordination,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.b.3,Response Orientation,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.b.3,Response Orientation,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.b.4,Rate Control,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.b.4,Rate Control,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.c.1,Reaction Time,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.c.1,Reaction Time,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.c.2,Wrist-Finger Speed,IM,Importance,1.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.c.2,Wrist-Finger Speed,LV,Level,0.62,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.c.3,Speed of Limb Movement,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.2.c.3,Speed of Limb Movement,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.a.1,Static Strength,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.a.1,Static Strength,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.a.2,Explosive Strength,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.a.2,Explosive Strength,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.a.3,Dynamic Strength,IM,Importance,1.25,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.a.3,Dynamic Strength,LV,Level,0.25,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.a.4,Trunk Strength,IM,Importance,1.75,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.a.4,Trunk Strength,LV,Level,1.12,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.b.1,Stamina,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.b.1,Stamina,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.c.1,Extent Flexibility,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.c.1,Extent Flexibility,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.c.2,Dynamic Flexibility,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.c.2,Dynamic Flexibility,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.c.3,Gross Body Coordination,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.c.3,Gross Body Coordination,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.c.4,Gross Body Equilibrium,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.3.c.4,Gross Body Equilibrium,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.1,Near Vision,IM,Importance,3.12,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.1,Near Vision,LV,Level,3.5,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.2,Far Vision,IM,Importance,2.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.2,Far Vision,LV,Level,2.62,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.3,Visual Color Discrimination,IM,Importance,1.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.3,Visual Color Discrimination,LV,Level,0.88,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.4,Night Vision,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.4,Night Vision,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.5,Peripheral Vision,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.5,Peripheral Vision,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.6,Depth Perception,IM,Importance,1.38,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.6,Depth Perception,LV,Level,0.38,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.7,Glare Sensitivity,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.a.7,Glare Sensitivity,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.1,Hearing Sensitivity,IM,Importance,1.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.1,Hearing Sensitivity,LV,Level,0.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.2,Auditory Attention,IM,Importance,1.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.2,Auditory Attention,LV,Level,0.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.3,Sound Localization,IM,Importance,1.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.3,Sound Localization,LV,Level,0.0,N,Y,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.4,Speech Recognition,IM,Importance,3.38,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.4,Speech Recognition,LV,Level,3.38,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.5,Speech Clarity,IM,Importance,3.5,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,1.A.4.b.5,Speech Clarity,LV,Level,3.5,N,N,08/2024,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.a.1,Oral Comprehension,IM,Importance,3.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.a.1,Oral Comprehension,LV,Level,4.62,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.a.2,Written Comprehension,IM,Importance,4.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.a.2,Written Comprehension,LV,Level,4.5,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.a.3,Oral Expression,IM,Importance,3.62,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.a.3,Oral Expression,LV,Level,4.5,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.a.4,Written Expression,IM,Importance,3.88,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.a.4,Written Expression,LV,Level,4.25,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.1,Fluency of Ideas,IM,Importance,3.12,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.1,Fluency of Ideas,LV,Level,3.62,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.2,Originality,IM,Importance,3.38,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.2,Originality,LV,Level,3.88,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.3,Problem Sensitivity,IM,Importance,3.88,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.3,Problem Sensitivity,LV,Level,4.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.4,Deductive Reasoning,IM,Importance,4.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.4,Deductive Reasoning,LV,Level,4.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.5,Inductive Reasoning,IM,Importance,4.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.5,Inductive Reasoning,LV,Level,4.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.6,Information Ordering,IM,Importance,4.12,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.6,Information Ordering,LV,Level,4.12,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.7,Category Flexibility,IM,Importance,3.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.b.7,Category Flexibility,LV,Level,3.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.c.1,Mathematical Reasoning,IM,Importance,4.12,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.c.1,Mathematical Reasoning,LV,Level,4.38,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.c.2,Number Facility,IM,Importance,3.62,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.c.2,Number Facility,LV,Level,4.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.d.1,Memorization,IM,Importance,2.38,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.d.1,Memorization,LV,Level,2.25,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.e.1,Speed of Closure,IM,Importance,3.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.e.1,Speed of Closure,LV,Level,3.25,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.e.2,Flexibility of Closure,IM,Importance,3.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.e.2,Flexibility of Closure,LV,Level,3.5,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.e.3,Perceptual Speed,IM,Importance,2.88,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.e.3,Perceptual Speed,LV,Level,2.88,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.f.1,Spatial Orientation,IM,Importance,1.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.f.1,Spatial Orientation,LV,Level,0.25,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.f.2,Visualization,IM,Importance,2.62,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.f.2,Visualization,LV,Level,2.62,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.g.1,Selective Attention,IM,Importance,3.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.g.1,Selective Attention,LV,Level,3.25,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.g.2,Time Sharing,IM,Importance,2.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.1.g.2,Time Sharing,LV,Level,2.38,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.a.1,Arm-Hand Steadiness,IM,Importance,1.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.a.1,Arm-Hand Steadiness,LV,Level,1.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.a.2,Manual Dexterity,IM,Importance,1.62,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.a.2,Manual Dexterity,LV,Level,0.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.a.3,Finger Dexterity,IM,Importance,1.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.a.3,Finger Dexterity,LV,Level,1.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.b.1,Control Precision,IM,Importance,1.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.b.1,Control Precision,LV,Level,0.5,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.b.2,Multilimb Coordination,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.b.2,Multilimb Coordination,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.b.3,Response Orientation,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.b.3,Response Orientation,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.b.4,Rate Control,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.b.4,Rate Control,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.c.1,Reaction Time,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.c.1,Reaction Time,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.c.2,Wrist-Finger Speed,IM,Importance,2.12,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.c.2,Wrist-Finger Speed,LV,Level,2.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.c.3,Speed of Limb Movement,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.2.c.3,Speed of Limb Movement,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.a.1,Static Strength,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.a.1,Static Strength,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.a.2,Explosive Strength,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.a.2,Explosive Strength,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.a.3,Dynamic Strength,IM,Importance,1.38,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.a.3,Dynamic Strength,LV,Level,0.38,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.a.4,Trunk Strength,IM,Importance,2.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.a.4,Trunk Strength,LV,Level,1.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.b.1,Stamina,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.b.1,Stamina,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.c.1,Extent Flexibility,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.c.1,Extent Flexibility,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.c.2,Dynamic Flexibility,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.c.2,Dynamic Flexibility,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.c.3,Gross Body Coordination,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.c.3,Gross Body Coordination,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.c.4,Gross Body Equilibrium,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.3.c.4,Gross Body Equilibrium,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.1,Near Vision,IM,Importance,3.88,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.1,Near Vision,LV,Level,3.88,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.2,Far Vision,IM,Importance,2.62,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.2,Far Vision,LV,Level,2.88,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.3,Visual Color Discrimination,IM,Importance,1.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.3,Visual Color Discrimination,LV,Level,1.38,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.4,Night Vision,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.4,Night Vision,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.5,Peripheral Vision,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.5,Peripheral Vision,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.6,Depth Perception,IM,Importance,1.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.6,Depth Perception,LV,Level,0.5,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.7,Glare Sensitivity,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.a.7,Glare Sensitivity,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.1,Hearing Sensitivity,IM,Importance,1.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.1,Hearing Sensitivity,LV,Level,0.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.2,Auditory Attention,IM,Importance,1.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.2,Auditory Attention,LV,Level,1.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.3,Sound Localization,IM,Importance,1.0,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.3,Sound Localization,LV,Level,0.0,N,Y,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.4,Speech Recognition,IM,Importance,3.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.4,Speech Recognition,LV,Level,3.25,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.5,Speech Clarity,IM,Importance,3.62,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,1.A.4.b.5,Speech Clarity,LV,Level,3.62,N,N,08/2026,Analyst

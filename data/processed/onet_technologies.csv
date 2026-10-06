@@ -1,291 +1,291 @@
-GradPath Role,O*NET-SOC Code,Title,Workplace Example,Element ID,Element Name,Hot Technology,In Demand
-Data Analyst,15-2051.01,Business Intelligence Analysts,Actuate Eclipse BIRT,2.E.6.e,Data base reporting software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Adobe Acrobat,2.E.5.b,Document management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Adobe ActionScript,2.E.7.b,Development environment software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Adobe Dreamweaver,2.E.4.g,Web page creation and editing software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Advanced business application programming ABAP,2.E.7.e,Object or component oriented development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Airtable,2.E.6.f,Data base user interface and query software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,AJAX,2.E.7.h,Web platform development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Alteryx software,2.E.6.m,Business intelligence and data analysis software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Amazon DynamoDB,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Amazon Elastic Compute Cloud EC2,2.E.6.f,Data base user interface and query software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Amazon Redshift,2.E.6.f,Data base user interface and query software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Amazon Web Services AWS software,2.E.6.f,Data base user interface and query software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Ant,2.E.7.b,Development environment software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Cassandra,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Groovy,2.E.7.e,Object or component oriented development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Hadoop,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Hive,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache HTTP Server,2.E.6.k,Portal server software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Kafka,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Pig,2.E.6.d,Data base management system software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Solr,2.E.6.d,Data base management system software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Spark,2.E.6.m,Business intelligence and data analysis software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Struts,2.E.7.h,Web platform development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Apache Tomcat,2.E.7.h,Web platform development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Atlassian Confluence,2.E.1.e,Project management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Atlassian JIRA,2.E.5.a,Content workflow software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Bash,2.E.13.c,Operating system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Blackbaud The Raiser's Edge,2.E.6.c,Customer relationship management CRM software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Business Objects Data Integrator,2.E.7.b,Development environment software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,C,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,C#,2.E.7.e,Object or component oriented development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,C++,2.E.7.e,Object or component oriented development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Citrix cloud computing software,2.E.12.a,Access software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Common business oriented language COBOL,2.E.7.b,Development environment software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Customer information control system CICS,2.E.6.l,Transaction server software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Data modeling software,2.E.6.i,Metadata management software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Data warehouse software,2.E.6.g,Data mining software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Database software,2.E.6.f,Data base user interface and query software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Delphi Technology,2.E.2.d,Financial analysis software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Django,2.E.7.h,Web platform development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Drupal,2.E.7.h,Web platform development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Dynamic hypertext markup language DHTML,2.E.7.h,Web platform development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Eclipse IDE,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Eko,2.E.10.b,Desktop communications software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Elasticsearch,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Enterprise JavaBeans,2.E.7.h,Web platform development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Epic Systems,2.E.9.i,Medical software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,ESRI ArcGIS software,2.E.8.h,Geographic information system,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Ext JS,2.E.7.h,Web platform development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Extensible hypertext markup language XHTML,2.E.7.h,Web platform development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Extensible markup language XML,2.E.7.c,Enterprise application integration software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Facebook,2.E.4.g,Web page creation and editing software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,FileMaker Pro,2.E.6.f,Data base user interface and query software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Fund accounting software,2.E.2.a,Accounting software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Geographic information system GIS software,2.E.8.h,Geographic information system,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Git,2.E.5.c,File versioning software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,GitHub,2.E.10.a,Application server software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Go,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Google Ads,2.E.1.l,Sales and marketing software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Google Analytics,2.E.6.g,Data mining software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Google Docs,2.E.4.d,Word processing software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Google Looker Analytics,2.E.6.m,Business intelligence and data analysis software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Google Sites,2.E.4.g,Web page creation and editing software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Google Slides,2.E.4.f,Presentation software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Healthcare common procedure coding system HCPCS,2.E.9.i,Medical software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Hewlett Packard HP-UX,2.E.13.c,Operating system software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Hewlett Packard LoadRunner,2.E.7.f,Program testing software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Hibernate ORM,2.E.6.j,Object oriented data base management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Human resource management software HRMS,2.E.1.c,Human resources software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Hypertext markup language HTML,2.E.7.h,Web platform development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,IBM Cognos Impromptu,2.E.6.m,Business intelligence and data analysis software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,IBM DB2,2.E.6.f,Data base user interface and query software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,IBM Domino,2.E.12.b,Communications server software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,IBM InfoSphere DataStage,2.E.7.c,Enterprise application integration software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,IBM Notes,2.E.16.a,Electronic mail software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,IBM Power Systems software,2.E.17.a,Enterprise system management software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,IBM SPSS Statistics,2.E.9.d,Analytical or scientific software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,IBM Unica Enterprise,2.E.2.d,Financial analysis software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,IBM WebSphere,2.E.11.e,Cloud-based management software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Informatica Data Explorer,2.E.6.g,Data mining software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Informatica software,2.E.6.i,Metadata management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Information Builders WebFOCUS,2.E.6.e,Data base reporting software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Integrated development environment IDE software,2.E.7.b,Development environment software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,JavaScript,2.E.7.h,Web platform development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,JavaScript Object Notation JSON,2.E.7.h,Web platform development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Job control language JCL,2.E.13.c,Operating system software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,jQuery,2.E.7.e,Object or component oriented development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Jupyter Notebook,2.E.7.e,Object or component oriented development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,KornShell,2.E.13.c,Operating system software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,LexisNexis,2.E.6.h,Information retrieval or search software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Linux,2.E.13.c,Operating system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Marketo Marketing Automation,2.E.1.l,Sales and marketing software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,McAfee,2.E.14.d,Transaction security and virus protection software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Medical condition coding software,2.E.9.i,Medical software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Medical procedure coding software,2.E.9.i,Medical software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,MEDITECH software,2.E.9.i,Medical software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft .NET Framework,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Access,2.E.6.f,Data base user interface and query software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Active Server Pages ASP,2.E.7.h,Web platform development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft ActiveX,2.E.7.e,Object or component oriented development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft ASP.NET,2.E.7.h,Web platform development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Azure software,2.E.7.b,Development environment software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Dynamics,2.E.2.b,Enterprise resource planning ERP software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Dynamics GP,2.E.2.b,Enterprise resource planning ERP software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Excel,2.E.4.i,Spreadsheet software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Exchange,2.E.16.a,Electronic mail software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Office software,2.E.1.k,Office suite software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Outlook,2.E.16.a,Electronic mail software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Power Automate,2.E.7.c,Enterprise application integration software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Power BI,2.E.6.m,Business intelligence and data analysis software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Power Platform software,2.E.7.c,Enterprise application integration software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft PowerPoint,2.E.4.f,Presentation software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft PowerShell,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Proclarity,2.E.6.e,Data base reporting software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Project,2.E.1.e,Project management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Publisher,2.E.4.k,Desktop publishing software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft SharePoint,2.E.5.b,Document management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft SQL Server,2.E.6.f,Data base user interface and query software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft SQL Server Integration Services SSIS,2.E.7.c,Enterprise application integration software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft SQL Server Reporting Services SSRS,2.E.6.e,Data base reporting software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Visio,2.E.1.p,Process mapping and design software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Visual Basic,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Visual Basic for Applications VBA,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Visual Basic Scripting Edition VBScript,2.E.7.b,Development environment software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Visual Studio,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Windows Server,2.E.13.c,Operating system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Microsoft Word,2.E.4.d,Word processing software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,MicroStrategy,2.E.6.m,Business intelligence and data analysis software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Minitab,2.E.9.d,Analytical or scientific software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,MongoDB,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,MySQL,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Nagios,2.E.11.a,Network monitoring software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,NetSuite ERP,2.E.2.b,Enterprise resource planning ERP software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,NortonLifeLock cybersecurity software,2.E.14.d,Transaction security and virus protection software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,NoSQL,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Business Intelligence Enterprise Edition,2.E.6.m,Business intelligence and data analysis software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Cloud software,2.E.11.e,Cloud-based management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Database,2.E.6.f,Data base user interface and query software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle E-Business Suite Financials,2.E.2.d,Financial analysis software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Eloqua,2.E.6.c,Customer relationship management CRM software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Essbase,2.E.6.f,Data base user interface and query software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Fusion Applications,2.E.2.b,Enterprise resource planning ERP software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Hyperion,2.E.2.b,Enterprise resource planning ERP software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Java,2.E.7.e,Object or component oriented development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle JavaServer Pages JSP,2.E.7.h,Web platform development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle JD Edwards EnterpriseOne,2.E.2.b,Enterprise resource planning ERP software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle JDBC,2.E.6.f,Data base user interface and query software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle PeopleSoft,2.E.2.b,Enterprise resource planning ERP software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle PeopleSoft Financials,2.E.2.b,Enterprise resource planning ERP software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle PL/SQL,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Primavera Enterprise Project Portfolio Management,2.E.1.e,Project management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Siebel Marketing Resource Management,2.E.6.c,Customer relationship management CRM software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Solaris,2.E.13.c,Operating system software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle SQL Developer,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle Taleo,2.E.1.c,Human resources software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Oracle WebLogic Server,2.E.10.a,Application server software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Panorama NovaView,2.E.6.e,Data base reporting software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Perl,2.E.7.e,Object or component oriented development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,PHP,2.E.7.h,Web platform development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,PostgreSQL,2.E.6.j,Object oriented data base management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,PTC Creo Parametric,2.E.9.c,Computer aided design CAD software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Python,2.E.7.e,Object or component oriented development software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Qlik Tech QlikView,2.E.6.m,Business intelligence and data analysis software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Quest Erwin Data Modeler,2.E.6.i,Metadata management software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,R,2.E.7.e,Object or component oriented development software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Red Hat Enterprise Linux,2.E.13.c,Operating system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Red Hat WildFly,2.E.10.a,Application server software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Relational database management software,2.E.6.d,Data base management system software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Reporting software,2.E.6.e,Data base reporting software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Rogue Wave Software IMSL Numerical Libraries,2.E.9.d,Analytical or scientific software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Ruby,2.E.7.b,Development environment software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Ruby on Rails,2.E.7.h,Web platform development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Salesforce software,2.E.6.c,Customer relationship management CRM software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Salesforce Visualforce,2.E.7.d,Graphical user interface development software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,SAP Business Objects,2.E.2.b,Enterprise resource planning ERP software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,SAP BusinessObjects Data Integrator,2.E.7.c,Enterprise application integration software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,SAP Crystal Reports,2.E.6.e,Data base reporting software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,SAP ERP,2.E.2.b,Enterprise resource planning ERP software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,SAP NetWeaver BW,2.E.6.g,Data mining software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,SAP software,2.E.2.b,Enterprise resource planning ERP software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,SAS,2.E.9.d,Analytical or scientific software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Scala,2.E.7.e,Object or component oriented development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Shell script,2.E.13.c,Operating system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,SiSense Prism,2.E.6.e,Data base reporting software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Skype,2.E.10.b,Desktop communications software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Snowflake,2.E.6.g,Data mining software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Splunk Enterprise,2.E.11.e,Cloud-based management software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,StataCorp Stata,2.E.9.d,Analytical or scientific software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Structured query language SQL,2.E.6.f,Data base user interface and query software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Swift,2.E.7.e,Object or component oriented development software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Tableau,2.E.6.m,Business intelligence and data analysis software,Y,Y
-Data Analyst,15-2051.01,Business Intelligence Analysts,Tax software,2.E.2.a,Accounting software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Teradata Database,2.E.6.d,Data base management system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,The MathWorks MATLAB,2.E.9.d,Analytical or scientific software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Transact-SQL,2.E.6.f,Data base user interface and query software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Ubuntu,2.E.13.c,Operating system software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Unified modeling language UML,2.E.7.g,Requirements analysis and system architecture software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,UNIX,2.E.13.c,Operating system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,UNIX Shell,2.E.13.c,Operating system software,Y,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Veritas NetBackup,2.E.15.f,Backup or archival software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Virtual private networking VPN software,2.E.14.c,Network security and virtual private network VPN equipment software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,Wireshark,2.E.11.a,Network monitoring software,N,N
-Data Analyst,15-2051.01,Business Intelligence Analysts,YouTube,2.E.4.c,Video creation and editing software,N,N
-Data Scientist,15-2051.00,Data Scientists,Alteryx software,2.E.6.m,Business intelligence and data analysis software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Amazon Elastic Compute Cloud EC2,2.E.6.f,Data base user interface and query software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Amazon Redshift,2.E.6.f,Data base user interface and query software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Amazon Simple Storage Service S3,2.E.12.f,Storage networking software,N,N
-Data Scientist,15-2051.00,Data Scientists,Amazon Web Services AWS SageMaker,2.E.11.e,Cloud-based management software,N,N
-Data Scientist,15-2051.00,Data Scientists,Amazon Web Services AWS software,2.E.6.f,Data base user interface and query software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Apache Airflow,2.E.1.o,Procedure management software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Apache Cassandra,2.E.6.d,Data base management system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Apache Hadoop,2.E.6.d,Data base management system software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Apache Hive,2.E.6.d,Data base management system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Apache Kafka,2.E.7.b,Development environment software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Apache MXNet,2.E.9.g,Industrial control software,N,N
-Data Scientist,15-2051.00,Data Scientists,Apache Pig,2.E.6.d,Data base management system software,N,N
-Data Scientist,15-2051.00,Data Scientists,Apache Spark,2.E.6.m,Business intelligence and data analysis software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Atlassian Confluence,2.E.1.e,Project management software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Atlassian JIRA,2.E.5.a,Content workflow software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Bash,2.E.13.c,Operating system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,BigQuery,2.E.6.f,Data base user interface and query software,N,N
-Data Scientist,15-2051.00,Data Scientists,Business intelligence software,2.E.6.m,Business intelligence and data analysis software,N,N
-Data Scientist,15-2051.00,Data Scientists,C,2.E.7.b,Development environment software,Y,N
-Data Scientist,15-2051.00,Data Scientists,C#,2.E.7.e,Object or component oriented development software,Y,N
-Data Scientist,15-2051.00,Data Scientists,C++,2.E.7.e,Object or component oriented development software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Docker,2.E.10.a,Application server software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Elasticsearch,2.E.6.d,Data base management system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Flask,2.E.7.b,Development environment software,N,N
-Data Scientist,15-2051.00,Data Scientists,Geographic information system GIS systems,2.E.8.h,Geographic information system,N,N
-Data Scientist,15-2051.00,Data Scientists,Git,2.E.5.c,File versioning software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,GitHub,2.E.10.a,Application server software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Go,2.E.7.b,Development environment software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Google Cloud software,2.E.11.e,Cloud-based management software,N,N
-Data Scientist,15-2051.00,Data Scientists,Google Looker Analytics,2.E.6.m,Business intelligence and data analysis software,Y,N
-Data Scientist,15-2051.00,Data Scientists,IBM SPSS Statistics,2.E.9.d,Analytical or scientific software,Y,N
-Data Scientist,15-2051.00,Data Scientists,JavaScript,2.E.7.h,Web platform development software,Y,N
-Data Scientist,15-2051.00,Data Scientists,JavaScript Object Notation JSON,2.E.7.h,Web platform development software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Jenkins CI,2.E.7.c,Enterprise application integration software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Julia,2.E.7.b,Development environment software,N,N
-Data Scientist,15-2051.00,Data Scientists,Jupyter software,2.E.7.e,Object or component oriented development software,N,N
-Data Scientist,15-2051.00,Data Scientists,Keras,2.E.13.c,Operating system software,N,N
-Data Scientist,15-2051.00,Data Scientists,Kubeflow,2.E.9.d,Analytical or scientific software,N,N
-Data Scientist,15-2051.00,Data Scientists,Kubernetes,2.E.10.a,Application server software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Linux,2.E.13.c,Operating system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Management information systems MIS,2.E.2.b,Enterprise resource planning ERP software,N,N
-Data Scientist,15-2051.00,Data Scientists,MapReduce big data software,2.E.6.m,Business intelligence and data analysis software,N,N
-Data Scientist,15-2051.00,Data Scientists,Mathematical software,2.E.9.d,Analytical or scientific software,N,N
-Data Scientist,15-2051.00,Data Scientists,Microsoft Access,2.E.6.f,Data base user interface and query software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Microsoft Azure software,2.E.7.b,Development environment software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Microsoft Excel,2.E.4.i,Spreadsheet software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Microsoft Office software,2.E.1.k,Office suite software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Microsoft Power BI,2.E.6.m,Business intelligence and data analysis software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Microsoft PowerPoint,2.E.4.f,Presentation software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Microsoft SQL Server,2.E.6.f,Data base user interface and query software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Mlflow,2.E.9.d,Analytical or scientific software,N,N
-Data Scientist,15-2051.00,Data Scientists,MongoDB,2.E.6.d,Data base management system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Neo4j,2.E.6.f,Data base user interface and query software,N,N
-Data Scientist,15-2051.00,Data Scientists,NoSQL,2.E.6.d,Data base management system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,NumPy,2.E.6.f,Data base user interface and query software,N,Y
-Data Scientist,15-2051.00,Data Scientists,OpenAI ChatGPT,2.E.7.b,Development environment software,N,N
-Data Scientist,15-2051.00,Data Scientists,Oracle Java,2.E.7.e,Object or component oriented development software,Y,N
-Data Scientist,15-2051.00,Data Scientists,pandas,2.E.6.f,Data base user interface and query software,N,Y
-Data Scientist,15-2051.00,Data Scientists,Perl,2.E.7.e,Object or component oriented development software,Y,N
-Data Scientist,15-2051.00,Data Scientists,PostgreSQL,2.E.6.j,Object oriented data base management software,Y,N
-Data Scientist,15-2051.00,Data Scientists,PySpark,2.E.6.f,Data base user interface and query software,N,N
-Data Scientist,15-2051.00,Data Scientists,Python,2.E.7.e,Object or component oriented development software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,PyTorch,2.E.6.f,Data base user interface and query software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Qlik Tech QlikView,2.E.6.m,Business intelligence and data analysis software,N,N
-Data Scientist,15-2051.00,Data Scientists,R,2.E.7.e,Object or component oriented development software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Reporting software,2.E.6.e,Data base reporting software,N,N
-Data Scientist,15-2051.00,Data Scientists,RESTful API,2.E.7.h,Web platform development software,N,N
-Data Scientist,15-2051.00,Data Scientists,Ruby,2.E.7.b,Development environment software,Y,N
-Data Scientist,15-2051.00,Data Scientists,SAS,2.E.9.d,Analytical or scientific software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Scala,2.E.7.e,Object or component oriented development software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Scikit-learn,2.E.7.b,Development environment software,N,Y
-Data Scientist,15-2051.00,Data Scientists,SciPy,2.E.7.e,Object or component oriented development software,N,N
-Data Scientist,15-2051.00,Data Scientists,Shell script,2.E.13.c,Operating system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,Shiny,2.E.7.e,Object or component oriented development software,N,N
-Data Scientist,15-2051.00,Data Scientists,Snowflake,2.E.6.g,Data mining software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,spaCy,2.E.7.e,Object or component oriented development software,N,N
-Data Scientist,15-2051.00,Data Scientists,Splunk Enterprise,2.E.17.a,Enterprise system management software,Y,N
-Data Scientist,15-2051.00,Data Scientists,StataCorp Stata,2.E.9.d,Analytical or scientific software,N,N
-Data Scientist,15-2051.00,Data Scientists,Statistical software,2.E.9.d,Analytical or scientific software,N,N
-Data Scientist,15-2051.00,Data Scientists,Structured query language SQL,2.E.6.f,Data base user interface and query software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Tableau,2.E.6.m,Business intelligence and data analysis software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,TensorFlow,2.E.9.d,Analytical or scientific software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,Teradata Database,2.E.6.d,Data base management system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,The MathWorks MATLAB,2.E.9.d,Analytical or scientific software,Y,Y
-Data Scientist,15-2051.00,Data Scientists,UNIX,2.E.13.c,Operating system software,Y,N
-Data Scientist,15-2051.00,Data Scientists,XGBoost,2.E.7.b,Development environment software,N,N
+GradPath Role,Mapping Type,O*NET-SOC Code,Title,Workplace Example,Element ID,Element Name,Hot Technology,In Demand
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Actuate Eclipse BIRT,2.E.6.e,Data base reporting software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Adobe Acrobat,2.E.5.b,Document management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Adobe ActionScript,2.E.7.b,Development environment software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Adobe Dreamweaver,2.E.4.g,Web page creation and editing software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Advanced business application programming ABAP,2.E.7.e,Object or component oriented development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Airtable,2.E.6.f,Data base user interface and query software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,AJAX,2.E.7.h,Web platform development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Alteryx software,2.E.6.m,Business intelligence and data analysis software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Amazon DynamoDB,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Amazon Elastic Compute Cloud EC2,2.E.6.f,Data base user interface and query software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Amazon Redshift,2.E.6.f,Data base user interface and query software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Amazon Web Services AWS software,2.E.6.f,Data base user interface and query software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Ant,2.E.7.b,Development environment software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Cassandra,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Groovy,2.E.7.e,Object or component oriented development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Hadoop,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Hive,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache HTTP Server,2.E.6.k,Portal server software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Kafka,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Pig,2.E.6.d,Data base management system software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Solr,2.E.6.d,Data base management system software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Spark,2.E.6.m,Business intelligence and data analysis software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Struts,2.E.7.h,Web platform development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Apache Tomcat,2.E.7.h,Web platform development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Atlassian Confluence,2.E.1.e,Project management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Atlassian JIRA,2.E.5.a,Content workflow software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Bash,2.E.13.c,Operating system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Blackbaud The Raiser's Edge,2.E.6.c,Customer relationship management CRM software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Business Objects Data Integrator,2.E.7.b,Development environment software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,C,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,C#,2.E.7.e,Object or component oriented development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,C++,2.E.7.e,Object or component oriented development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Citrix cloud computing software,2.E.12.a,Access software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Common business oriented language COBOL,2.E.7.b,Development environment software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Customer information control system CICS,2.E.6.l,Transaction server software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Data modeling software,2.E.6.i,Metadata management software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Data warehouse software,2.E.6.g,Data mining software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Database software,2.E.6.f,Data base user interface and query software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Delphi Technology,2.E.2.d,Financial analysis software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Django,2.E.7.h,Web platform development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Drupal,2.E.7.h,Web platform development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Dynamic hypertext markup language DHTML,2.E.7.h,Web platform development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Eclipse IDE,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Eko,2.E.10.b,Desktop communications software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Elasticsearch,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Enterprise JavaBeans,2.E.7.h,Web platform development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Epic Systems,2.E.9.i,Medical software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,ESRI ArcGIS software,2.E.8.h,Geographic information system,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Ext JS,2.E.7.h,Web platform development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Extensible hypertext markup language XHTML,2.E.7.h,Web platform development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Extensible markup language XML,2.E.7.c,Enterprise application integration software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Facebook,2.E.4.g,Web page creation and editing software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,FileMaker Pro,2.E.6.f,Data base user interface and query software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Fund accounting software,2.E.2.a,Accounting software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Geographic information system GIS software,2.E.8.h,Geographic information system,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Git,2.E.5.c,File versioning software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,GitHub,2.E.10.a,Application server software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Go,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Google Ads,2.E.1.l,Sales and marketing software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Google Analytics,2.E.6.g,Data mining software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Google Docs,2.E.4.d,Word processing software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Google Looker Analytics,2.E.6.m,Business intelligence and data analysis software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Google Sites,2.E.4.g,Web page creation and editing software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Google Slides,2.E.4.f,Presentation software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Healthcare common procedure coding system HCPCS,2.E.9.i,Medical software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Hewlett Packard HP-UX,2.E.13.c,Operating system software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Hewlett Packard LoadRunner,2.E.7.f,Program testing software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Hibernate ORM,2.E.6.j,Object oriented data base management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Human resource management software HRMS,2.E.1.c,Human resources software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Hypertext markup language HTML,2.E.7.h,Web platform development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,IBM Cognos Impromptu,2.E.6.m,Business intelligence and data analysis software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,IBM DB2,2.E.6.f,Data base user interface and query software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,IBM Domino,2.E.12.b,Communications server software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,IBM InfoSphere DataStage,2.E.7.c,Enterprise application integration software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,IBM Notes,2.E.16.a,Electronic mail software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,IBM Power Systems software,2.E.17.a,Enterprise system management software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,IBM SPSS Statistics,2.E.9.d,Analytical or scientific software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,IBM Unica Enterprise,2.E.2.d,Financial analysis software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,IBM WebSphere,2.E.11.e,Cloud-based management software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Informatica Data Explorer,2.E.6.g,Data mining software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Informatica software,2.E.6.i,Metadata management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Information Builders WebFOCUS,2.E.6.e,Data base reporting software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Integrated development environment IDE software,2.E.7.b,Development environment software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,JavaScript,2.E.7.h,Web platform development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,JavaScript Object Notation JSON,2.E.7.h,Web platform development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Job control language JCL,2.E.13.c,Operating system software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,jQuery,2.E.7.e,Object or component oriented development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Jupyter Notebook,2.E.7.e,Object or component oriented development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,KornShell,2.E.13.c,Operating system software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,LexisNexis,2.E.6.h,Information retrieval or search software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Linux,2.E.13.c,Operating system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Marketo Marketing Automation,2.E.1.l,Sales and marketing software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,McAfee,2.E.14.d,Transaction security and virus protection software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Medical condition coding software,2.E.9.i,Medical software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Medical procedure coding software,2.E.9.i,Medical software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,MEDITECH software,2.E.9.i,Medical software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft .NET Framework,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Access,2.E.6.f,Data base user interface and query software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Active Server Pages ASP,2.E.7.h,Web platform development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft ActiveX,2.E.7.e,Object or component oriented development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft ASP.NET,2.E.7.h,Web platform development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Azure software,2.E.7.b,Development environment software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Dynamics,2.E.2.b,Enterprise resource planning ERP software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Dynamics GP,2.E.2.b,Enterprise resource planning ERP software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Excel,2.E.4.i,Spreadsheet software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Exchange,2.E.16.a,Electronic mail software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Office software,2.E.1.k,Office suite software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Outlook,2.E.16.a,Electronic mail software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Power Automate,2.E.7.c,Enterprise application integration software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Power BI,2.E.6.m,Business intelligence and data analysis software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Power Platform software,2.E.7.c,Enterprise application integration software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft PowerPoint,2.E.4.f,Presentation software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft PowerShell,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Proclarity,2.E.6.e,Data base reporting software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Project,2.E.1.e,Project management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Publisher,2.E.4.k,Desktop publishing software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft SharePoint,2.E.5.b,Document management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft SQL Server,2.E.6.f,Data base user interface and query software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft SQL Server Integration Services SSIS,2.E.7.c,Enterprise application integration software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft SQL Server Reporting Services SSRS,2.E.6.e,Data base reporting software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Visio,2.E.1.p,Process mapping and design software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Visual Basic,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Visual Basic for Applications VBA,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Visual Basic Scripting Edition VBScript,2.E.7.b,Development environment software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Visual Studio,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Windows Server,2.E.13.c,Operating system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Microsoft Word,2.E.4.d,Word processing software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,MicroStrategy,2.E.6.m,Business intelligence and data analysis software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Minitab,2.E.9.d,Analytical or scientific software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,MongoDB,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,MySQL,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Nagios,2.E.11.a,Network monitoring software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,NetSuite ERP,2.E.2.b,Enterprise resource planning ERP software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,NortonLifeLock cybersecurity software,2.E.14.d,Transaction security and virus protection software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,NoSQL,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Business Intelligence Enterprise Edition,2.E.6.m,Business intelligence and data analysis software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Cloud software,2.E.11.e,Cloud-based management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Database,2.E.6.f,Data base user interface and query software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle E-Business Suite Financials,2.E.2.d,Financial analysis software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Eloqua,2.E.6.c,Customer relationship management CRM software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Essbase,2.E.6.f,Data base user interface and query software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Fusion Applications,2.E.2.b,Enterprise resource planning ERP software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Hyperion,2.E.2.b,Enterprise resource planning ERP software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Java,2.E.7.e,Object or component oriented development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle JavaServer Pages JSP,2.E.7.h,Web platform development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle JD Edwards EnterpriseOne,2.E.2.b,Enterprise resource planning ERP software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle JDBC,2.E.6.f,Data base user interface and query software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle PeopleSoft,2.E.2.b,Enterprise resource planning ERP software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle PeopleSoft Financials,2.E.2.b,Enterprise resource planning ERP software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle PL/SQL,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Primavera Enterprise Project Portfolio Management,2.E.1.e,Project management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Siebel Marketing Resource Management,2.E.6.c,Customer relationship management CRM software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Solaris,2.E.13.c,Operating system software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle SQL Developer,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle Taleo,2.E.1.c,Human resources software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Oracle WebLogic Server,2.E.10.a,Application server software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Panorama NovaView,2.E.6.e,Data base reporting software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Perl,2.E.7.e,Object or component oriented development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,PHP,2.E.7.h,Web platform development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,PostgreSQL,2.E.6.j,Object oriented data base management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,PTC Creo Parametric,2.E.9.c,Computer aided design CAD software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Python,2.E.7.e,Object or component oriented development software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Qlik Tech QlikView,2.E.6.m,Business intelligence and data analysis software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Quest Erwin Data Modeler,2.E.6.i,Metadata management software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,R,2.E.7.e,Object or component oriented development software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Red Hat Enterprise Linux,2.E.13.c,Operating system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Red Hat WildFly,2.E.10.a,Application server software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Relational database management software,2.E.6.d,Data base management system software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Reporting software,2.E.6.e,Data base reporting software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Rogue Wave Software IMSL Numerical Libraries,2.E.9.d,Analytical or scientific software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Ruby,2.E.7.b,Development environment software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Ruby on Rails,2.E.7.h,Web platform development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Salesforce software,2.E.6.c,Customer relationship management CRM software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Salesforce Visualforce,2.E.7.d,Graphical user interface development software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,SAP Business Objects,2.E.2.b,Enterprise resource planning ERP software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,SAP BusinessObjects Data Integrator,2.E.7.c,Enterprise application integration software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,SAP Crystal Reports,2.E.6.e,Data base reporting software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,SAP ERP,2.E.2.b,Enterprise resource planning ERP software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,SAP NetWeaver BW,2.E.6.g,Data mining software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,SAP software,2.E.2.b,Enterprise resource planning ERP software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,SAS,2.E.9.d,Analytical or scientific software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Scala,2.E.7.e,Object or component oriented development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Shell script,2.E.13.c,Operating system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,SiSense Prism,2.E.6.e,Data base reporting software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Skype,2.E.10.b,Desktop communications software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Snowflake,2.E.6.g,Data mining software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Splunk Enterprise,2.E.11.e,Cloud-based management software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,StataCorp Stata,2.E.9.d,Analytical or scientific software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Structured query language SQL,2.E.6.f,Data base user interface and query software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Swift,2.E.7.e,Object or component oriented development software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Tableau,2.E.6.m,Business intelligence and data analysis software,Y,Y
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Tax software,2.E.2.a,Accounting software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Teradata Database,2.E.6.d,Data base management system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,The MathWorks MATLAB,2.E.9.d,Analytical or scientific software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Transact-SQL,2.E.6.f,Data base user interface and query software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Ubuntu,2.E.13.c,Operating system software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Unified modeling language UML,2.E.7.g,Requirements analysis and system architecture software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,UNIX,2.E.13.c,Operating system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,UNIX Shell,2.E.13.c,Operating system software,Y,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Veritas NetBackup,2.E.15.f,Backup or archival software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Virtual private networking VPN software,2.E.14.c,Network security and virtual private network VPN equipment software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,Wireshark,2.E.11.a,Network monitoring software,N,N
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,YouTube,2.E.4.c,Video creation and editing software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Alteryx software,2.E.6.m,Business intelligence and data analysis software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Amazon Elastic Compute Cloud EC2,2.E.6.f,Data base user interface and query software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Amazon Redshift,2.E.6.f,Data base user interface and query software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Amazon Simple Storage Service S3,2.E.12.f,Storage networking software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Amazon Web Services AWS SageMaker,2.E.11.e,Cloud-based management software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Amazon Web Services AWS software,2.E.6.f,Data base user interface and query software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Apache Airflow,2.E.1.o,Procedure management software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Apache Cassandra,2.E.6.d,Data base management system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Apache Hadoop,2.E.6.d,Data base management system software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Apache Hive,2.E.6.d,Data base management system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Apache Kafka,2.E.7.b,Development environment software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Apache MXNet,2.E.9.g,Industrial control software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Apache Pig,2.E.6.d,Data base management system software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Apache Spark,2.E.6.m,Business intelligence and data analysis software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Atlassian Confluence,2.E.1.e,Project management software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Atlassian JIRA,2.E.5.a,Content workflow software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Bash,2.E.13.c,Operating system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,BigQuery,2.E.6.f,Data base user interface and query software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Business intelligence software,2.E.6.m,Business intelligence and data analysis software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,C,2.E.7.b,Development environment software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,C#,2.E.7.e,Object or component oriented development software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,C++,2.E.7.e,Object or component oriented development software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Docker,2.E.10.a,Application server software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Elasticsearch,2.E.6.d,Data base management system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Flask,2.E.7.b,Development environment software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Geographic information system GIS systems,2.E.8.h,Geographic information system,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Git,2.E.5.c,File versioning software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,GitHub,2.E.10.a,Application server software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Go,2.E.7.b,Development environment software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Google Cloud software,2.E.11.e,Cloud-based management software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Google Looker Analytics,2.E.6.m,Business intelligence and data analysis software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,IBM SPSS Statistics,2.E.9.d,Analytical or scientific software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,JavaScript,2.E.7.h,Web platform development software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,JavaScript Object Notation JSON,2.E.7.h,Web platform development software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Jenkins CI,2.E.7.c,Enterprise application integration software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Julia,2.E.7.b,Development environment software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Jupyter software,2.E.7.e,Object or component oriented development software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Keras,2.E.13.c,Operating system software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Kubeflow,2.E.9.d,Analytical or scientific software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Kubernetes,2.E.10.a,Application server software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Linux,2.E.13.c,Operating system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Management information systems MIS,2.E.2.b,Enterprise resource planning ERP software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,MapReduce big data software,2.E.6.m,Business intelligence and data analysis software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Mathematical software,2.E.9.d,Analytical or scientific software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Microsoft Access,2.E.6.f,Data base user interface and query software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Microsoft Azure software,2.E.7.b,Development environment software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Microsoft Excel,2.E.4.i,Spreadsheet software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Microsoft Office software,2.E.1.k,Office suite software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Microsoft Power BI,2.E.6.m,Business intelligence and data analysis software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Microsoft PowerPoint,2.E.4.f,Presentation software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Microsoft SQL Server,2.E.6.f,Data base user interface and query software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Mlflow,2.E.9.d,Analytical or scientific software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,MongoDB,2.E.6.d,Data base management system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Neo4j,2.E.6.f,Data base user interface and query software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,NoSQL,2.E.6.d,Data base management system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,NumPy,2.E.6.f,Data base user interface and query software,N,Y
+Data Scientist,primary,15-2051.00,Data Scientists,OpenAI ChatGPT,2.E.7.b,Development environment software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Oracle Java,2.E.7.e,Object or component oriented development software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,pandas,2.E.6.f,Data base user interface and query software,N,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Perl,2.E.7.e,Object or component oriented development software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,PostgreSQL,2.E.6.j,Object oriented data base management software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,PySpark,2.E.6.f,Data base user interface and query software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Python,2.E.7.e,Object or component oriented development software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,PyTorch,2.E.6.f,Data base user interface and query software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Qlik Tech QlikView,2.E.6.m,Business intelligence and data analysis software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,R,2.E.7.e,Object or component oriented development software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Reporting software,2.E.6.e,Data base reporting software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,RESTful API,2.E.7.h,Web platform development software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Ruby,2.E.7.b,Development environment software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,SAS,2.E.9.d,Analytical or scientific software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Scala,2.E.7.e,Object or component oriented development software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Scikit-learn,2.E.7.b,Development environment software,N,Y
+Data Scientist,primary,15-2051.00,Data Scientists,SciPy,2.E.7.e,Object or component oriented development software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Shell script,2.E.13.c,Operating system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,Shiny,2.E.7.e,Object or component oriented development software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Snowflake,2.E.6.g,Data mining software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,spaCy,2.E.7.e,Object or component oriented development software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Splunk Enterprise,2.E.17.a,Enterprise system management software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,StataCorp Stata,2.E.9.d,Analytical or scientific software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Statistical software,2.E.9.d,Analytical or scientific software,N,N
+Data Scientist,primary,15-2051.00,Data Scientists,Structured query language SQL,2.E.6.f,Data base user interface and query software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Tableau,2.E.6.m,Business intelligence and data analysis software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,TensorFlow,2.E.9.d,Analytical or scientific software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,Teradata Database,2.E.6.d,Data base management system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,The MathWorks MATLAB,2.E.9.d,Analytical or scientific software,Y,Y
+Data Scientist,primary,15-2051.00,Data Scientists,UNIX,2.E.13.c,Operating system software,Y,N
+Data Scientist,primary,15-2051.00,Data Scientists,XGBoost,2.E.7.b,Development environment software,N,N

@@ -1,0 +1,691 @@
+GradPath Role,escoOccupationUri,escoOccupationLabel,relationship,escoSkillUri,skillLabel,skillType,reuseLevel,altLabels,hiddenLabels,scopeNote,definition,description,status,modifiedDate
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8,mathematical modelling,knowledge,cross-sector,"mathematical computation
+mathematical representation
+mathematical simulation",,,,"The process of establishing a mathematical representation problem, such as equations, of a real-word to provide insights, discover new features about the problematic scenario, better understand the original problem or to make predictions about it.",released,2024-01-29T11:25:09.926Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180,data mining,knowledge,sector-specific,data scraping,,,,"The methods of artificial intelligence, machine learning, statistics and databases used to extract content from a dataset.",released,2025-06-25T08:20:05.218Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213,visual presentation techniques,knowledge,sector-specific,"Infoviz
+information visualisation
+visualization interface
+Infovis
+information visualization",Prezi,,,"The visual representation and interaction techniques, such as histograms, scatter plots, surface plots, tree maps and parallel coordinate plots, that can be used to present abstract numerical and non-numerical data, in order to reinforce the human understanding of this information.",released,2025-02-27T12:45:08.961Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,data engineering,knowledge,cross-sector,data engineering methods,,,,The process of developing and constructing systems for implementing data collection and analysis at large scale.,released,2023-11-29T16:26:35.334Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3,quantitative analysis,knowledge,cross-sector,quantitative data analysis,,,,The technique of employing statistical and mathematical modelling and measurement to represent a specific reality through numbers.,released,2023-11-29T16:26:13.467Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,knowledge,cross-sector,data presentation software,"Microsoft Power BI
+ggplot2
+Power BI
+Tableau",,,"A computer tool or application that creates a graphical and visual representation of data, allowing a better understanding and interpretation of complex data through visual elements such as maps, charts, infographics or graphs.",released,2023-11-29T16:28:10.548Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22,statistical modeling techniques,knowledge,sector-specific,statistical modeling,,,,The approaches for employing statistical analysis to dataset within the data science field. It seeks to elaborate reality predictions through statistical models and explicit assumptions.,released,2023-10-30T10:14:30.511Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec,information extraction,knowledge,sector-specific,information extraction techniques,,,,The techniques and methods used for eliciting and extracting information from unstructured or semi-structured digital documents and sources.,released,2025-06-25T08:20:05.218Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a,scientific literature,knowledge,cross-sector,scientific publications,,,,"The medium of informing the scientific community, including academic researchers, about the results of scientific research. It constitutes a permanent and cumulative collection of all the findings of scientific research in various fields and at any point in time.",released,2023-10-30T10:06:59.008Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833,statistics,knowledge,cross-sector,"experimental data
+use of data in performance of work
+use of statistics
+organisation of data
+data analysis
+survey data
+use of statistics in performance of work
+data collection
+stats
+data work
+big data
+metadata
+statistical analysis
+use of data
+administrative data",,,,"The study of statistical theory, methods and practices such as collection, organisation, analysis, interpretation and presentation of data. It deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments in order to forecast and plan work-related activities.",released,2025-04-16T11:50:25.475Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6,information categorisation,knowledge,sector-specific,"design of information structures
+information classification",,,,The process of classifying the information into categories and showing relationships between the data for some clearly defined purposes.,released,2025-06-25T08:20:05.218Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806,resource description framework query language,knowledge,sector-specific,"RDF query language
+SPARQL",,,,The query languages such as SPARQL which are used to retrieve and manipulate data stored in Resource Description Framework format (RDF).,released,2024-02-09T17:29:15.235Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586,query languages,knowledge,sector-specific,"DMX
+SuprTool
+OttoQL
+XPath
+QUEL
+ISBL
+.QL
+F-logic
+SPL
+FQL
+OPath
+MQL
+Poliqarp
+HTSQL
+YQL
+Gellish
+XSPARQL
+Concept-Oriented
+TMQL
+RDQL
+OCL
+OQL
+CQLF
+ReQL
+Datalog","DMX
+RDQL
+XPath
+OttoQL
+ISBL
+Gellish
+OQL
+MQL
+YQL
+Poliqarp
+.QL
+Datalog
+F-logic
+XSPARQL
+CQLF
+OCL
+ReQL
+SPL
+QUEL
+OPath
+TMQL
+SuprTool
+HTSQL
+Concept-Oriented
+FQL",,,The field of standardised computer languages for retrieval of information from a database and of documents containing the needed information.,released,2025-02-27T12:45:08.961Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a,online analytical processing,knowledge,sector-specific,"OLAP databases
+Cube databases
+OLAP",,,,"The online tools which analyse, aggregate and present multi-dimensional data enabling users to interactively and selectively extract and view data from specific points of view.",released,2024-02-09T17:29:15.235Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92,data ethics,knowledge,cross-sector,principles of data ethics,,,,"The subfield of ethics that assess whether data practices are considerable ethical. It assesses processes such as collecting, analysing and disseminating structured and unstructured data that might negatively impact the society.",released,2024-01-29T11:16:01.318Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01,data science,knowledge,cross-sector,"data science process
+science of data",,,,The field of study that deals with big amount of data using AI techniques such as machine learning algorithms to predict patterns and obtain useful information to make business decisions.,released,2023-11-29T16:23:08.607Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea,empirical analysis,knowledge,cross-sector,empirical data analysis,,,,The evidence-based method that is used to analyse and interpret information with the aim of drawing conclusions about a specific issue.,released,2023-10-30T09:16:29.844Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,data models,knowledge,sector-specific,data modelling,,,,"The techniques and existing systems used for structuring data elements and showing relationships between them, as well as methods for interpreting the data structures and relationships.",released,2025-06-25T08:20:05.218Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,draft scientific or academic papers and technical documentation,skill/competence,cross-sector,"create technical documentation
+create technical documentation and academic writings
+write technical documentation
+write scientific and academic papers",,,,"Draft and edit scientific, academic or technical texts on different subjects.",released,2024-02-27T10:19:54.09Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc,normalise data,skill/competence,sector-specific,"prepare data
+normalize data
+perform data pre-processing",,,,"Reduce data to their accurate core form (normal forms) in order to achieve such results as minimisation of dependency, elimination of redundancy, increase of consistency.",released,2022-07-05T14:38:14.9Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d,manage research data,skill/competence,cross-sector,"oversee scientific data
+handle research data
+administer research data",,,,Produce and analyse scientific data originating from qualitative and quantitative research methods. Store and maintain the data in research databases. Support the re-use of scientific data and be familiar with open data management principles.,released,2024-03-01T11:59:56.801Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522,use data processing techniques,skill/competence,cross-sector,"use a data processing technique
+apply data processing technique
+make use of data processing techniques
+utilize data processing techniques
+gather and analyse data",,,,"Gather, process and analyse relevant data and information, properly store and update data and represent figures and data using charts and statistical diagrams.",released,2024-02-09T17:29:13.7Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29,interpret current data,skill/competence,cross-sector,examine current data,,,,"Analyse data gathered from sources such as market data, scientific papers, customer requirements and questionnaires which are current and up-to-date in order to assess development and innovation in areas of expertise.",released,2025-06-25T12:15:04.406Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0,interact professionally in research and professional environments,skill/competence,cross-sector,"give feedback in a professional setting
+interact appropriately in research and professional spheres
+receive feedback in a professional setting
+interact considerately in research and professional spheres
+show collegiality in research and professional environments",,,,"Show consideration to others as well as collegiality. Listen, give and receive feedback and respond perceptively to others, also involving staff supervision and leadership in a professional setting.",released,2024-02-26T08:57:39.574Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1,disseminate results to the scientific community,skill/competence,cross-sector,"disseminate scientific results
+disclose scientific results
+disclose findings of scientific research
+disseminate findings of scientific research
+disseminate results of scientific research",,,,"Publicly disclose scientific results by any appropriate means, including conferences, workshops, colloquia and scientific publications.",released,2024-02-23T16:43:58.272Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6,operate open source software,skill/competence,sector-specific,"know open-source software licensing schemes
+know open-source software coding practices
+know open-source licensing schemes
+know open-source coding practices
+manage open-source software",,,,"Operate Open Source software, knowing the main Open Source models, licensing schemes, and the coding practices commonly adopted in the production of Open Source software.",released,2024-02-23T16:25:28.327Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec,establish data processes,skill/competence,sector-specific,"develop data processes
+implement data processes",,,,"Use ICT tools to apply mathematical, algorithmic or other data manipulation processes in order to create information.",released,2024-02-09T17:29:16.725Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac,speak different languages,skill/competence,cross-sector,"speak foreign languages
+communicate in multiple languages
+speak a different language",,,,Master foreign languages to be able to communicate in one or more foreign languages.,released,2024-02-09T17:29:12.952Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c,execute analytical mathematical calculations,skill/competence,cross-sector,apply analytical mathematical methods,,,,Apply mathematical methods and make use of calculation technologies in order to perform analyses and devise solutions to specific problems.,released,2025-06-25T12:15:04.406Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9,evaluate research activities,skill/competence,cross-sector,"perform scholarly peer review
+assess research results
+assess research methodology",,,,"Review proposals, progress, impact and outcomes of peer researchers, including through open peer review.",released,2020-12-11T12:32:43.311Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db,demonstrate disciplinary expertise,skill/competence,cross-sector,"exhibit academic proficiency
+demonstrate complex understanding of a research area
+demonstrate deep knowledge of a research area
+demonstrate deep knowledge of a specific research area
+demonstrate complex understanding of a specific research area",,,,"Demonstrate deep knowledge and complex understanding of a specific research area, including responsible research, research ethics and scientific integrity principles, privacy and GDPR requirements, related to research activities within a specific discipline.",released,2024-02-23T16:39:48.713Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,use databases,skill/competence,cross-sector,"use database management systems
+use database software
+apply databases
+use data bases
+use Dbs
+able to use using databases
+use database
+utilise databases
+make use of databases",,,,"Use software tools for managing and organising data in a structured environment which consists of attributes, tables and relationships in order to query and modify the stored data.",released,2024-02-09T17:29:09.009Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e,handle data samples,skill/competence,cross-sector,"collect data samples
+manage data samples
+handle data samples for statistical purposes",,,,Collect and select a set of data from a population by a statistical or other defined procedure.,released,2025-06-25T12:15:04.406Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728,increase the impact of science on policy and society,skill/competence,cross-sector,"influence decision making based on scientific evidence
+enhance the impact of science influence on policy and society
+boost the contribution of science to shaping policies and society
+enhance the influence of science on governance and communities","knowledge management for policy impact
+report facts",,,Influence evidence-informed policy and decision making by providing scientific input to and maintaining professional relationships with policymakers and other stakeholders.,released,2024-02-29T16:33:21.333Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11,manage findable accessible interoperable and reusable data,skill/competence,cross-sector,"ensure data availability
+ensure data reusability
+support data reuse in research
+ensure corrected data storing",,,,"Produce, describe, store, preserve and (re) use scientific data based on FAIR (Findable, Accessible, Interoperable, and Reusable) principles, making data as open as possible, and as closed as necessary.",released,2022-07-05T14:37:59.932Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc,perform scientific research,skill/competence,cross-sector,"performing scientific research
+carry out scientific research
+conduct scientific research
+engage in scientific research",,,,"Gain, correct or improve knowledge about phenomena by using scientific methods and techniques, based on empirical or measurable observations.",released,2024-02-09T17:29:11.47Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258,build recommender systems,skill/competence,occupation-specific,"build recommendation systems
+recommender engine
+recommender platform",,,,Construct recommendation systems based on large data sets using programming languages or computer tools to create a subclass of information filtering system that seeks to predict the rating or preference a user gives to an item.,released,2024-02-09T17:29:12.952Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8,perform data cleansing,skill/competence,cross-sector,"complete data cleansing
+performing data cleansing
+undertake data cleansing
+perform a data cleanse
+data cleansing performance
+implement data cleansing",,,,"Detect and correct corrupt records from data sets, ensure that the data become and remain structured according to guidelines.",released,2024-02-09T17:29:16.725Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/518dc04d-092d-4fa1-bd82-88b7a9278ef7,manage intellectual property rights,skill/competence,sector-specific,"manage copyrights
+administer copyrights
+administer intellectual property rights",,,,Deal with the private legal rights that protect the products of the intellect from unlawful infringement.,released,2024-02-26T16:26:56.216Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6,apply for research funding,skill/competence,cross-sector,"apply for research grants
+draft research grants applications
+identify research grants
+generate research funding",,,,Identify key relevant funding sources and prepare research grant application in order to obtain funds and grants. Write research proposals.,released,2020-12-11T12:35:49.19Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511,design database scheme,skill/competence,sector-specific,develop database scheme,,,,"Draft a database scheme by following the Relational Database Management System (RDBMS) rules in order to create a logically arranged group of objects such as tables, columns and processes.",released,2025-06-25T12:15:04.406Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5,implement data quality processes,skill/competence,cross-sector,verify data,,,,"Apply quality analysis, validation and verification techniques on data to check data quality integrity.",released,2024-02-09T17:29:10.678Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a,collect ICT data,skill/competence,cross-sector,"obtain digital data
+gather digital data; obtain digital data
+gather digital data
+collect digital data",,,,Gather data by designing and applying search and sampling methods.,released,2025-11-26T10:19:14.155Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8,apply research ethics and scientific integrity principles in research activities,skill/competence,cross-sector,"adhere to scientific research code of ethics
+obey scientific research code of conduct
+follow scientific research code of conduct",,,,"Apply fundamental ethical principles and legislation to scientific research, including issues of research integrity. Perform, review, or report research avoiding misconducts such as fabrication, falsification, and plagiarism.",released,2020-12-11T12:37:37.532Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591,promote open innovation in research,skill/competence,cross-sector,"encourage open innovation in research
+promote integrated collaboration in research
+boost open innovation in research
+stimulate collaborative innovation in research
+foster collaborative innovation in research",,,,"Apply techniques, models, methods and strategies which contribute to the promotion of steps towards innovation through collaboration with people and organizations outside the organisation.",released,2024-02-22T15:09:51.665Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930,publish academic research,skill/competence,cross-sector,"publishes academic research
+publish doctoral research
+publishing academic research
+publish research
+publish academic studies",,,,"Conduct academic research, in universities and research institutions, or on a personal account, publish it in books or academic journals with the aim of contributing to a field of expertise and achieving personal academic accreditation.",released,2024-02-09T17:29:09.851Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/988f4ac3-a37c-4b0a-a40f-4e0e56b5919e,promote the transfer of knowledge,skill/competence,cross-sector,"valorise research findings in industry
+valorise research findings in the public sector
+ensure connection between research and industry",,,,"Deploy broad awareness of processes of knowledge valorisation aimed to maximise the two–way flow of technology, intellectual property, expertise and capability between the research base and industry or the public sector.",released,2020-12-11T12:42:30.498Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/9a58cd26-58eb-4a1c-b1b6-64037fe9cfa1,think abstractly,skill/competence,cross-sector,"thinking in abstractions
+thinking in abstract concepts
+conceptualise reality
+carry out abstraction of concepts
+conceptualise abstract ideas",,,,"Demonstrate the ability to use concepts in order to make and understand generalisations, and relate or connect them to other items, events, or experiences.",released,2024-02-26T16:23:39.49Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9,mentor individuals,skill/competence,cross-sector,"support individuals
+help individuals
+guide individuals
+guide people
+support people
+help people",,,,"Mentor individuals by providing emotional support, sharing experiences and giving advice to the individual to help them in their personal development, as well as adapting the support to the specific needs of the individual and heeding their requests and expectations.",released,2024-02-09T17:29:15.235Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757,manage data collection systems,skill/competence,sector-specific,oversee data collection methods,,,,"Develop and manage methods and strategies used to maximise data quality and statistical efficiency in the collection of data, in order to ensure the gathered data are optimised for further processing.",released,2025-06-25T08:45:06.159Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612,manage personal professional development,skill/competence,cross-sector,"develop own practice
+continuously develop your own practices
+research identify and resource your continuing professional development
+identify priority areas for professional development
+continuously develop own practice
+manage personal lifelong learning
+develop own practices continuously
+conduct personal professional development
+research own continuing professional development
+develop own practice continuously
+undertake responsibility on continuous professional development",,,,Take responsibility for lifelong learning and continuous professional development. Engage in learning to support and update professional competence. Identify priority areas for professional development based on reflection about own practice and through contact with peers and stakeholders. Pursue a cycle of self-improvement and develop credible career plans.,released,2024-02-09T17:29:09.851Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562,write scientific publications,skill/competence,cross-sector,"scientific paper writing
+draw up scientific papers
+draft scientific papers",,,,"Present the hypothesis, findings, and conclusions of your scientific research in your field of expertise in a professional publication.",released,2024-02-09T17:29:14.494Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389,deliver visual presentation of data,skill/competence,cross-sector,"create data visualisation
+visualise data",,,,Create visual representations of data such as charts or diagrams for easier understanding.,released,2024-02-09T17:29:14.494Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817,report analysis results,skill/competence,cross-sector,use data reporting,,,,"Produce research documents or give presentations to report the results of a conducted research and analysis project, indicating the analysis procedures and methods which led to the results, as well as potential interpretations of the results.",released,2024-02-09T17:29:14.494Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/cc61f9e5-d4fc-470e-8606-1ce865ff8386,develop professional network with researchers and scientists,skill/competence,cross-sector,"cultivate a professional circle in academia
+foster relationships with researchers and scientists
+establish connections with researchers and scientists",,,,"Develop alliances, contacts or partnerships, and exchange information with others. Foster integrated and open collaborations where different stakeholders co-create shared value research and innovations. Develop your personal profile or brand and make yourself visible and available in face-to-face and online networking environments.",released,2024-03-01T12:37:18.21Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d,integrate gender dimension in research,skill/competence,cross-sector,"account for gender characteristics in scientific research
+promote inclusion in research",,,,Take into account in the whole research process the biological characteristics and the evolving social and cultural features of women and men (gender).,released,2022-08-25T12:53:49.834Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68,perform project management,skill/competence,cross-sector,"perform management of projects
+performing project management
+manage projects
+do project management
+conduct project management
+perform projects management",,,,"Manage and plan various resources, such as human resources, budget, deadline, results, and quality necessary for a specific project, and monitor the project's progress in order to achieve a specific goal within a set time and budget.",released,2024-02-09T17:29:12.215Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039,manage open publications,skill/competence,cross-sector,"manage open-source content
+manage open-source publications
+handle open-source content
+handle open publications
+handle open-source publications",,,,"Be familiar with Open Publication strategies, with the use of information technology to support research, and with the development and management of CRIS (current research information systems) and institutional repositories. Provide licensing and copyright advice, use bibliometric indicators, and measure and report research impact.",released,2024-02-23T15:21:32.989Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/f715be1d-5fc4-49d3-82a5-0b8090d12849,synthesise information,skill/competence,cross-sector,"synthesise complex information
+summarise information
+interpret complex information
+critically summarise information
+write synthesis essays",,,,"Critically read, interpret, and summarise new and complex information from diverse sources.",released,2024-02-29T15:53:23.476Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61,conduct research across disciplines,skill/competence,cross-sector,"work across disciplines
+work across functional boundaries
+conduct interdisciplinary research
+use research findings across disciplines
+use research findings across functional boundaries",,,,Work and use research findings and data across disciplinary and/or functional boundaries.,released,2024-02-26T08:09:43.582Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab,develop data processing applications,skill/competence,occupation-specific,"build data processing applications
+design data processing applications
+design data processing software
+develop data processing software
+create data processing applications",,,,Create a customised software for processing data by selecting and using the appropriate computer programming language in order for an ICT system to produce demanded output based on expected input.,released,2025-06-25T12:15:04.406Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7,promote the participation of citizens in scientific and research activities,skill/competence,cross-sector,"encourage civic engagement in research
+engage public in research
+engage citizens in scientific and research activities
+foster public involvement in scientific research
+promote citizens participation in research",,,,"Engage citizens in scientific and research activities and promote their contribution in terms of knowledge, time or resources invested.",released,2024-02-29T16:10:45.52Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,essential,http://data.europa.eu/esco/skill/ff64e9fc-36dd-4035-872a-83aa41dc1ad9,communicate with a non-scientific audience,skill/competence,cross-sector,"engage in public awareness of research
+communicate scientific results to the public
+support public understanding of science findings
+communicate publicly about scientific findings",,,,"Communicate about scientific findings to a non-scientific audience, including the general public. Tailor the communication of scientific concepts, debates, findings to the audience, using a variety of methods for different target groups, including visual presentations.",released,2021-04-09T07:47:30.899Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f,computer simulation,knowledge,cross-sector,"simulation software ANSYS
+computer-based simulation",,,,"A programme run on a computer that represents dynamic responses of a system to explore a mathematical model behaviour, using a model of a real system, composed of mathematical equations.",released,2025-04-11T13:04:46.998Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/11c56452-fcec-4b00-9695-cca4728e5048,marketing analytics,knowledge,cross-sector,marketing data analytics,,,,The set of processes for employing data to improve the effectiveness of marketing activities. It involves analysing metrics such as the Return on Investment (ROI) for identify opportunities of improvement.,released,2023-11-29T16:23:45.855Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c,business intelligence,knowledge,cross-sector,"business analytics
+BI
+business intelligence tools",,,,The tools used to transform large amounts of raw data into relevant and helpful business information.,released,2025-06-25T08:20:05.218Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5,MDX,knowledge,sector-specific,MultiDimensional eXpressions,,,,The computer language MDX is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft.,released,2024-02-09T17:29:14.494Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a,social network analysis,knowledge,cross-sector,social network analysis methods,,,,The research method that is mainly explored in sociology and communication science and focuses on the analysis of the relations between individuals and among organisations and states.,released,2023-11-03T09:56:01.053Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1,XQuery,knowledge,sector-specific,XQuery language,"XQuery 3.0
+XQuery 1.0",,,The computer language XQuery is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium.,released,2023-06-09T15:22:49.234Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213,image recognition,knowledge,cross-sector,"image interpretation
+image detection
+visual recognition
+visual detection",,,,"A process designed to detect and identify a feature or object in an image or video. This process is used in medical imaging, security surveillance or defect detection, among other fields. Key technique for a wide range of applications such as automated driving, image classification, or visual inspection.",released,2023-11-29T16:28:36.358Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b,scientific computing,knowledge,cross-sector,"computational science
+scientific computation",,,,"The interdisciplinary field between computer science, mathematics and engineering. It concerns the employment of technical approaches and theoretical frameworks, and the use of computers, to address issues in science and engineering.",released,2023-11-29T16:24:35.284Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3,SPARQL,knowledge,sector-specific,SPARQL Protocol and RDF Query Language,,,,The computer language SPARQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium.,released,2024-02-09T17:29:09.009Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb,research design,knowledge,cross-sector,research design methods,,,,"The set of methods and techniques of research that are used to conduct a study. It includes practical steps in research such as purpose statement, data collection, methodology, and data analysis.",released,2024-07-03T13:27:58.973Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digital curation,knowledge,occupation-specific,digital research curation,,,,"The field that deals with maintaining, preserving and adding value to digital research.",released,2023-11-29T16:25:12.512Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9,business analytics,knowledge,sector-specific,business data analytics,,,,The disciplines and technologies for solving business problems through employing quantitative methods such as data analysis and statistical models.,released,2023-10-30T09:05:55.056Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b,multidisciplinary research,knowledge,cross-sector,multidisciplinary research methods,,,,The research technique where a common issue is investigated using approaches from different disciplines with the aim of finding a comprehensive solution to it.,released,2024-01-29T11:25:54.857Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/a1eef0f4-133f-464a-a8f1-68fe3e8cc1b4,healthcare analytics,knowledge,sector-specific,"health care data analytics
+health care analytics
+health data analytics
+healthcare data analytics",,,,"The use of qualitative and quantitative methods to analyse patterns in healthcare data to the aim of improving healthcare administration, quality in patient care and diseases diagnosis.",released,2024-01-29T11:19:02.606Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08,LDAP,knowledge,sector-specific,Lightweight Directory Access Protocol,"LDAP 2
+LADAP 3",,,The computer language LDAP is a query language for retrieval of information from a database and of documents containing the needed information.,released,2023-06-08T16:20:21.277Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666,unstructured data,knowledge,sector-specific,types of unstructured data,,,,The information that is not arranged in a pre-defined manner or does not have a pre-defined data model and is difficult to understand and find patterns in without using techniques such as data mining.,released,2025-04-16T12:01:10.304Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e,LINQ,knowledge,sector-specific,Language Integrated Query,,,,The computer language LINQ is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft.,released,2024-02-09T17:29:16.725Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700,data quality assessment,knowledge,sector-specific,"data quality analysis
+analyse data quality",,,,"The process of revealing data issues using ​quality indicators, measures and metrics in order to plan data cleansing and data enrichment strategies according to data quality criteria.",released,2024-02-09T17:29:12.952Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8,state estimation,knowledge,cross-sector,"state inference
+energy state estimation
+state estimation and prediction",,,,The process of fusing input data measurements and a mathematical model to determine the internal state of an energy system.,released,2023-10-26T10:18:56.934Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/e46291c7-52b9-4174-bd59-178884861038,Hadoop,knowledge,sector-specific,Apache Hadoop,,,,"The open-source data storing, analysis and processing framework which consists mainly in the MapReduce and Hadoop distributed file system (HDFS) components and it is used to provide support for managing and analysing large datasets.",released,2025-06-25T08:20:05.218Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8,computational biology,knowledge,sector-specific,biological computing,,,,The interdisciplinary scientific field that focus on employing data analytics and theories to investigate biological systems obtained through experiments.,released,2023-11-29T16:24:23.882Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794,N1QL,knowledge,sector-specific,"Couchbase Query Language
+Non-first Normal Form Query Language",,,,The computer language N1QL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Couchbase.,released,2024-02-09T17:29:16.725Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d,manage ICT data classification,skill/competence,sector-specific,"lead ICT data classification responsabilities
+organise ICT data classification responsibilities",,,,Oversee the classification system an organisation uses to organise its data. Assign an owner to each data concept or bulk of concepts and determine the value of each item of data.,released,2025-06-25T12:15:04.406Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,skill/competence,cross-sector,"Google Sheets
+PlanMaker
+Gnumeric
+OxygenOffice Professional Calc
+ResolverOne
+ThinkFree Office Calc
+CellPro
+Simple Spreadsheet
+Corel Calculate
+MS Excel
+wikiCalc
+Calligra Sheets
+QT Calc Express
+Lotus 1-2-3
+Quantrix Modeler
+Dolphinity Planner
+Kingsoft Spreadsheet
+Sheetster
+Accel Spreadsheet
+LibreOffice Calc
+Microsoft Office Excel
+use spreadsheets program
+IBM Lotus Symphony Spreadsheets
+Household Budget Worksheet
+design spreadsheets
+Myrtle
+Ability Office Spreadsheet
+DhtmlxSpreadsheet
+OOo4Kids Calc
+Lotus Improv
+Sphygmic Software Spreadsheet
+Zoho Sheet","Gnumeric
+ThinkFree Office Calc
+Corel Calculate
+Lotus 1-2-3
+Kingsoft Spreadsheet
+ResolverOne
+Sheetster
+Dolphinity Planner
+OOo4Kids Calc
+Zoho Sheet
+Household Budget Worksheet
+Microsoft Office Excel
+Myrtle
+Google Sheets
+PlanMaker
+Lotus Improv
+LibreOffice Calc
+IBM Lotus Symphony Spreadsheets
+Calligra Sheets
+Accel Spreadsheet
+Sphygmic Software Spreadsheet
+DhtmlxSpreadsheet
+QT Calc Express
+Quantrix Modeler
+Ability Office Spreadsheet
+OxygenOffice Professional Calc
+wikiCalc
+Simple Spreadsheet
+CellPro",,,"Use software tools to create and edit tabular data to carry out mathematical calculations, organise data and information, create diagrams based on data and to retrieve them.",released,2025-04-16T09:58:38.25Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278,perform data mining,skill/competence,sector-specific,"mine data
+use model data",,Includes activities on big data.,,"Explore large datasets to reveal patterns using statistics, database systems or artificial intelligence and present the information in a comprehensible way.",released,2024-02-09T17:29:15.968Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc,integrate ICT data,skill/competence,sector-specific,combine ICT data,,,,Combine data from sources to provide unified view of the set of these data.,released,2025-06-25T12:15:04.406Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/4cd85845-f31c-4306-994d-e12d45114d83,teach in academic or vocational contexts,skill/competence,cross-sector,"instruct in educational or vocational settings
+provide instruction in academic or vocational domains
+teach students in academic or vocational contexts",,,,"Instruct students in the theory and practice of academic or vocational subjects, transferring the content of own and others' research activities.",released,2024-03-01T12:03:40.044Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956,manage ICT data architecture,skill/competence,sector-specific,define enterprise data architecture,,,,"Oversee regulations and use ICT techniques to define the information systems architecture and to control data gathering, storing, consolidation, arrangement and usage in an organisation.",released,2024-02-09T17:29:16.725Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4,define data quality criteria,skill/competence,sector-specific,"specify data quality criteria
+set data quality benchmarks",,,,"Specify the criteria by which data quality is measured for business purposes, such as inconsistencies, incompleteness, usability for purpose and accuracy.",released,2025-06-25T12:15:04.406Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15,design database in the cloud,skill/competence,sector-specific,"apply design principles for cloud data architecture
+develop cloud database design
+apply design principles for cloud database design
+design automated cloud databases
+design cloud data architecture",,,,"Apply design principles for an adaptive, elastic, automated, loosely coupled databases making use of cloud infrastructure. Aim to remove any single point of failure through distributed database design.",released,2024-02-26T09:55:44.119Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f,manage data,skill/competence,sector-specific,"administer data
+data administration
+manage data lifecycle
+operate data quality tools
+data resource management",,,,"Administer all types of data resources through their lifecycle by performing data profiling, parsing, standardisation, identity resolution, cleansing, enhancement and auditing. Ensure the data is fit for purpose, using specialised ICT tools to fulfil the data quality criteria.",released,2025-05-16T14:42:49.886Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/b363bb5f-2c79-40af-94da-33e06f9dee9f,apply blended learning,skill/competence,cross-sector,"combine face-to-face and online learning
+integrate blended learning
+implement mixed learning approaches
+employ blended learning
+implement blended learning",,,,"Be familiar with blended learning tools by combining traditional face-to-face and online learning, using digital tools, online technologies, and e-learning methods.",released,2024-03-01T11:32:09.941Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562,make data-driven decisions,skill/competence,cross-sector,take decisions based on data,,,,Collect data such as Key Performance Indicators (KPIs) for an organisation and use the information to formulate actions and strategies.,released,2023-10-26T09:58:48.512Z
+Data Scientist,http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,optional,http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779,create data models,skill/competence,sector-specific,manage data models,,,,"Use specific techniques and methodologies to analyse the data requirements of an organisation's business processes in order to create models for these data, such as conceptual, logical and physical models. These models have a specific structure and format.",released,2024-02-09T17:29:12.215Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a,digital data processing,,,"electronic data processing
+processing of data digitally
+data processing
+paperless data processing",,,,"Identify, locate, retrieve, store, organise and analyse digital information, judging its relevance and purpose.",released,2025-02-27T12:45:08.961Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339,information structure,knowledge,sector-specific,"data structuring methods
+types of data infrastructure
+data infrastructure",,,,"The type of infrastructure which defines the format of data: semi-structured, unstructured and structured.",released,2025-06-25T08:20:05.218Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c,business intelligence,knowledge,cross-sector,"business analytics
+BI
+business intelligence tools",,,,The tools used to transform large amounts of raw data into relevant and helpful business information.,released,2025-06-25T08:20:05.218Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180,data mining,knowledge,sector-specific,data scraping,,,,"The methods of artificial intelligence, machine learning, statistics and databases used to extract content from a dataset.",released,2025-06-25T08:20:05.218Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f,documentation types,knowledge,sector-specific,"documentation types of product life cycle
+internal documentation types of product life cycle
+internal documentation types
+technical documentation types
+external documentation types",,,,The characteristics of internal and external documentation types aligned with the product life cycle and their specific content types.,released,2025-06-25T08:20:05.218Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213,visual presentation techniques,knowledge,sector-specific,"Infoviz
+information visualisation
+visualization interface
+Infovis
+information visualization",Prezi,,,"The visual representation and interaction techniques, such as histograms, scatter plots, surface plots, tree maps and parallel coordinate plots, that can be used to present abstract numerical and non-numerical data, in order to reinforce the human understanding of this information.",released,2025-02-27T12:45:08.961Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,data engineering,knowledge,cross-sector,data engineering methods,,,,The process of developing and constructing systems for implementing data collection and analysis at large scale.,released,2023-11-29T16:26:35.334Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,knowledge,cross-sector,data presentation software,"Microsoft Power BI
+ggplot2
+Power BI
+Tableau",,,"A computer tool or application that creates a graphical and visual representation of data, allowing a better understanding and interpretation of complex data through visual elements such as maps, charts, infographics or graphs.",released,2023-11-29T16:28:10.548Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec,information extraction,knowledge,sector-specific,information extraction techniques,,,,The techniques and methods used for eliciting and extracting information from unstructured or semi-structured digital documents and sources.,released,2025-06-25T08:20:05.218Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833,statistics,knowledge,cross-sector,"experimental data
+use of data in performance of work
+use of statistics
+organisation of data
+data analysis
+survey data
+use of statistics in performance of work
+data collection
+stats
+data work
+big data
+metadata
+statistical analysis
+use of data
+administrative data",,,,"The study of statistical theory, methods and practices such as collection, organisation, analysis, interpretation and presentation of data. It deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments in order to forecast and plan work-related activities.",released,2025-04-16T11:50:25.475Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6,information categorisation,knowledge,sector-specific,"design of information structures
+information classification",,,,The process of classifying the information into categories and showing relationships between the data for some clearly defined purposes.,released,2025-06-25T08:20:05.218Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9,business analytics,knowledge,sector-specific,business data analytics,,,,The disciplines and technologies for solving business problems through employing quantitative methods such as data analysis and statistical models.,released,2023-10-30T09:05:55.056Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806,resource description framework query language,knowledge,sector-specific,"RDF query language
+SPARQL",,,,The query languages such as SPARQL which are used to retrieve and manipulate data stored in Resource Description Framework format (RDF).,released,2024-02-09T17:29:15.235Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586,query languages,knowledge,sector-specific,"DMX
+SuprTool
+OttoQL
+XPath
+QUEL
+ISBL
+.QL
+F-logic
+SPL
+FQL
+OPath
+MQL
+Poliqarp
+HTSQL
+YQL
+Gellish
+XSPARQL
+Concept-Oriented
+TMQL
+RDQL
+OCL
+OQL
+CQLF
+ReQL
+Datalog","DMX
+RDQL
+XPath
+OttoQL
+ISBL
+Gellish
+OQL
+MQL
+YQL
+Poliqarp
+.QL
+Datalog
+F-logic
+XSPARQL
+CQLF
+OCL
+ReQL
+SPL
+QUEL
+OPath
+TMQL
+SuprTool
+HTSQL
+Concept-Oriented
+FQL",,,The field of standardised computer languages for retrieval of information from a database and of documents containing the needed information.,released,2025-02-27T12:45:08.961Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db,information confidentiality,knowledge,sector-specific,"data confidentiality
+consumer data privacy
+data access control",,,,"The mechanisms and regulations which allow for selective access control and guarantee that only authorised parties (people, processes, systems and devices) have access to data, the way to comply with confidential information and the risks of non-compliance.",released,2024-02-09T17:29:12.215Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666,unstructured data,knowledge,sector-specific,types of unstructured data,,,,The information that is not arranged in a pre-defined manner or does not have a pre-defined data model and is difficult to understand and find patterns in without using techniques such as data mining.,released,2025-04-16T12:01:10.304Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700,data quality assessment,knowledge,sector-specific,"data quality analysis
+analyse data quality",,,,"The process of revealing data issues using ​quality indicators, measures and metrics in order to plan data cleansing and data enrichment strategies according to data quality criteria.",released,2024-02-09T17:29:12.952Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92,data ethics,knowledge,cross-sector,principles of data ethics,,,,"The subfield of ethics that assess whether data practices are considerable ethical. It assesses processes such as collecting, analysing and disseminating structured and unstructured data that might negatively impact the society.",released,2024-01-29T11:16:01.318Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01,data science,knowledge,cross-sector,"data science process
+science of data",,,,The field of study that deals with big amount of data using AI techniques such as machine learning algorithms to predict patterns and obtain useful information to make business decisions.,released,2023-11-29T16:23:08.607Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,data models,knowledge,sector-specific,data modelling,,,,"The techniques and existing systems used for structuring data elements and showing relationships between them, as well as methods for interpreting the data structures and relationships.",released,2025-06-25T08:20:05.218Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc,normalise data,skill/competence,sector-specific,"prepare data
+normalize data
+perform data pre-processing",,,,"Reduce data to their accurate core form (normal forms) in order to achieve such results as minimisation of dependency, elimination of redundancy, increase of consistency.",released,2022-07-05T14:38:14.9Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522,use data processing techniques,skill/competence,cross-sector,"use a data processing technique
+apply data processing technique
+make use of data processing techniques
+utilize data processing techniques
+gather and analyse data",,,,"Gather, process and analyse relevant data and information, properly store and update data and represent figures and data using charts and statistical diagrams.",released,2024-02-09T17:29:13.7Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29,interpret current data,skill/competence,cross-sector,examine current data,,,,"Analyse data gathered from sources such as market data, scientific papers, customer requirements and questionnaires which are current and up-to-date in order to assess development and innovation in areas of expertise.",released,2025-06-25T12:15:04.406Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec,establish data processes,skill/competence,sector-specific,"develop data processes
+implement data processes",,,,"Use ICT tools to apply mathematical, algorithmic or other data manipulation processes in order to create information.",released,2024-02-09T17:29:16.725Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c,execute analytical mathematical calculations,skill/competence,cross-sector,apply analytical mathematical methods,,,,Apply mathematical methods and make use of calculation technologies in order to perform analyses and devise solutions to specific problems.,released,2025-06-25T12:15:04.406Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c,apply statistical analysis techniques,skill/competence,cross-sector,"apply numerical analysis to data
+apply JMP statistical analysis techniques
+apply minitab statistical analysis techniques",,,,"Use models (descriptive or inferential statistics) and techniques (data mining or machine learning) for statistical analysis and ICT tools to analyse data, uncover correlations and forecast trends.",released,2025-04-11T12:49:54.827Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278,perform data mining,skill/competence,sector-specific,"mine data
+use model data",,Includes activities on big data.,,"Explore large datasets to reveal patterns using statistics, database systems or artificial intelligence and present the information in a comprehensible way.",released,2024-02-09T17:29:15.968Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,use databases,skill/competence,cross-sector,"use database management systems
+use database software
+apply databases
+use data bases
+use Dbs
+able to use using databases
+use database
+utilise databases
+make use of databases",,,,"Use software tools for managing and organising data in a structured environment which consists of attributes, tables and relationships in order to query and modify the stored data.",released,2024-02-09T17:29:09.009Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc,integrate ICT data,skill/competence,sector-specific,combine ICT data,,,,Combine data from sources to provide unified view of the set of these data.,released,2025-06-25T12:15:04.406Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5,analyse big data,skill/competence,cross-sector,"analyze big data
+scrutinise big data
+big data analysis
+investigate big data
+search big data
+test big data
+analysing big data
+big data analysing",,,,"Collect and evaluate numerical data in large quantities, especially for the purpose of identifying patterns between the data.",released,2022-07-05T14:37:59.932Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e,handle data samples,skill/competence,cross-sector,"collect data samples
+manage data samples
+handle data samples for statistical purposes",,,,Collect and select a set of data from a population by a statistical or other defined procedure.,released,2025-06-25T12:15:04.406Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8,perform data cleansing,skill/competence,cross-sector,"complete data cleansing
+performing data cleansing
+undertake data cleansing
+perform a data cleanse
+data cleansing performance
+implement data cleansing",,,,"Detect and correct corrupt records from data sets, ensure that the data become and remain structured according to guidelines.",released,2024-02-09T17:29:16.725Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4,define data quality criteria,skill/competence,sector-specific,"specify data quality criteria
+set data quality benchmarks",,,,"Specify the criteria by which data quality is measured for business purposes, such as inconsistencies, incompleteness, usability for purpose and accuracy.",released,2025-06-25T12:15:04.406Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5,implement data quality processes,skill/competence,cross-sector,verify data,,,,"Apply quality analysis, validation and verification techniques on data to check data quality integrity.",released,2024-02-09T17:29:10.678Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a,collect ICT data,skill/competence,cross-sector,"obtain digital data
+gather digital data; obtain digital data
+gather digital data
+collect digital data",,,,Gather data by designing and applying search and sampling methods.,released,2025-11-26T10:19:14.155Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,essential,http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f,manage data,skill/competence,sector-specific,"administer data
+data administration
+manage data lifecycle
+operate data quality tools
+data resource management",,,,"Administer all types of data resources through their lifecycle by performing data profiling, parsing, standardisation, identity resolution, cleansing, enhancement and auditing. Ensure the data is fit for purpose, using specialised ICT tools to fulfil the data quality criteria.",released,2025-05-16T14:42:49.886Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/11c56452-fcec-4b00-9695-cca4728e5048,marketing analytics,knowledge,cross-sector,marketing data analytics,,,,The set of processes for employing data to improve the effectiveness of marketing activities. It involves analysing metrics such as the Return on Investment (ROI) for identify opportunities of improvement.,released,2023-11-29T16:23:45.855Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2,web analytics,knowledge,cross-sector,,Google Analytics,,,"The characteristics, tools and techniques for measurement, collection, analysis and reporting of web data to get information on the users' behaviour and to improve the performance of a website.",released,2025-02-27T12:45:08.961Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5,MDX,knowledge,sector-specific,MultiDimensional eXpressions,,,,The computer language MDX is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft.,released,2024-02-09T17:29:14.494Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4,information architecture,knowledge,sector-specific,"data architecture
+information system design",,,,"The methods through which information is generated, structured, stored, maintained, linked, exchanged and used.",released,2025-06-25T08:20:05.218Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a,social network analysis,knowledge,cross-sector,social network analysis methods,,,,The research method that is mainly explored in sociology and communication science and focuses on the analysis of the relations between individuals and among organisations and states.,released,2023-11-03T09:56:01.053Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1,XQuery,knowledge,sector-specific,XQuery language,"XQuery 3.0
+XQuery 1.0",,,The computer language XQuery is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium.,released,2023-06-09T15:22:49.234Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576,database,knowledge,cross-sector,"non-relational database
+types of databases
+relational database",,,,"The classification of databases, that includes their purpose, characteristics, terminology, models and use such as XML databases, document-oriented databases and full text databases.",released,2025-02-27T12:45:08.961Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213,image recognition,knowledge,cross-sector,"image interpretation
+image detection
+visual recognition
+visual detection",,,,"A process designed to detect and identify a feature or object in an image or video. This process is used in medical imaging, security surveillance or defect detection, among other fields. Key technique for a wide range of applications such as automated driving, image classification, or visual inspection.",released,2023-11-29T16:28:36.358Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3,SPARQL,knowledge,sector-specific,SPARQL Protocol and RDF Query Language,,,,The computer language SPARQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium.,released,2024-02-09T17:29:09.009Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22,statistical modeling techniques,knowledge,sector-specific,statistical modeling,,,,The approaches for employing statistical analysis to dataset within the data science field. It seeks to elaborate reality predictions through statistical models and explicit assumptions.,released,2023-10-30T10:14:30.511Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb,research design,knowledge,cross-sector,research design methods,,,,"The set of methods and techniques of research that are used to conduct a study. It includes practical steps in research such as purpose statement, data collection, methodology, and data analysis.",released,2024-07-03T13:27:58.973Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d,game theory,knowledge,cross-sector,"conflict resolution theory
+game theory for blockchain
+rational choice theory
+interactive decision theory",,,,"The study of mathematical models of strategic decisions among stakeholders. It has applications in all fields of social science, as well as in systems science, computer science and logic. Essential concepts are the Nash Equilibrium and the Prisoner's Dilemma.",released,2023-10-26T16:28:01.128Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b,multidisciplinary research,knowledge,cross-sector,multidisciplinary research methods,,,,The research technique where a common issue is investigated using approaches from different disciplines with the aim of finding a comprehensive solution to it.,released,2024-01-29T11:25:54.857Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/a1eef0f4-133f-464a-a8f1-68fe3e8cc1b4,healthcare analytics,knowledge,sector-specific,"health care data analytics
+health care analytics
+health data analytics
+healthcare data analytics",,,,"The use of qualitative and quantitative methods to analyse patterns in healthcare data to the aim of improving healthcare administration, quality in patient care and diseases diagnosis.",released,2024-01-29T11:19:02.606Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08,LDAP,knowledge,sector-specific,Lightweight Directory Access Protocol,"LDAP 2
+LADAP 3",,,The computer language LDAP is a query language for retrieval of information from a database and of documents containing the needed information.,released,2023-06-08T16:20:21.277Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/a7f0fbe0-c546-4f30-8e41-34a58c64567e,data storage,knowledge,sector-specific,file hosting service,"One Drive
+Dropbox",,,"The physical and technical concepts of how digital data storage is organised in specific schemes both locally, such as hard-drives and random-access memories (RAM) and remotely, via network, internet or cloud.",released,2023-07-11T18:15:12.722Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a,online analytical processing,knowledge,sector-specific,"OLAP databases
+Cube databases
+OLAP",,,,"The online tools which analyse, aggregate and present multi-dimensional data enabling users to interactively and selectively extract and view data from specific points of view.",released,2024-02-09T17:29:15.235Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0,cloud technologies,knowledge,sector-specific,"cloud computing
+edge computing",AWS,,,"The technologies which enable access to hardware, software, data and services through remote servers and software networks irrespective of their location and architecture.",released,2025-02-27T12:45:08.961Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e,LINQ,knowledge,sector-specific,Language Integrated Query,,,,The computer language LINQ is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft.,released,2024-02-09T17:29:16.725Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/e46291c7-52b9-4174-bd59-178884861038,Hadoop,knowledge,sector-specific,Apache Hadoop,,,,"The open-source data storing, analysis and processing framework which consists mainly in the MapReduce and Hadoop distributed file system (HDFS) components and it is used to provide support for managing and analysing large datasets.",released,2025-06-25T08:20:05.218Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794,N1QL,knowledge,sector-specific,"Couchbase Query Language
+Non-first Normal Form Query Language",,,,The computer language N1QL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Couchbase.,released,2024-02-09T17:29:16.725Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/0c766ca3-9364-4203-916b-fed16e4814c1,gather data for forensic purposes,skill/competence,sector-specific,"compile data for forensic purposes
+collect data for forensic purposes",,,,"Collect protected, fragmented or corrupted data and other online communication. Document and present findings from this process.",released,2025-06-25T12:15:04.406Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,skill/competence,cross-sector,"Google Sheets
+PlanMaker
+Gnumeric
+OxygenOffice Professional Calc
+ResolverOne
+ThinkFree Office Calc
+CellPro
+Simple Spreadsheet
+Corel Calculate
+MS Excel
+wikiCalc
+Calligra Sheets
+QT Calc Express
+Lotus 1-2-3
+Quantrix Modeler
+Dolphinity Planner
+Kingsoft Spreadsheet
+Sheetster
+Accel Spreadsheet
+LibreOffice Calc
+Microsoft Office Excel
+use spreadsheets program
+IBM Lotus Symphony Spreadsheets
+Household Budget Worksheet
+design spreadsheets
+Myrtle
+Ability Office Spreadsheet
+DhtmlxSpreadsheet
+OOo4Kids Calc
+Lotus Improv
+Sphygmic Software Spreadsheet
+Zoho Sheet","Gnumeric
+ThinkFree Office Calc
+Corel Calculate
+Lotus 1-2-3
+Kingsoft Spreadsheet
+ResolverOne
+Sheetster
+Dolphinity Planner
+OOo4Kids Calc
+Zoho Sheet
+Household Budget Worksheet
+Microsoft Office Excel
+Myrtle
+Google Sheets
+PlanMaker
+Lotus Improv
+LibreOffice Calc
+IBM Lotus Symphony Spreadsheets
+Calligra Sheets
+Accel Spreadsheet
+Sphygmic Software Spreadsheet
+DhtmlxSpreadsheet
+QT Calc Express
+Quantrix Modeler
+Ability Office Spreadsheet
+OxygenOffice Professional Calc
+wikiCalc
+Simple Spreadsheet
+CellPro",,,"Use software tools to create and edit tabular data to carry out mathematical calculations, organise data and information, create diagrams based on data and to retrieve them.",released,2025-04-16T09:58:38.25Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/57231a22-4da7-49c8-97b8-75672feadf1e,manage quantitative data,skill/competence,cross-sector,"gather data
+manage data quantitatively
+organise data
+handle numerical data
+process data
+present data
+interpret data
+managing quantitative data",,"Excludes <a resource=""http://data.europa.eu/esco/skill/9af1bd12-01bd-4d6a-947b-69e64f23150a"" typeOf=""http://data.europa.eu/esco/model#Skill"" href=""http://data.europa.eu/esco/skill/9af1bd12-01bd-4d6a-947b-69e64f23150a""><span property=""http://www.w3.org/2000/01/rdf-schema#label"" xml:lang=""en"">process qualitative information</span></a>.",,"Gather, process and present quantitative data. Use the appropriate programs and methods for validating, organising and interpreting data.",released,2024-02-09T17:29:13.7Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/611ed16b-99bf-4840-9cab-f55d1d286e0a,store digital data and systems,skill/competence,cross-sector,"store systems and digital data
+backup digital data and systems
+cache digital data and systems
+use data and systems archiving procedures
+back up data
+archive digital data and systems
+use data and systems archiving tools
+storing digital data and systems
+store digital data and system
+restore data",,,,"Use software tools to archive data by copying and backing them up, in order to ensure their integrity and to prevent data loss.",released,2024-02-09T17:29:09.009Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757,manage data collection systems,skill/competence,sector-specific,oversee data collection methods,,,,"Develop and manage methods and strategies used to maximise data quality and statistical efficiency in the collection of data, in order to ensure the gathered data are optimised for further processing.",released,2025-06-25T08:45:06.159Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562,make data-driven decisions,skill/competence,cross-sector,take decisions based on data,,,,Collect data such as Key Performance Indicators (KPIs) for an organisation and use the information to formulate actions and strategies.,released,2023-10-26T09:58:48.512Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389,deliver visual presentation of data,skill/competence,cross-sector,"create data visualisation
+visualise data",,,,Create visual representations of data such as charts or diagrams for easier understanding.,released,2024-02-09T17:29:14.494Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817,report analysis results,skill/competence,cross-sector,use data reporting,,,,"Produce research documents or give presentations to report the results of a conducted research and analysis project, indicating the analysis procedures and methods which led to the results, as well as potential interpretations of the results.",released,2024-02-09T17:29:14.494Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963,manage cloud data and storage,skill/competence,sector-specific,"manage cloud data encryption
+manage cloud data retention
+cloud storage and data management
+implement cloud data protection
+create cloud data retention",,,,"Create and manage cloud data retention. Identify and implement data protection, encryption, and capacity planning needs.",released,2024-02-23T09:02:38.545Z
+Data Analyst,http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,optional,http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779,create data models,skill/competence,sector-specific,manage data models,,,,"Use specific techniques and methodologies to analyse the data requirements of an organisation's business processes in order to create models for these data, such as conceptual, logical and physical models. These models have a specific structure and format.",released,2024-02-09T17:29:12.215Z

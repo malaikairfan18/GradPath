@@ -1,0 +1,165 @@
+GradPath Role,Mapping Type,O*NET-SOC Code,Title,Element ID,Element Name,Scale ID,Scale Name,Data Value,Recommend Suppress,Not Relevant,Date,Domain Source
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.a.1,Getting Information,IM,Importance,4.5,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.a.1,Getting Information,LV,Level,5.41,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",IM,Importance,2.76,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",LV,Level,3.29,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.b.1,"Identifying Objects, Actions, and Events",IM,Importance,3.91,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.b.1,"Identifying Objects, Actions, and Events",LV,Level,4.73,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",IM,Importance,1.23,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",LV,Level,0.55,,Y,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",IM,Importance,3.27,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",LV,Level,3.82,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",IM,Importance,2.91,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",LV,Level,3.76,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.a.2,Processing Information,IM,Importance,4.64,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.a.2,Processing Information,LV,Level,5.73,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,IM,Importance,3.24,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,LV,Level,3.68,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.a.4,Analyzing Data or Information,IM,Importance,4.73,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.a.4,Analyzing Data or Information,LV,Level,6.09,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.1,Making Decisions and Solving Problems,IM,Importance,3.82,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.1,Making Decisions and Solving Problems,LV,Level,4.59,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.2,Thinking Creatively,IM,Importance,3.77,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.2,Thinking Creatively,LV,Level,5.05,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.3,Updating and Using Relevant Knowledge,IM,Importance,4.05,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.3,Updating and Using Relevant Knowledge,LV,Level,5.36,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.4,Developing Objectives and Strategies,IM,Importance,3.05,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.4,Developing Objectives and Strategies,LV,Level,3.68,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.5,Scheduling Work and Activities,IM,Importance,2.77,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.5,Scheduling Work and Activities,LV,Level,3.55,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",IM,Importance,3.95,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",LV,Level,4.82,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.a.1,Performing General Physical Activities,IM,Importance,1.09,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.a.1,Performing General Physical Activities,LV,Level,0.09,,Y,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.a.2,Handling and Moving Objects,IM,Importance,1.09,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.a.2,Handling and Moving Objects,LV,Level,0.18,,Y,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.a.3,Controlling Machines and Processes,IM,Importance,1.05,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.a.3,Controlling Machines and Processes,LV,Level,0.09,,Y,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",IM,Importance,1.05,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",LV,Level,0.09,,Y,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.1,Working with Computers,IM,Importance,4.68,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.1,Working with Computers,LV,Level,4.86,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",IM,Importance,1.09,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",LV,Level,0.23,,Y,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,IM,Importance,1.0,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,LV,Level,0.0,,Y,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,IM,Importance,1.05,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,LV,Level,0.05,,Y,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.6,Documenting/Recording Information,IM,Importance,3.5,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.3.b.6,Documenting/Recording Information,LV,Level,3.95,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.1,Interpreting the Meaning of Information for Others,IM,Importance,4.55,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.1,Interpreting the Meaning of Information for Others,LV,Level,5.36,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",IM,Importance,4.23,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",LV,Level,5.23,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.3,Communicating with People Outside the Organization,IM,Importance,3.0,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.3,Communicating with People Outside the Organization,LV,Level,4.09,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,IM,Importance,3.64,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,LV,Level,4.55,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.5,Assisting and Caring for Others,IM,Importance,1.86,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.5,Assisting and Caring for Others,LV,Level,1.41,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.6,Selling or Influencing Others,IM,Importance,2.41,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.6,Selling or Influencing Others,LV,Level,2.55,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,IM,Importance,2.55,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,LV,Level,3.18,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.8,Performing for or Working Directly with the Public,IM,Importance,1.59,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.a.8,Performing for or Working Directly with the Public,LV,Level,1.27,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.1,Coordinating the Work and Activities of Others,IM,Importance,2.73,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.1,Coordinating the Work and Activities of Others,LV,Level,3.41,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.2,Developing and Building Teams,IM,Importance,2.68,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.2,Developing and Building Teams,LV,Level,3.09,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.3,Training and Teaching Others,IM,Importance,2.95,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.3,Training and Teaching Others,LV,Level,4.0,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",IM,Importance,2.68,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",LV,Level,3.41,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.5,Coaching and Developing Others,IM,Importance,2.95,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.5,Coaching and Developing Others,LV,Level,4.14,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.6,Providing Consultation and Advice to Others,IM,Importance,3.41,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.b.6,Providing Consultation and Advice to Others,LV,Level,4.86,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.c.1,Performing Administrative Activities,IM,Importance,2.5,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.c.1,Performing Administrative Activities,LV,Level,2.82,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.c.2,Staffing Organizational Units,IM,Importance,1.9,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.c.2,Staffing Organizational Units,LV,Level,2.23,,N,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.c.3,Monitoring and Controlling Resources,IM,Importance,2.09,,,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,4.A.4.c.3,Monitoring and Controlling Resources,LV,Level,2.14,,N,08/2024,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.a.1,Getting Information,IM,Importance,4.33,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.a.1,Getting Information,LV,Level,5.2,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",IM,Importance,2.92,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",LV,Level,3.72,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.b.1,"Identifying Objects, Actions, and Events",IM,Importance,3.71,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.b.1,"Identifying Objects, Actions, and Events",LV,Level,4.52,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",IM,Importance,1.83,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",LV,Level,1.56,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",IM,Importance,3.22,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",LV,Level,3.96,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",IM,Importance,2.12,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",LV,Level,2.32,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.a.2,Processing Information,IM,Importance,4.71,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.a.2,Processing Information,LV,Level,6.32,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,IM,Importance,2.7,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,LV,Level,3.0,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.a.4,Analyzing Data or Information,IM,Importance,4.83,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.a.4,Analyzing Data or Information,LV,Level,6.48,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.1,Making Decisions and Solving Problems,IM,Importance,4.33,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.1,Making Decisions and Solving Problems,LV,Level,5.32,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.2,Thinking Creatively,IM,Importance,3.83,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.2,Thinking Creatively,LV,Level,5.48,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.3,Updating and Using Relevant Knowledge,IM,Importance,4.33,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.3,Updating and Using Relevant Knowledge,LV,Level,6.04,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.4,Developing Objectives and Strategies,IM,Importance,3.21,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.4,Developing Objectives and Strategies,LV,Level,3.64,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.5,Scheduling Work and Activities,IM,Importance,2.79,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.5,Scheduling Work and Activities,LV,Level,3.44,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",IM,Importance,3.54,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",LV,Level,4.8,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.a.1,Performing General Physical Activities,IM,Importance,1.08,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.a.1,Performing General Physical Activities,LV,Level,0.16,,Y,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.a.2,Handling and Moving Objects,IM,Importance,1.24,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.a.2,Handling and Moving Objects,LV,Level,0.6,,Y,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.a.3,Controlling Machines and Processes,IM,Importance,1.29,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.a.3,Controlling Machines and Processes,LV,Level,0.54,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",IM,Importance,1.04,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",LV,Level,0.08,,Y,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.1,Working with Computers,IM,Importance,4.75,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.1,Working with Computers,LV,Level,4.92,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",IM,Importance,1.38,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",LV,Level,0.75,,Y,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,IM,Importance,1.04,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,LV,Level,0.08,,Y,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,IM,Importance,1.24,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,LV,Level,0.48,,Y,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.6,Documenting/Recording Information,IM,Importance,3.88,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.3.b.6,Documenting/Recording Information,LV,Level,4.6,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.1,Interpreting the Meaning of Information for Others,IM,Importance,4.48,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.1,Interpreting the Meaning of Information for Others,LV,Level,5.52,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",IM,Importance,4.0,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",LV,Level,4.92,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.3,Communicating with People Outside the Organization,IM,Importance,2.56,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.3,Communicating with People Outside the Organization,LV,Level,3.2,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,IM,Importance,3.08,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,LV,Level,4.08,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.5,Assisting and Caring for Others,IM,Importance,1.71,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.5,Assisting and Caring for Others,LV,Level,1.32,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.6,Selling or Influencing Others,IM,Importance,2.36,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.6,Selling or Influencing Others,LV,Level,2.68,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,IM,Importance,2.04,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,LV,Level,2.64,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.8,Performing for or Working Directly with the Public,IM,Importance,1.32,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.a.8,Performing for or Working Directly with the Public,LV,Level,0.72,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.1,Coordinating the Work and Activities of Others,IM,Importance,2.8,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.1,Coordinating the Work and Activities of Others,LV,Level,3.56,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.2,Developing and Building Teams,IM,Importance,2.72,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.2,Developing and Building Teams,LV,Level,3.16,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.3,Training and Teaching Others,IM,Importance,2.8,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.3,Training and Teaching Others,LV,Level,3.88,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",IM,Importance,2.48,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",LV,Level,3.56,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.5,Coaching and Developing Others,IM,Importance,2.5,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.5,Coaching and Developing Others,LV,Level,3.68,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.6,Providing Consultation and Advice to Others,IM,Importance,3.6,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.b.6,Providing Consultation and Advice to Others,LV,Level,5.08,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.c.1,Performing Administrative Activities,IM,Importance,2.04,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.c.1,Performing Administrative Activities,LV,Level,2.16,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.c.2,Staffing Organizational Units,IM,Importance,2.12,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.c.2,Staffing Organizational Units,LV,Level,2.96,,N,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.c.3,Monitoring and Controlling Resources,IM,Importance,1.88,,,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,4.A.4.c.3,Monitoring and Controlling Resources,LV,Level,1.84,,N,08/2026,Occupational Expert

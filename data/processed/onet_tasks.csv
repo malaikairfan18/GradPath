@@ -1,0 +1,34 @@
+GradPath Role,Mapping Type,O*NET-SOC Code,Title,Task ID,Task,Task Type,Incumbents Responding,Date,Domain Source
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16150,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16139,"Maintain or update business intelligence tools, databases, dashboards, systems, or methods.",Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16140,Manage timely flow of business intelligence information to users.,Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16134,"Provide technical support for existing reports, dashboards, or other tools.",Core,21.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16141,Identify and analyze industry or geographic trends with business strategy implications.,Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16142,"Document specifications for business intelligence or information technology reports, dashboards, or other outputs.",Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16144,"Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",Core,21.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16146,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16143,"Disseminate information regarding tools, reports, or metadata enhancements.",Core,21.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16145,Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.,Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16149,Synthesize current business intelligence or trend data to support recommendations for action.,Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16148,"Analyze competitive market strategies through analysis of related product, market, or share trends.",Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16136,"Identify or monitor current and potential customers, using business intelligence tools.",Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16138,"Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16135,"Maintain library of model documents, templates, or other reusable knowledge assets.",Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16137,Create or review technical design documentation to ensure the accurate development of reporting solutions.,Core,22.0,08/2024,Occupational Expert
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,16147,Analyze technology trends to identify markets for future product development or to improve sales of existing products.,Core,22.0,08/2024,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21823,"Analyze, manipulate, or process large sets of data using statistical software.",Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21828,"Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software.",Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21837,"Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.",Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21829,Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users.,Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21836,Recommend data-driven solutions to key stakeholders.,Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21831,Identify business problems or management objectives that can be addressed through data analysis.,Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21827,"Compare models using statistical performance metrics, such as loss functions or proportion of explained variance.",Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21826,Clean and manipulate raw data using statistical software.,Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21833,"Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis.",Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21824,"Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use.",Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21832,Identify relationships and trends or any factors that could affect the results of research.,Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21838,Write new functions or applications in programming languages to conduct analyses.,Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21835,"Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies.",Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21834,"Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques.",Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21825,Apply sampling techniques to determine groups to be surveyed or use complete enumeration methods.,Core,24.0,08/2026,Occupational Expert
+Data Scientist,primary,15-2051.00,Data Scientists,21830,"Design surveys, opinion polls, or other instruments to collect data.",Supplemental,24.0,08/2026,Occupational Expert

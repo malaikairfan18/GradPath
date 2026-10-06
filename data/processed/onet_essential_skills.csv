@@ -1,41 +1,41 @@
-GradPath Role,O*NET-SOC Code,Title,Element ID,Element Name,Scale ID,Scale Name,Data Value,Recommend Suppress,Not Relevant,Date,Domain Source
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.a,Reading Comprehension,IM,Importance,4.0,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.a,Reading Comprehension,LV,Level,4.25,N,N,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.b,Active Listening,IM,Importance,3.88,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.b,Active Listening,LV,Level,4.0,N,N,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.c,Writing,IM,Importance,3.75,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.c,Writing,LV,Level,4.0,N,N,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.d,Speaking,IM,Importance,3.88,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.d,Speaking,LV,Level,4.0,N,N,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.e,Mathematics,IM,Importance,3.5,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.e,Mathematics,LV,Level,3.88,N,N,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.f,Science,IM,Importance,1.62,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.1.f,Science,LV,Level,0.75,N,N,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.2.a,Critical Thinking,IM,Importance,3.88,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.2.a,Critical Thinking,LV,Level,4.25,N,N,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.2.b,Active Learning,IM,Importance,3.88,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.2.b,Active Learning,LV,Level,4.12,N,N,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.2.c,Learning Strategies,IM,Importance,3.0,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.2.c,Learning Strategies,LV,Level,3.0,N,N,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.2.d,Monitoring,IM,Importance,3.12,N,,08/2024,Analyst
-Data Analyst,15-2051.01,Business Intelligence Analysts,2.A.2.d,Monitoring,LV,Level,3.25,N,N,08/2024,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.a,Reading Comprehension,IM,Importance,3.88,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.a,Reading Comprehension,LV,Level,4.62,N,N,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.b,Active Listening,IM,Importance,3.5,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.b,Active Listening,LV,Level,3.75,N,N,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.c,Writing,IM,Importance,3.5,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.c,Writing,LV,Level,4.12,N,N,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.d,Speaking,IM,Importance,3.62,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.d,Speaking,LV,Level,3.75,N,N,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.e,Mathematics,IM,Importance,4.38,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.e,Mathematics,LV,Level,5.0,N,N,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.f,Science,IM,Importance,2.5,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.1.f,Science,LV,Level,2.12,Y,N,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.2.a,Critical Thinking,IM,Importance,4.25,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.2.a,Critical Thinking,LV,Level,4.62,N,N,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.2.b,Active Learning,IM,Importance,3.62,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.2.b,Active Learning,LV,Level,4.38,N,N,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.2.c,Learning Strategies,IM,Importance,2.75,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.2.c,Learning Strategies,LV,Level,3.0,N,N,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.2.d,Monitoring,IM,Importance,3.25,N,,08/2026,Analyst
-Data Scientist,15-2051.00,Data Scientists,2.A.2.d,Monitoring,LV,Level,3.62,N,N,08/2026,Analyst
+GradPath Role,Mapping Type,O*NET-SOC Code,Title,Element ID,Element Name,Scale ID,Scale Name,Data Value,Recommend Suppress,Not Relevant,Date,Domain Source
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.a,Reading Comprehension,IM,Importance,4.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.a,Reading Comprehension,LV,Level,4.25,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.b,Active Listening,IM,Importance,3.88,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.b,Active Listening,LV,Level,4.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.c,Writing,IM,Importance,3.75,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.c,Writing,LV,Level,4.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.d,Speaking,IM,Importance,3.88,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.d,Speaking,LV,Level,4.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.e,Mathematics,IM,Importance,3.5,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.e,Mathematics,LV,Level,3.88,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.f,Science,IM,Importance,1.62,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.1.f,Science,LV,Level,0.75,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.2.a,Critical Thinking,IM,Importance,3.88,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.2.a,Critical Thinking,LV,Level,4.25,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.2.b,Active Learning,IM,Importance,3.88,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.2.b,Active Learning,LV,Level,4.12,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.2.c,Learning Strategies,IM,Importance,3.0,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.2.c,Learning Strategies,LV,Level,3.0,N,N,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.2.d,Monitoring,IM,Importance,3.12,N,,08/2024,Analyst
+Data Analyst,proxy,15-2051.01,Business Intelligence Analysts,2.A.2.d,Monitoring,LV,Level,3.25,N,N,08/2024,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.a,Reading Comprehension,IM,Importance,3.88,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.a,Reading Comprehension,LV,Level,4.62,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.b,Active Listening,IM,Importance,3.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.b,Active Listening,LV,Level,3.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.c,Writing,IM,Importance,3.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.c,Writing,LV,Level,4.12,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.d,Speaking,IM,Importance,3.62,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.d,Speaking,LV,Level,3.75,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.e,Mathematics,IM,Importance,4.38,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.e,Mathematics,LV,Level,5.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.f,Science,IM,Importance,2.5,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.1.f,Science,LV,Level,2.12,Y,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.2.a,Critical Thinking,IM,Importance,4.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.2.a,Critical Thinking,LV,Level,4.62,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.2.b,Active Learning,IM,Importance,3.62,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.2.b,Active Learning,LV,Level,4.38,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.2.c,Learning Strategies,IM,Importance,2.75,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.2.c,Learning Strategies,LV,Level,3.0,N,N,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.2.d,Monitoring,IM,Importance,3.25,N,,08/2026,Analyst
+Data Scientist,primary,15-2051.00,Data Scientists,2.A.2.d,Monitoring,LV,Level,3.62,N,N,08/2026,Analyst
