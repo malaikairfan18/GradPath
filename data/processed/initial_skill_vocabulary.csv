@@ -1,0 +1,32 @@
+skill_id,skill_name,skill_category,role,source,aliases
+SK001,Python,Programming,Both,O*NET,python;python 3
+SK002,R,Programming,Both,O*NET,r programming;r language
+SK003,SQL,Databases,Both,O*NET,sql;structured query language
+SK004,PostgreSQL,Databases,Both,O*NET,postgres;postgresql
+SK005,MySQL,Databases,Both,O*NET,mysql
+SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis;data analytics;analytical analysis
+SK007,Data Cleaning,Data Preparation,Both,ESCO,data cleaning;clean data;data cleansing
+SK008,Data Preprocessing,Data Preparation,Both,ESCO,data preprocessing;data pre-processing;data preprocessing techniques
+SK009,Statistics,Statistics,Both,ESCO,statistics;statistical analysis;statistical methods
+SK010,Statistical Modeling,Statistics,Data Scientist,ESCO,statistical modeling;statistical modelling
+SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi;microsoft power bi
+SK012,Tableau,BI & Visualization,Data Analyst,O*NET/ESCO,tableau
+SK013,Data Visualization,BI & Visualization,Both,ESCO,data visualization;data visualisation;information visualization;information visualisation
+SK014,Pandas,Data Analysis,Both,O*NET,pandas;python pandas
+SK015,NumPy,Data Analysis,Data Scientist,O*NET,numpy
+SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning;ml
+SK017,Deep Learning,Machine Learning,Data Scientist,ESCO,deep learning;deep neural networks
+SK018,scikit-learn,Machine Learning,Data Scientist,O*NET,scikit-learn;scikit learn;sklearn
+SK019,TensorFlow,Machine Learning,Data Scientist,O*NET,tensorflow
+SK020,PyTorch,Machine Learning,Data Scientist,O*NET,pytorch
+SK021,Natural Language Processing,NLP,Data Scientist,ESCO,natural language processing;nlp
+SK022,Data Modeling,Data Modeling,Both,ESCO,data modeling;data modelling
+SK023,Feature Engineering,Machine Learning,Data Scientist,O*NET/ESCO,feature engineering;feature extraction
+SK024,ETL,Data Engineering,Data Analyst,O*NET,etl;extract transform load;extract-transform-load
+SK025,Data Engineering,Data Engineering,Data Scientist,ESCO,data engineering;data engineering methods
+SK026,AWS,Cloud,Data Scientist,O*NET,aws;amazon web services;amazon web services aws
+SK027,Microsoft Azure,Cloud,Data Scientist,O*NET,azure;microsoft azure
+SK028,Git,Version Control,Both,O*NET,git;git version control
+SK029,Docker,DevOps,Data Scientist,O*NET,docker;docker containers;containerization
+SK030,Apache Spark,Big Data,Data Scientist,O*NET,spark;apache spark;pyspark
+SK031,Apache Hadoop,Big Data,Data Scientist,O*NET,hadoop;apache hadoop

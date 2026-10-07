@@ -1,0 +1,116 @@
+job_id,job_title,normalized_title,title_family,role_category,role_relevance,skill_id,skill_name,skill_category,skill_role,skill_source,matched_alias,match_type
+5861182353,Risk Technology Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5904181818,Data Analyst Placement Programme – No Experience Needed,Data Analyst,Data Analyst,Data Analyst,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5903981132,Data Analyst Placement Programme – No Experience Needed,Data Analyst,Data Analyst,Data Analyst,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5903043897,"BI / Data Analyst - Power BI, SQL & Data Systems",Data Analyst,Data Analyst,Data Analyst,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5896957145,Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5896957145,Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK023,Feature Engineering,Machine Learning,Data Scientist,O*NET/ESCO,feature engineering,canonical
+5863586463,Data Business Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK001,Python,Programming,Both,O*NET,python,canonical
+5863586463,Data Business Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK003,SQL,Databases,Both,O*NET,sql,canonical
+5863586463,Data Business Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK012,Tableau,BI & Visualization,Data Analyst,O*NET/ESCO,tableau,canonical
+5863586463,Data Business Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK013,Data Visualization,BI & Visualization,Both,ESCO,data visualisation,alias
+5863586463,Data Business Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK022,Data Modeling,Data Modeling,Both,ESCO,data modelling,alias
+5884589518,Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5892851025,Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5894186023,Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK003,SQL,Databases,Both,O*NET,sql,canonical
+5889690525,Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5892678247,Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5878871185,Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK022,Data Modeling,Data Modeling,Both,ESCO,data modelling,alias
+5887653468,Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5891558614,Senior Data Analyst - SC cleared,Data Analyst,Data Analyst,Data Analyst,relevant,SK013,Data Visualization,BI & Visualization,Both,ESCO,data visualisation,alias
+5891558614,Senior Data Analyst - SC cleared,Data Analyst,Data Analyst,Data Analyst,relevant,SK022,Data Modeling,Data Modeling,Both,ESCO,data modelling,alias
+5894312924,Senior Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK013,Data Visualization,BI & Visualization,Both,ESCO,data visualisation,alias
+5894312924,Senior Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK022,Data Modeling,Data Modeling,Both,ESCO,data modelling,alias
+5878873076,Business Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK027,Microsoft Azure,Cloud,Data Scientist,O*NET,azure,alias
+5210481562,Business Analyst - Data Analyst-ANA008529,Data Analyst,Data Analyst,Data Analyst,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analytics,alias
+5864147992,Business Data Analyst with Actimize – Canary Wharf Docklands London (IT),Data Analyst,Data Analyst,Data Analyst,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5877123885,Data Business Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5877123885,Data Business Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5840387061,Data Business Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5894273903,CRM & BI Analyst,BI Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5884623744,BI Analyst,BI Analyst,Data Analyst,Data Analyst,relevant,SK003,SQL,Databases,Both,O*NET,sql,canonical
+5884623744,BI Analyst,BI Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5900643140,BI Analyst,BI Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5883752290,Lead BI Analyst,BI Analyst,Data Analyst,Data Analyst,relevant,SK003,SQL,Databases,Both,O*NET,sql,canonical
+5885033522,BI Analyst -(Fixed Term 9 Months),BI Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5914258224,BI/Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK025,Data Engineering,Data Engineering,Data Scientist,ESCO,data engineering,canonical
+5916866310,BI/Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK003,SQL,Databases,Both,O*NET,sql,canonical
+5916866310,BI/Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5916866310,BI/Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK022,Data Modeling,Data Modeling,Both,ESCO,data modelling,alias
+5877449133,Power BI/SQL Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK003,SQL,Databases,Both,O*NET,sql,canonical
+5877449133,Power BI/SQL Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5889647016,Data Analyst (Power BI),Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5897281841,BI BA – Business Analyst with Business Intelligence (IT),BI Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5878802595,Finance System Reporting Analyst / BI Developer (Tableau),Reporting Analyst,Data Analyst,Data Analyst,relevant,SK012,Tableau,BI & Visualization,Data Analyst,O*NET/ESCO,tableau,canonical
+5878831956,Finance System Reporting Analyst / BI Developer (Tableau),Reporting Analyst,Data Analyst,Data Analyst,relevant,SK012,Tableau,BI & Visualization,Data Analyst,O*NET/ESCO,tableau,canonical
+5869550457,Management Reporting Analyst - Power BI,Reporting Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5873203012,Senior BI Developer/ Senior Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,power bi,canonical
+5873203012,Senior BI Developer/ Senior Data Analyst,Data Analyst,Data Analyst,Data Analyst,relevant,SK025,Data Engineering,Data Engineering,Data Scientist,ESCO,data engineering,canonical
+5877136670,Lead Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5861182268,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK001,Python,Programming,Both,O*NET,python,canonical
+5861182268,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5861182268,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5863587380,Data Scientist – Machine Learning,Data Scientist,Data Scientist,Data Scientist,relevant,SK001,Python,Programming,Both,O*NET,python,canonical
+5863587380,Data Scientist – Machine Learning,Data Scientist,Data Scientist,Data Scientist,relevant,SK003,SQL,Databases,Both,O*NET,sql,canonical
+5863587380,Data Scientist – Machine Learning,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5863587380,Data Scientist – Machine Learning,Data Scientist,Data Scientist,Data Scientist,relevant,SK023,Feature Engineering,Machine Learning,Data Scientist,O*NET/ESCO,feature engineering,canonical
+5893792371,Senior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5916577271,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analytics,alias
+5916577271,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK007,Data Cleaning,Data Preparation,Both,ESCO,data cleaning,canonical
+5916577271,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5889090938,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK001,Python,Programming,Both,O*NET,python,canonical
+5889090938,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5889090938,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK021,Natural Language Processing,NLP,Data Scientist,ESCO,nlp,alias
+5889090938,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK026,AWS,Cloud,Data Scientist,O*NET,aws,canonical
+5889090938,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK027,Microsoft Azure,Cloud,Data Scientist,O*NET,azure,alias
+5904300971,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK024,ETL,Data Engineering,Data Analyst,O*NET,etl,canonical
+5753328884,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,ml,alias
+5908608008,Data scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5916830220,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5916829256,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5916803684,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK009,Statistics,Statistics,Both,ESCO,statistics,canonical
+5916803684,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5906015686,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK010,Statistical Modeling,Statistics,Data Scientist,ESCO,statistical modelling,alias
+5906015686,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5898544878,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5883635315,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5905809412,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK009,Statistics,Statistics,Both,ESCO,statistics,canonical
+5905809412,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,ml,alias
+5908447612,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5904036486,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5912851805,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5912851807,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5902908711,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5913705196,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5913705196,Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK017,Deep Learning,Machine Learning,Data Scientist,ESCO,deep learning,canonical
+5913703912,Junior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK001,Python,Programming,Both,O*NET,python,canonical
+5913703912,Junior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK003,SQL,Databases,Both,O*NET,sql,canonical
+5913703912,Junior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK006,Data Analysis,Data Analysis,Both,ESCO,data analysis,canonical
+5913703912,Junior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK009,Statistics,Statistics,Both,ESCO,statistical analysis,alias
+5913703912,Junior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5913703912,Junior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK023,Feature Engineering,Machine Learning,Data Scientist,O*NET/ESCO,feature engineering,canonical
+5905468348,Senior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5329647905,Senior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5898369014,Principal Applied Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK001,Python,Programming,Both,O*NET,python,canonical
+5898369014,Principal Applied Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK021,Natural Language Processing,NLP,Data Scientist,ESCO,nlp,alias
+5862279093,"Applied AI ML Data Scientist, Vice President - Payments",Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5912846886,Security Data scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5912846886,Security Data scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK021,Natural Language Processing,NLP,Data Scientist,ESCO,natural language processing,canonical
+5894312917,Senior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,ml,alias
+5894312879,"Data Scientist, Research, Reliability Analytics",Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,ml,alias
+5880123985,Machine Learning Quant | Data Scientist | Energy Trading - Bonhill Partners,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5883461673,Senior Data Scientist & Machine Learning Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5806666098,Data Scientist - Machine Learning,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5879873803,Data Scientist & Machine Learning Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5879117367,Data Scientist & Machine Learning Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5879117374,Data Scientist & Machine Learning Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5861737345,Principal Data Scientist & Machine Learning Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5879117372,Senior Data Scientist & Machine Learning Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5879117378,Senior Data Scientist & Machine Learning Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5879922807,Senior Data Scientist & Machine Learning Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5810681239,Principal Data Scientist – Machine Learning & AI,Data Scientist,Data Scientist,Data Scientist,relevant,SK010,Statistical Modeling,Statistics,Data Scientist,ESCO,statistical modeling,canonical
+5810681239,Principal Data Scientist – Machine Learning & AI,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5769452962,Principal Data Scientist and Machine Learning Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5906874158,"Data Scientist - Insurance, Machine Learning & Pricing Analytics",Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5893912923,Machine Learning Quant Researcher,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5907658309,Applied AI ML - Payments Machine Learning (Associate),Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
