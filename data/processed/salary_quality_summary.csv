@@ -1,0 +1,5 @@
+role_category,salary_quality_status,job_count,role_total,percentage_within_role
+Data Analyst,Needs review,5,124,4.03
+Data Analyst,Passed basic checks,119,124,95.97
+Data Scientist,Needs review,7,127,5.51
+Data Scientist,Passed basic checks,120,127,94.49

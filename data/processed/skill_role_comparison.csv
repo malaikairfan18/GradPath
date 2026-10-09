@@ -1,0 +1,19 @@
+comparison_rank,skill_id,skill_name,data_analyst_jobs,data_analyst_total_jobs,data_analyst_frequency_pct,data_scientist_jobs,data_scientist_total_jobs,data_scientist_frequency_pct,difference_percentage_points,higher_observed_frequency,observed_in_both_roles
+1,SK016,Machine Learning,0,124,0.0,42,127,33.07,33.07,Data Scientist,False
+2,SK001,Python,1,124,0.81,5,127,3.94,3.13,Data Scientist,True
+3,SK021,Natural Language Processing,0,124,0.0,3,127,2.36,2.36,Data Scientist,False
+4,SK009,Statistics,0,124,0.0,3,127,2.36,2.36,Data Scientist,False
+5,SK010,Statistical Modeling,0,124,0.0,2,127,1.57,1.57,Data Scientist,False
+6,SK026,AWS,0,124,0.0,1,127,0.79,0.79,Data Scientist,False
+7,SK007,Data Cleaning,0,124,0.0,1,127,0.79,0.79,Data Scientist,False
+8,SK017,Deep Learning,0,124,0.0,1,127,0.79,0.79,Data Scientist,False
+9,SK024,ETL,0,124,0.0,1,127,0.79,0.79,Data Scientist,False
+10,SK023,Feature Engineering,1,124,0.81,2,127,1.57,0.76,Data Scientist,True
+11,SK027,Microsoft Azure,1,124,0.81,1,127,0.79,-0.02,Data Analyst,True
+12,SK025,Data Engineering,2,124,1.61,0,127,0.0,-1.61,Data Analyst,False
+13,SK013,Data Visualization,3,124,2.42,0,127,0.0,-2.42,Data Analyst,False
+14,SK012,Tableau,3,124,2.42,0,127,0.0,-2.42,Data Analyst,False
+15,SK003,SQL,6,124,4.84,2,127,1.57,-3.27,Data Analyst,True
+16,SK006,Data Analysis,9,124,7.26,5,127,3.94,-3.32,Data Analyst,True
+17,SK022,Data Modeling,5,124,4.03,0,127,0.0,-4.03,Data Analyst,False
+18,SK011,Power BI,16,124,12.9,0,127,0.0,-12.9,Data Analyst,False

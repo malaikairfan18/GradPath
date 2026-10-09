@@ -1,0 +1,19 @@
+overall_rank,skill_id,skill_name,match_count,jobs_with_skill,roles_with_skill,relevant_jobs_total,observed_job_frequency_pct
+1,SK016,Machine Learning,42,42,1,251,16.73
+2,SK011,Power BI,16,16,1,251,6.37
+3,SK006,Data Analysis,14,14,2,251,5.58
+4,SK003,SQL,8,8,2,251,3.19
+5,SK001,Python,6,6,2,251,2.39
+6,SK022,Data Modeling,5,5,1,251,1.99
+7,SK013,Data Visualization,3,3,1,251,1.2
+8,SK023,Feature Engineering,3,3,2,251,1.2
+9,SK021,Natural Language Processing,3,3,1,251,1.2
+10,SK009,Statistics,3,3,1,251,1.2
+11,SK012,Tableau,3,3,1,251,1.2
+12,SK025,Data Engineering,2,2,1,251,0.8
+13,SK027,Microsoft Azure,2,2,2,251,0.8
+14,SK010,Statistical Modeling,2,2,1,251,0.8
+15,SK026,AWS,1,1,1,251,0.4
+16,SK007,Data Cleaning,1,1,1,251,0.4
+17,SK017,Deep Learning,1,1,1,251,0.4
+18,SK024,ETL,1,1,1,251,0.4

@@ -1,0 +1,5 @@
+role_category,salary_is_predicted,job_count,median_salary_min,median_salary_max,mean_salary_min,mean_salary_max,minimum_observed,maximum_observed
+Data Analyst,0,66,47000.0,55000.0,51937.71,59057.7,350.0,156000.0
+Data Analyst,1,53,49794.01,49794.01,49765.89,49765.89,29751.6,72691.6
+Data Scientist,0,58,39000.0,51500.0,47075.84,61206.07,100.0,169000.0
+Data Scientist,1,62,53537.27,53537.27,58702.45,58702.45,39228.73,126464.5

@@ -1,0 +1,12 @@
+role_category,seniority_level,job_count,role_total,percentage_within_role
+Data Analyst,Entry-level / Graduate,4,124,3.23
+Data Analyst,Junior,7,124,5.65
+Data Analyst,Lead,3,124,2.42
+Data Analyst,Senior,20,124,16.13
+Data Analyst,Unspecified,90,124,72.58
+Data Scientist,Entry-level / Graduate,25,127,19.69
+Data Scientist,Junior,5,127,3.94
+Data Scientist,Lead,6,127,4.72
+Data Scientist,Management / Principal,9,127,7.09
+Data Scientist,Senior,26,127,20.47
+Data Scientist,Unspecified,56,127,44.09

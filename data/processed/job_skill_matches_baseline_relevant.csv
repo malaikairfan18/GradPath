@@ -90,6 +90,7 @@ job_id,job_title,normalized_title,title_family,role_category,role_relevance,skil
 5913703912,Junior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
 5913703912,Junior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK023,Feature Engineering,Machine Learning,Data Scientist,O*NET/ESCO,feature engineering,canonical
 5905468348,Senior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
+5916800745,Senior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,ml,alias
 5329647905,Senior Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,machine learning,canonical
 5898369014,Principal Applied Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK001,Python,Programming,Both,O*NET,python,canonical
 5898369014,Principal Applied Data Scientist,Data Scientist,Data Scientist,Data Scientist,relevant,SK021,Natural Language Processing,NLP,Data Scientist,ESCO,nlp,alias

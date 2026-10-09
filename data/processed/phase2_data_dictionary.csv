@@ -1,0 +1,36 @@
+column_name,description
+job_id,Unique source listing identifier.
+role_category,Role associated with the collection query.
+job_title,Source field retained from the job collection or preprocessing pipeline.
+company,Source field retained from the job collection or preprocessing pipeline.
+location,Source field retained from the job collection or preprocessing pipeline.
+country,Source field retained from the job collection or preprocessing pipeline.
+latitude,Source field retained from the job collection or preprocessing pipeline.
+longitude,Source field retained from the job collection or preprocessing pipeline.
+contract_type,Source field retained from the job collection or preprocessing pipeline.
+salary_min,Source-provided minimum salary; pay period is not verified.
+salary_max,Source-provided maximum salary; pay period is not verified.
+salary_is_predicted,Source-provided predicted-salary indicator.
+posting_date,Source field retained from the job collection or preprocessing pipeline.
+date_collected,Source field retained from the job collection or preprocessing pipeline.
+description,"Source job description, which may be truncated."
+category,Source field retained from the job collection or preprocessing pipeline.
+source,Source field retained from the job collection or preprocessing pipeline.
+source_url,Source field retained from the job collection or preprocessing pipeline.
+search_query,Source field retained from the job collection or preprocessing pipeline.
+role_relevance,Title-based relevance classification; not a guarantee of full job fit.
+relevance_reason,Source field retained from the job collection or preprocessing pipeline.
+source_role_categories,Source field retained from the job collection or preprocessing pipeline.
+source_search_queries,Source field retained from the job collection or preprocessing pipeline.
+duplicate_source_count,Source field retained from the job collection or preprocessing pipeline.
+normalized_title,Standardized job-title representation.
+title_family,Broad job-title family.
+seniority_level,Rule-based seniority classification from the title.
+seniority_reason,Explanation of the seniority rule applied.
+seniority_method,Source field retained from the job collection or preprocessing pipeline.
+location_region,Heuristically inferred broad region; may be missing for non-relevant jobs.
+salary_quality_status,Outcome of basic salary plausibility checks.
+salary_quality_flags,Reasons a salary record was flagged for review.
+location_salary_analysis_available,Whether a relevant job has a location/salary quality record.
+detected_skill_count,Number of distinct skills detected in the available description text.
+detected_skills,Distinct detected skills joined with a pipe separator.

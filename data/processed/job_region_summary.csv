@@ -1,0 +1,25 @@
+role_category,location_region,job_count,role_total,percentage_within_role
+Data Analyst,East of England,2,124,1.61
+Data Analyst,London,32,124,25.81
+Data Analyst,Midlands,13,124,10.48
+Data Analyst,North West England,8,124,6.45
+Data Analyst,Northern Ireland,9,124,7.26
+Data Analyst,Other / town-level location,23,124,18.55
+Data Analyst,Scotland,11,124,8.87
+Data Analyst,South East England,4,124,3.23
+Data Analyst,South West England,3,124,2.42
+Data Analyst,UK-wide / unspecified,15,124,12.1
+Data Analyst,Yorkshire and Humber,4,124,3.23
+Data Scientist,East of England,3,127,2.36
+Data Scientist,London,44,127,34.65
+Data Scientist,Midlands,9,127,7.09
+Data Scientist,North East England,1,127,0.79
+Data Scientist,North West England,12,127,9.45
+Data Scientist,Northern Ireland,3,127,2.36
+Data Scientist,Other / town-level location,14,127,11.02
+Data Scientist,Scotland,1,127,0.79
+Data Scientist,South East England,13,127,10.24
+Data Scientist,South West England,12,127,9.45
+Data Scientist,UK-wide / unspecified,9,127,7.09
+Data Scientist,Wales,1,127,0.79
+Data Scientist,Yorkshire and Humber,5,127,3.94

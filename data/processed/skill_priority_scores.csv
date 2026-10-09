@@ -1,0 +1,45 @@
+role_category,priority_rank,skill_id,skill_name,skill_category,taxonomy_role,taxonomy_source,jobs_with_skill,relevant_jobs_total,observed_frequency_pct,evidence_level,scoring_method
+Data Analyst,1,SK011,Power BI,BI & Visualization,Data Analyst,O*NET/ESCO,16,124,12.9,Stronger (11+ jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,2,SK006,Data Analysis,Data Analysis,Both,ESCO,9,124,7.26,Moderate (6-10 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,3,SK003,SQL,Databases,Both,O*NET,6,124,4.84,Moderate (6-10 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,4,SK022,Data Modeling,Data Modeling,Both,ESCO,5,124,4.03,Limited (3-5 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,5,SK013,Data Visualization,BI & Visualization,Both,ESCO,3,124,2.42,Limited (3-5 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,6,SK012,Tableau,BI & Visualization,Data Analyst,O*NET/ESCO,3,124,2.42,Limited (3-5 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,7,SK001,Python,Programming,Both,O*NET,1,124,0.81,Very limited (1-2 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,8,SK007,Data Cleaning,Data Preparation,Both,ESCO,0,124,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,9,SK008,Data Preprocessing,Data Preparation,Both,ESCO,0,124,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,10,SK024,ETL,Data Engineering,Data Analyst,O*NET,0,124,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,11,SK028,Git,Version Control,Both,O*NET,0,124,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,12,SK005,MySQL,Databases,Both,O*NET,0,124,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,13,SK014,Pandas,Data Analysis,Both,O*NET,0,124,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,14,SK004,PostgreSQL,Databases,Both,O*NET,0,124,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,15,SK002,R,Programming,Both,O*NET,0,124,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Analyst,16,SK009,Statistics,Statistics,Both,ESCO,0,124,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,1,SK016,Machine Learning,Machine Learning,Data Scientist,ESCO,42,127,33.07,Stronger (11+ jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,2,SK006,Data Analysis,Data Analysis,Both,ESCO,5,127,3.94,Limited (3-5 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,3,SK001,Python,Programming,Both,O*NET,5,127,3.94,Limited (3-5 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,4,SK021,Natural Language Processing,NLP,Data Scientist,ESCO,3,127,2.36,Limited (3-5 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,5,SK009,Statistics,Statistics,Both,ESCO,3,127,2.36,Limited (3-5 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,6,SK023,Feature Engineering,Machine Learning,Data Scientist,O*NET/ESCO,2,127,1.57,Very limited (1-2 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,7,SK003,SQL,Databases,Both,O*NET,2,127,1.57,Very limited (1-2 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,8,SK010,Statistical Modeling,Statistics,Data Scientist,ESCO,2,127,1.57,Very limited (1-2 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,9,SK026,AWS,Cloud,Data Scientist,O*NET,1,127,0.79,Very limited (1-2 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,10,SK007,Data Cleaning,Data Preparation,Both,ESCO,1,127,0.79,Very limited (1-2 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,11,SK017,Deep Learning,Machine Learning,Data Scientist,ESCO,1,127,0.79,Very limited (1-2 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,12,SK027,Microsoft Azure,Cloud,Data Scientist,O*NET,1,127,0.79,Very limited (1-2 jobs),Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,13,SK031,Apache Hadoop,Big Data,Data Scientist,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,14,SK030,Apache Spark,Big Data,Data Scientist,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,15,SK025,Data Engineering,Data Engineering,Data Scientist,ESCO,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,16,SK022,Data Modeling,Data Modeling,Both,ESCO,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,17,SK008,Data Preprocessing,Data Preparation,Both,ESCO,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,18,SK013,Data Visualization,BI & Visualization,Both,ESCO,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,19,SK029,Docker,DevOps,Data Scientist,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,20,SK028,Git,Version Control,Both,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,21,SK005,MySQL,Databases,Both,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,22,SK015,NumPy,Data Analysis,Data Scientist,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,23,SK014,Pandas,Data Analysis,Both,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,24,SK004,PostgreSQL,Databases,Both,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,25,SK020,PyTorch,Machine Learning,Data Scientist,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,26,SK002,R,Programming,Both,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,27,SK019,TensorFlow,Machine Learning,Data Scientist,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs
+Data Scientist,28,SK018,scikit-learn,Machine Learning,Data Scientist,O*NET,0,127,0.0,No detected evidence,Observed frequency: distinct matched jobs divided by relevant jobs

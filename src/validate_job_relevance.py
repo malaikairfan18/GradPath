@@ -466,17 +466,80 @@ def main():
         expected_role="Data Scientist",
     )
 
+
     # ---------------------------------------------------------------
-    # Combine datasets
+    # Combine datasets and resolve cross-query duplicates
     # ---------------------------------------------------------------
 
     validated_df = pd.concat(
-        [
-            analyst_df,
-            scientist_df,
-        ],
+        [analyst_df, scientist_df],
         ignore_index=True,
     )
+
+    # Preserve the source-role information before resolving duplicates.
+    validated_df["source_role_categories"] = (
+        validated_df.groupby("job_id")["role_category"]
+        .transform(
+            lambda values: " | ".join(
+                sorted(set(values.dropna().astype(str)))
+            )
+        )
+    )
+
+    # Preserve the search queries that returned each listing.
+    if "search_query" in validated_df.columns:
+        validated_df["source_search_queries"] = (
+            validated_df.groupby("job_id")["search_query"]
+            .transform(
+                lambda values: " | ".join(
+                    sorted(set(values.dropna().astype(str)))
+                )
+            )
+        )
+
+    # Record how many times each listing appeared across the queries.
+    validated_df["duplicate_source_count"] = (
+        validated_df.groupby("job_id")["job_id"]
+        .transform("size")
+    )
+
+    # Prefer the strongest title-based relevance classification.
+    # This prevents a Data Scientist listing found by both queries
+    # from being counted once as irrelevant and again as relevant.
+    relevance_rank = {
+        "irrelevant": 0,
+        "uncertain": 1,
+        "relevant": 2,
+    }
+
+    validated_df["_relevance_rank"] = (
+        validated_df["role_relevance"]
+        .map(relevance_rank)
+        .fillna(-1)
+    )
+
+    # Stable sorting makes the tie-breaking behavior deterministic:
+    # if relevance is tied, the earlier source row is retained.
+    validated_df = validated_df.sort_values(
+        by=["_relevance_rank"],
+        ascending=False,
+        kind="stable",
+    )
+
+    validated_df = validated_df.drop_duplicates(
+        subset=["job_id"],
+        keep="first",
+    )
+
+    validated_df = validated_df.drop(
+        columns=["_relevance_rank"]
+    ).reset_index(drop=True)
+
+    # Fail loudly if duplicate IDs somehow remain.
+    if validated_df["job_id"].duplicated().any():
+        raise ValueError(
+            "Duplicate job IDs remain after cross-query deduplication."
+        )
 
     # ---------------------------------------------------------------
     # Save processed dataset

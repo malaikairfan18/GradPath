@@ -1,0 +1,24 @@
+role_category,role_rank,skill_id,skill_name,match_count,jobs_with_skill,relevant_jobs_in_role,observed_job_frequency_pct
+Data Analyst,1,SK011,Power BI,16,16,124,12.9
+Data Analyst,2,SK006,Data Analysis,9,9,124,7.26
+Data Analyst,3,SK003,SQL,6,6,124,4.84
+Data Analyst,4,SK022,Data Modeling,5,5,124,4.03
+Data Analyst,5,SK013,Data Visualization,3,3,124,2.42
+Data Analyst,6,SK012,Tableau,3,3,124,2.42
+Data Analyst,7,SK025,Data Engineering,2,2,124,1.61
+Data Analyst,8,SK023,Feature Engineering,1,1,124,0.81
+Data Analyst,9,SK027,Microsoft Azure,1,1,124,0.81
+Data Analyst,10,SK001,Python,1,1,124,0.81
+Data Scientist,1,SK016,Machine Learning,42,42,127,33.07
+Data Scientist,2,SK006,Data Analysis,5,5,127,3.94
+Data Scientist,3,SK001,Python,5,5,127,3.94
+Data Scientist,4,SK021,Natural Language Processing,3,3,127,2.36
+Data Scientist,5,SK009,Statistics,3,3,127,2.36
+Data Scientist,6,SK023,Feature Engineering,2,2,127,1.57
+Data Scientist,7,SK003,SQL,2,2,127,1.57
+Data Scientist,8,SK010,Statistical Modeling,2,2,127,1.57
+Data Scientist,9,SK026,AWS,1,1,127,0.79
+Data Scientist,10,SK007,Data Cleaning,1,1,127,0.79
+Data Scientist,11,SK017,Deep Learning,1,1,127,0.79
+Data Scientist,12,SK024,ETL,1,1,127,0.79
+Data Scientist,13,SK027,Microsoft Azure,1,1,127,0.79

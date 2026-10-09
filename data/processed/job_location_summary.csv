@@ -1,0 +1,123 @@
+role_category,location_region,location_text,job_count,role_total,percentage_within_role
+Data Analyst,London,"London, UK",19,124,15.32
+Data Analyst,UK-wide / unspecified,UK,15,124,12.1
+Data Analyst,Midlands,"Birmingham, West Midlands",6,124,4.84
+Data Analyst,Northern Ireland,"Belfast, Northern Ireland",4,124,3.23
+Data Analyst,London,"Farringdon, Central London",4,124,3.23
+Data Analyst,Scotland,"Glasgow, Scotland",4,124,3.23
+Data Analyst,Yorkshire and Humber,"Hyde Park, Leeds",3,124,2.42
+Data Analyst,North West England,"Rusholme, Manchester",3,124,2.42
+Data Analyst,London,"South West London, London",3,124,2.42
+Data Analyst,South West England,"Bristol, South West England",2,124,1.61
+Data Analyst,Northern Ireland,"Coleraine, Northern Ireland",2,124,1.61
+Data Analyst,Scotland,"Edinburgh Technopole, Milton Bridge",2,124,1.61
+Data Analyst,Scotland,"Edinburgh, Scotland",2,124,1.61
+Data Analyst,Scotland,"Glasgow City Centre, Glasgow",2,124,1.61
+Data Analyst,North West England,"Liverpool, Merseyside",2,124,1.61
+Data Analyst,North West England,"Manchester, Greater Manchester",2,124,1.61
+Data Analyst,East of England,"Pampisford, Cambridge",2,124,1.61
+Data Analyst,Other / town-level location,"Shendish, Hemel Hempstead",2,124,1.61
+Data Analyst,London,"The City, Central London",2,124,1.61
+Data Analyst,Midlands,"Wolverhampton, West Midlands",2,124,1.61
+Data Analyst,Other / town-level location,"Abbotts Barton, Winchester",1,124,0.81
+Data Analyst,Other / town-level location,"Alloa, Clackmannanshire",1,124,0.81
+Data Analyst,Midlands,"Alum Rock, Birmingham",1,124,0.81
+Data Analyst,Other / town-level location,"Antrim, County Antrim",1,124,0.81
+Data Analyst,Midlands,"Balsall Heath, Birmingham",1,124,0.81
+Data Analyst,Other / town-level location,"Blackley, Elland",1,124,0.81
+Data Analyst,Other / town-level location,"Broadbottom, Hyde",1,124,0.81
+Data Analyst,London,"Canary Wharf, East London",1,124,0.81
+Data Analyst,London,"Central London, London",1,124,0.81
+Data Analyst,Northern Ireland,"County Antrim, Northern Ireland",1,124,0.81
+Data Analyst,Other / town-level location,"Coupar Angus, Blairgowrie",1,124,0.81
+Data Analyst,Northern Ireland,"Craigavon, Northern Ireland",1,124,0.81
+Data Analyst,Other / town-level location,"Crownhill, Milton Keynes",1,124,0.81
+Data Analyst,Midlands,"Diseworth, Derby",1,124,0.81
+Data Analyst,Other / town-level location,"Fetcham, Leatherhead",1,124,0.81
+Data Analyst,Other / town-level location,"Fulwood, Preston",1,124,0.81
+Data Analyst,Other / town-level location,"Gateshead, Tyne & Wear",1,124,0.81
+Data Analyst,Other / town-level location,"Golborne Dale, Newton-Le-Willows",1,124,0.81
+Data Analyst,Other / town-level location,"Grangemouth, Falkirk County",1,124,0.81
+Data Analyst,Scotland,"Hillhead, Glasgow City Centre",1,124,0.81
+Data Analyst,South East England,"Horsham, West Sussex",1,124,0.81
+Data Analyst,Other / town-level location,"Intack, Blackburn",1,124,0.81
+Data Analyst,Other / town-level location,"Lathbury, Newport Pagnell",1,124,0.81
+Data Analyst,South East England,"Leatherhead, Surrey",1,124,0.81
+Data Analyst,Yorkshire and Humber,"Leeds, West Yorkshire",1,124,0.81
+Data Analyst,Midlands,"Leicester, Leicestershire",1,124,0.81
+Data Analyst,Northern Ireland,"Lisburn, Northern Ireland",1,124,0.81
+Data Analyst,North West England,"Manchester Science Park, Manchester",1,124,0.81
+Data Analyst,Other / town-level location,"Manor Park, Runcorn",1,124,0.81
+Data Analyst,Other / town-level location,"Minworth Industrial Park, Minworth",1,124,0.81
+Data Analyst,Midlands,"Nottingham, Nottinghamshire",1,124,0.81
+Data Analyst,South East England,"Oxford, Oxfordshire",1,124,0.81
+Data Analyst,Other / town-level location,"Pendlebury, Swinton",1,124,0.81
+Data Analyst,Other / town-level location,"Pillaton, Saltash",1,124,0.81
+Data Analyst,South West England,"Plymouth, South West England",1,124,0.81
+Data Analyst,London,"Putney, South West London",1,124,0.81
+Data Analyst,Other / town-level location,"St. Mildreds, Canterbury",1,124,0.81
+Data Analyst,Other / town-level location,"Stepps, North Lanarkshire",1,124,0.81
+Data Analyst,South East England,"Surrey, South East England",1,124,0.81
+Data Analyst,London,"Victoria, South West London",1,124,0.81
+Data Analyst,Other / town-level location,"Warwick, Warwickshire",1,124,0.81
+Data Scientist,London,"London, UK",31,127,24.41
+Data Scientist,UK-wide / unspecified,UK,9,127,7.09
+Data Scientist,South West England,"Gloucester, Gloucestershire",8,127,6.3
+Data Scientist,North West England,"Manchester, Greater Manchester",6,127,4.72
+Data Scientist,North West England,"Liverpool, Merseyside",4,127,3.15
+Data Scientist,Northern Ireland,"Belfast, Northern Ireland",3,127,2.36
+Data Scientist,London,"Farringdon, Central London",3,127,2.36
+Data Scientist,London,"South West London, London",3,127,2.36
+Data Scientist,South West England,"Cheltenham, Gloucestershire",2,127,1.57
+Data Scientist,South East England,"Oxford, Oxfordshire",2,127,1.57
+Data Scientist,South East England,"Reading, Berkshire",2,127,1.57
+Data Scientist,Other / town-level location,"St. Helens, Merseyside",2,127,1.57
+Data Scientist,South East England,"Sunbury-On-Thames, Surrey",2,127,1.57
+Data Scientist,London,"The City, Central London",2,127,1.57
+Data Scientist,London,"Theatreland, Central London",2,127,1.57
+Data Scientist,South East England,"Basingstoke, Hampshire",1,127,0.79
+Data Scientist,Midlands,"Belgrave, Leicester",1,127,0.79
+Data Scientist,South East England,"Berkshire, South East England",1,127,0.79
+Data Scientist,South West England,"Bournemouth, Dorset",1,127,0.79
+Data Scientist,London,"Bromley, South East London",1,127,0.79
+Data Scientist,London,"Charing Cross, Central London",1,127,0.79
+Data Scientist,Midlands,"Coventry, West Midlands",1,127,0.79
+Data Scientist,South East England,"Cowley, Oxford",1,127,0.79
+Data Scientist,Midlands,"Desford, Leicester",1,127,0.79
+Data Scientist,Other / town-level location,"Eastern England, UK",1,127,0.79
+Data Scientist,Scotland,"Edinburgh City Centre, Edinburgh",1,127,0.79
+Data Scientist,Other / town-level location,"Elm, Wisbech",1,127,0.79
+Data Scientist,Other / town-level location,"Foxton, Alnwick",1,127,0.79
+Data Scientist,Wales,"Grangetown, Cardiff",1,127,0.79
+Data Scientist,Other / town-level location,"Hanley, Stoke-On-Trent",1,127,0.79
+Data Scientist,South East England,"High Wycombe, Buckinghamshire",1,127,0.79
+Data Scientist,Yorkshire and Humber,"Huddersfield, West Yorkshire",1,127,0.79
+Data Scientist,Yorkshire and Humber,"Hyde Park, Leeds",1,127,0.79
+Data Scientist,East of England,"Ilford, Essex",1,127,0.79
+Data Scientist,Other / town-level location,"Kembrey Park, Swindon",1,127,0.79
+Data Scientist,Midlands,"Ladywood, Birmingham",1,127,0.79
+Data Scientist,Yorkshire and Humber,"Leeds, West Yorkshire",1,127,0.79
+Data Scientist,Midlands,"Leicester, Leicestershire",1,127,0.79
+Data Scientist,Midlands,"Lenton, Nottingham",1,127,0.79
+Data Scientist,Other / town-level location,"Merseyside, North West England",1,127,0.79
+Data Scientist,South East England,"Milton Keynes, Buckinghamshire",1,127,0.79
+Data Scientist,North East England,"Newcastle Upon Tyne, Tyne & Wear",1,127,0.79
+Data Scientist,London,"North Acton, North West London",1,127,0.79
+Data Scientist,Other / town-level location,"Northampton, Northamptonshire",1,127,0.79
+Data Scientist,Midlands,"Northfield, Birmingham",1,127,0.79
+Data Scientist,East of England,"Norwich, Norfolk",1,127,0.79
+Data Scientist,Other / town-level location,"Nuneaton, Warwickshire",1,127,0.79
+Data Scientist,North West England,"Oldham, Greater Manchester",1,127,0.79
+Data Scientist,South East England,"Portsmouth, Hampshire",1,127,0.79
+Data Scientist,East of England,"Rayleigh, Essex",1,127,0.79
+Data Scientist,South West England,"Redcliffe, Bristol",1,127,0.79
+Data Scientist,North West England,"Rusholme, Manchester",1,127,0.79
+Data Scientist,South East England,"Slough, Berkshire",1,127,0.79
+Data Scientist,Yorkshire and Humber,"Solihull, West Midlands",1,127,0.79
+Data Scientist,Other / town-level location,"Southport, Merseyside",1,127,0.79
+Data Scientist,Midlands,"Sparkhill, Birmingham",1,127,0.79
+Data Scientist,Midlands,"Sutton Coldfield, West Midlands",1,127,0.79
+Data Scientist,Yorkshire and Humber,"Wakefield, West Yorkshire",1,127,0.79
+Data Scientist,Other / town-level location,"Walham, Gloucester",1,127,0.79
+Data Scientist,Other / town-level location,"Warminster, Wiltshire",1,127,0.79
+Data Scientist,Other / town-level location,"Watford, Hertfordshire",1,127,0.79
