@@ -1,0 +1,32 @@
+﻿resource_id,skill_id,resource_title,provider,resource_url,resource_type,difficulty,access_type,role,description
+LR001,SK001,The Python Tutorial,Python Software Foundation,https://docs.python.org/3/tutorial/,tutorial,Beginner,Free,Both,Learn Python syntax and core programming concepts
+LR002,SK002,An Introduction to R,R Project,https://cran.r-project.org/doc/manuals/r-release/R-intro.html,documentation,Beginner,Free,Both,Learn R programming and statistical computing
+LR003,SK003,SQLBolt Interactive Lessons,SQLBolt,https://sqlbolt.com/,exercise,Beginner,Free,Both,Practice SQL queries filtering aggregation and joins
+LR004,SK004,PostgreSQL Tutorial,PostgreSQL,https://www.postgresql.org/docs/current/tutorial.html,tutorial,Beginner,Free,Both,Learn relational database concepts and PostgreSQL queries
+LR005,SK005,MySQL Tutorial,MySQL,https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/,tutorial,Beginner,Free,Both,Practice relational database operations with MySQL
+LR006,SK006,Data Science for Beginners,Microsoft,https://github.com/microsoft/Data-Science-For-Beginners,course,Beginner,Free,Both,Work through practical data analysis and data science lessons
+LR007,SK007,Getting Started Tutorials,pandas,https://pandas.pydata.org/docs/getting_started/intro_tutorials/,tutorial,Beginner,Free,Both,Practice inspecting cleaning and transforming tabular data
+LR008,SK008,Getting Started Tutorials,pandas,https://pandas.pydata.org/docs/getting_started/intro_tutorials/,tutorial,Beginner,Free,Both,Learn data preparation transformation and reshaping
+LR009,SK009,Statistics and Probability,Khan Academy,https://www.khanacademy.org/math/statistics-probability,course,Beginner,Free,Both,Study probability distributions and statistical inference
+LR010,SK010,Statistical Models Documentation,statsmodels,https://www.statsmodels.org/stable/examples/index.html,tutorial,Intermediate,Free,Data Scientist,Explore statistical modeling examples and model interpretation
+LR011,SK011,Power BI Training,Microsoft Learn,https://learn.microsoft.com/en-us/training/powerplatform/power-bi/,course,Beginner,Free,Data Analyst,Learn reports dashboards and data visualization in Power BI
+LR012,SK012,Tableau Training,Tableau,https://www.tableau.com/learn/training,course,Beginner,Free,Data Analyst,Explore Tableau training and visualization techniques
+LR013,SK013,Matplotlib Tutorials,Matplotlib,https://matplotlib.org/stable/tutorials/index.html,tutorial,Beginner,Free,Both,Build charts and communicate patterns in data
+LR014,SK014,Getting Started Tutorials,pandas,https://pandas.pydata.org/docs/getting_started/intro_tutorials/,tutorial,Beginner,Free,Both,Learn DataFrame operations filtering grouping and merging
+LR015,SK015,NumPy Absolute Beginners Guide,NumPy,https://numpy.org/doc/stable/user/absolute_beginners.html,tutorial,Beginner,Free,Data Scientist,Learn numerical arrays indexing and vectorized operations
+LR016,SK016,Introduction to Machine Learning,scikit-learn,https://scikit-learn.org/stable/tutorial/basic/tutorial.html,tutorial,Beginner,Free,Data Scientist,Understand model fitting prediction and machine learning workflows
+LR017,SK017,Practical Deep Learning for Coders,fast.ai,https://course.fast.ai/,course,Intermediate,Free,Data Scientist,Study neural networks and practical deep learning workflows
+LR018,SK018,Getting Started,scikit-learn,https://scikit-learn.org/stable/getting_started.html,tutorial,Beginner,Free,Data Scientist,Build and evaluate machine learning models in Python
+LR019,SK019,TensorFlow Tutorials,TensorFlow,https://www.tensorflow.org/tutorials,tutorial,Beginner,Free,Data Scientist,Explore neural networks and TensorFlow model training
+LR020,SK020,Learn the Basics,PyTorch,https://docs.pytorch.org/tutorials/beginner/basics/intro.html,tutorial,Beginner,Free,Data Scientist,Learn tensors datasets model building and optimization
+LR021,SK021,Natural Language Processing Course,Hugging Face,https://huggingface.co/learn/nlp-course,course,Intermediate,Free,Data Scientist,Study text processing transformers and NLP model workflows
+LR022,SK022,Data Modeling Concepts,Microsoft Learn,https://learn.microsoft.com/en-us/training/,documentation,Beginner,Free,Both,Explore learning material for data models relationships and analytics
+LR023,SK023,Feature Engineering,Kaggle Learn,https://www.kaggle.com/learn/feature-engineering,course,Intermediate,Free,Data Scientist,Practice transforming raw variables into useful model features
+LR024,SK024,Power BI Data Preparation,Microsoft Learn,https://learn.microsoft.com/en-us/training/powerplatform/power-bi/,tutorial,Beginner,Free,Data Analyst,Explore importing transforming and preparing data for analysis
+LR025,SK025,Data Engineering Learning Resources,Microsoft Learn,https://learn.microsoft.com/en-us/training/,course,Intermediate,Free,Data Scientist,Explore pipelines data storage and data engineering fundamentals
+LR026,SK026,AWS Skill Builder,AWS,https://skillbuilder.aws/,course,Beginner,Freemium,Data Scientist,Explore cloud fundamentals and AWS data services learning
+LR027,SK027,Azure Training,Microsoft Learn,https://learn.microsoft.com/en-us/training/azure/,course,Beginner,Free,Data Scientist,Learn cloud concepts and Azure data services
+LR028,SK028,Pro Git Book,Scott Chacon and Ben Straub,https://git-scm.com/book/en/v2,documentation,Beginner,Free,Both,Learn version control commits branching and collaboration
+LR029,SK029,Docker Get Started,Docker,https://docs.docker.com/get-started/,tutorial,Beginner,Free,Data Scientist,Learn containers images and reproducible development environments
+LR030,SK030,Apache Spark Quick Start,Apache Spark,https://spark.apache.org/docs/latest/quick-start.html,tutorial,Intermediate,Free,Data Scientist,Explore distributed data processing with Spark
+LR031,SK031,Apache Hadoop Documentation,Apache Hadoop,https://hadoop.apache.org/docs/stable/,documentation,Intermediate,Free,Data Scientist,Study distributed storage and large-scale data processing
