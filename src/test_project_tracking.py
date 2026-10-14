@@ -18,6 +18,7 @@ from gradpath.project_tracking import (
     initialize_project_tracking_database,
     submit_project_skill_evidence,
     update_project_status,
+    get_candidate_project_assignments,
 )
 
 
@@ -172,6 +173,31 @@ class ProjectTrackingTests(unittest.TestCase):
             ("candidate-001", "PRJ001", "Data Analyst", "not_started"),
         )
         self.assertEqual(event, ("assigned", None, "not_started"))
+
+
+    def test_get_candidate_project_assignments(self):
+        assignment_id = assign_project(
+            candidate_id="candidate-001",
+            project_id="PRJ001",
+            target_role="Data Analyst",
+            database_path=self.database_path,
+        )
+
+        assignments = get_candidate_project_assignments(
+            candidate_id="candidate-001",
+            target_role="Data Analyst",
+            database_path=self.database_path,
+        )
+
+        self.assertEqual(len(assignments), 1)
+        self.assertEqual(assignments[0]["assignment_id"], assignment_id)
+        self.assertEqual(assignments[0]["project_id"], "PRJ001")
+        self.assertEqual(
+            assignments[0]["project_title"],
+            "Exploratory Data Analysis Portfolio",
+        )
+        self.assertEqual(assignments[0]["status"], "not_started")
+
 
     def test_unknown_project_is_rejected(self):
         with self.assertRaisesRegex(ValueError, "Unknown project_id"):

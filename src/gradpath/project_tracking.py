@@ -235,6 +235,71 @@ def initialize_project_tracking_database(
             raise
 
 
+def get_candidate_project_assignments(
+    candidate_id: str,
+    target_role: str | None = None,
+    database_path: str | Path = DEFAULT_DATABASE_PATH,
+    project_path: str | Path = PROJECT_CATALOGUE_PATH,
+) -> list[dict]:
+    """Return a candidate's project assignments with catalogue details."""
+    if not isinstance(candidate_id, str) or not candidate_id.strip():
+        raise ValueError("candidate_id must be a non-empty string.")
+
+    if target_role is not None and target_role not in {
+        "Data Analyst",
+        "Data Scientist",
+    }:
+        raise ValueError("Unsupported target_role.")
+
+    projects = _load_project_catalogue(project_path)
+    project_details = projects[
+        ["project_id", "project_title", "target_roles", "skill_ids"]
+    ]
+
+    initialize_project_tracking_database(database_path)
+
+    query = """
+        SELECT
+            assignment_id,
+            candidate_id,
+            project_id,
+            target_role,
+            status,
+            started_at,
+            completed_at,
+            created_at,
+            updated_at
+        FROM project_assignments
+        WHERE candidate_id = ?
+    """
+    parameters: list[str] = [candidate_id.strip()]
+
+    if target_role is not None:
+        query += " AND target_role = ?"
+        parameters.append(target_role)
+
+    query += " ORDER BY created_at DESC, assignment_id DESC"
+
+    with closing(_connect(database_path)) as connection:
+        rows = connection.execute(query, parameters).fetchall()
+
+    assignments = pd.DataFrame([dict(row) for row in rows])
+
+    if assignments.empty:
+        return []
+
+    assignments = assignments.merge(
+        project_details,
+        on="project_id",
+        how="left",
+        validate="many_to_one",
+    )
+
+    return assignments.where(pd.notna(assignments), None).to_dict(
+        orient="records"
+    )
+
+
 def assign_project(
     candidate_id: str,
     project_id: str,

@@ -32,6 +32,7 @@ SECTION_PATTERNS = {
         r"academic projects",
         r"selected projects",
         r"project experience",
+        r"academic\s*&\s*t\s*e\s*c\s*h\s*n\s*i\s*c\s*a\s*l\s+projects",
     ],
     "skills": [
         r"skills",
@@ -76,6 +77,17 @@ def identify_section_heading(line: str) -> str | None:
 
     return None
 
+def is_non_profile_heading(line: str) -> bool:
+    """Identify headings that end a profile section but aren't stored separately."""
+    heading = normalize_heading(line)
+    heading = re.sub(r"^#+\s*", "", heading)
+    heading = re.sub(r"^\d+[\s.)-]+", "", heading).strip()
+
+    return heading in {
+        "research & additional information",
+        "ai research",
+        "developer tools",
+    }
 
 def split_cv_sections(text: str) -> dict[str, str]:
     """
@@ -89,6 +101,10 @@ def split_cv_sections(text: str) -> dict[str, str]:
     current_section = "general"
 
     for line in text.splitlines():
+        if is_non_profile_heading(line):
+            current_section = "general"
+            continue
+
         detected_section = identify_section_heading(line)
 
         if detected_section:

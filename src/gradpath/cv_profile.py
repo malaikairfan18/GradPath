@@ -1,4 +1,4 @@
-﻿"""Build a structured GradPath candidate profile from a CV file."""
+"""Build a structured GradPath candidate profile from a CV file."""
 
 from pathlib import Path
 import re
@@ -13,9 +13,46 @@ def extract_entries(section_text: str, section_name: str) -> list[dict]:
     lines = []
 
     for line in section_text.splitlines():
-        line = re.sub(r"^\s*[-*•]\s*", "", line).strip()
+
+        line = re.sub(r"^\s*[-*•–—]\s*", "", line).strip()
         if line:
             lines.append(line)
+
+
+    if section_name == "projects":
+        entries = []
+        current_entry = None
+
+        for line in lines:
+            if "|" in line:
+                if current_entry is not None:
+                    entries.append(current_entry)
+
+                name, technologies = line.split("|", 1)
+                current_entry = {
+                    "name": name.strip(),
+                    "description": "",
+                    "technologies": [
+                        item.strip()
+                        for item in technologies.split(",")
+                        if item.strip()
+                    ],
+                }
+            elif current_entry is None:
+                current_entry = {
+                    "name": None,
+                    "description": line,
+                    "technologies": [],
+                }
+            else:
+                if current_entry["description"]:
+                    current_entry["description"] += "\n"
+                current_entry["description"] += line
+
+        if current_entry is not None:
+            entries.append(current_entry)
+
+        return entries
 
     entries = []
 
@@ -35,12 +72,6 @@ def extract_entries(section_text: str, section_name: str) -> list[dict]:
                 "start_date": None,
                 "end_date": None,
                 "description": line,
-            }
-        elif section_name == "projects":
-            entry = {
-                "name": None,
-                "description": line,
-                "technologies": [],
             }
         elif section_name == "certifications":
             entry = {

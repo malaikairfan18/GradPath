@@ -11,6 +11,7 @@ HEADING_CASES = [
     ("Academic Projects —", "projects"),
     ("Professional Certifications", "certifications"),
     ("Career Objective", "summary"),
+    ("Academic & Technical Projects", "projects"),
 ]
 
 NEGATIVE_CASES = [
@@ -19,6 +20,7 @@ NEGATIVE_CASES = [
     "I completed projects during university.",
     "I have experience with SQL and Power BI.",
     "This is a summary of my academic project.",
+    "Research & Additional Information",
 ]
 
 print("SECTION HEADING VARIATION TEST")
