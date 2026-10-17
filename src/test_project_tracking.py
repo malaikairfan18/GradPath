@@ -1,4 +1,3 @@
-
 """Tests for GradPath Phase 8 project tracking."""
 
 from contextlib import closing
@@ -15,10 +14,10 @@ from gradpath.progress_tracker import initialize_database
 from gradpath.project_tracking import (
     SUPPORTED_SCHEMA_VERSION,
     assign_project,
+    get_candidate_project_assignments,
     initialize_project_tracking_database,
     submit_project_skill_evidence,
     update_project_status,
-    get_candidate_project_assignments,
 )
 
 
@@ -56,7 +55,6 @@ class ProjectTrackingTests(unittest.TestCase):
     def test_initialization_is_repeatable(self):
         initialize_project_tracking_database(self.database_path)
         initialize_project_tracking_database(self.database_path)
-
 
     def test_initialization_sets_schema_version_to_two(self):
         initialize_project_tracking_database(self.database_path)
@@ -144,7 +142,6 @@ class ProjectTrackingTests(unittest.TestCase):
         self.assertNotIn("project_assignments", project_tables)
         self.assertNotIn("project_events", project_tables)
 
-
     def test_assign_valid_data_analyst_project(self):
         assignment_id = assign_project(
             candidate_id="candidate-001",
@@ -174,7 +171,6 @@ class ProjectTrackingTests(unittest.TestCase):
         )
         self.assertEqual(event, ("assigned", None, "not_started"))
 
-
     def test_get_candidate_project_assignments(self):
         assignment_id = assign_project(
             candidate_id="candidate-001",
@@ -197,7 +193,6 @@ class ProjectTrackingTests(unittest.TestCase):
             "Exploratory Data Analysis Portfolio",
         )
         self.assertEqual(assignments[0]["status"], "not_started")
-
 
     def test_unknown_project_is_rejected(self):
         with self.assertRaisesRegex(ValueError, "Unknown project_id"):
@@ -265,8 +260,10 @@ class ProjectTrackingTests(unittest.TestCase):
         self.assertEqual(event_count, 1)
 
     def test_status_can_change_from_not_started_to_in_progress(self):
+        candidate_id = "candidate_status_1"
+
         assignment_id = assign_project(
-            candidate_id="candidate_status_1",
+            candidate_id=candidate_id,
             project_id="PRJ001",
             target_role="Data Analyst",
             database_path=self.database_path,
@@ -275,6 +272,7 @@ class ProjectTrackingTests(unittest.TestCase):
         update_project_status(
             assignment_id,
             "in_progress",
+            candidate_id=candidate_id,
             database_path=self.database_path,
         )
 
@@ -290,8 +288,10 @@ class ProjectTrackingTests(unittest.TestCase):
         self.assertIsNone(row[2])
 
     def test_status_can_change_to_completed(self):
+        candidate_id = "candidate_status_2"
+
         assignment_id = assign_project(
-            candidate_id="candidate_status_2",
+            candidate_id=candidate_id,
             project_id="PRJ001",
             target_role="Data Analyst",
             database_path=self.database_path,
@@ -300,11 +300,13 @@ class ProjectTrackingTests(unittest.TestCase):
         update_project_status(
             assignment_id,
             "in_progress",
+            candidate_id=candidate_id,
             database_path=self.database_path,
         )
         update_project_status(
             assignment_id,
             "completed",
+            candidate_id=candidate_id,
             database_path=self.database_path,
         )
 
@@ -320,23 +322,28 @@ class ProjectTrackingTests(unittest.TestCase):
         self.assertIsNotNone(row[2])
 
     def test_invalid_status_transition_is_rejected(self):
+        candidate_id = "candidate_status_3"
+
         assignment_id = assign_project(
-            candidate_id="candidate_status_3",
+            candidate_id=candidate_id,
             project_id="PRJ001",
             target_role="Data Analyst",
             database_path=self.database_path,
         )
 
-        with self.assertRaises(ValueError):
+        with self.assertRaisesRegex(ValueError, "Invalid status transition"):
             update_project_status(
                 assignment_id,
                 "completed",
+                candidate_id=candidate_id,
                 database_path=self.database_path,
             )
 
     def test_completed_project_cannot_be_reopened(self):
+        candidate_id = "candidate_status_4"
+
         assignment_id = assign_project(
-            candidate_id="candidate_status_4",
+            candidate_id=candidate_id,
             project_id="PRJ001",
             target_role="Data Analyst",
             database_path=self.database_path,
@@ -345,24 +352,29 @@ class ProjectTrackingTests(unittest.TestCase):
         update_project_status(
             assignment_id,
             "in_progress",
+            candidate_id=candidate_id,
             database_path=self.database_path,
         )
         update_project_status(
             assignment_id,
             "completed",
+            candidate_id=candidate_id,
             database_path=self.database_path,
         )
 
-        with self.assertRaises(ValueError):
+        with self.assertRaisesRegex(ValueError, "Invalid status transition"):
             update_project_status(
                 assignment_id,
                 "in_progress",
+                candidate_id=candidate_id,
                 database_path=self.database_path,
             )
 
     def test_status_changes_are_recorded_in_project_events(self):
+        candidate_id = "candidate_status_5"
+
         assignment_id = assign_project(
-            candidate_id="candidate_status_5",
+            candidate_id=candidate_id,
             project_id="PRJ001",
             target_role="Data Analyst",
             database_path=self.database_path,
@@ -371,6 +383,7 @@ class ProjectTrackingTests(unittest.TestCase):
         update_project_status(
             assignment_id,
             "in_progress",
+            candidate_id=candidate_id,
             database_path=self.database_path,
         )
 
@@ -389,7 +402,38 @@ class ProjectTrackingTests(unittest.TestCase):
             ("status_changed", "not_started", "in_progress"),
         )
 
+    def test_status_update_from_wrong_candidate_is_rejected(self):
+        assignment_id = assign_project(
+            candidate_id="candidate_owner",
+            project_id="PRJ001",
+            target_role="Data Analyst",
+            database_path=self.database_path,
+        )
 
+        with self.assertRaisesRegex(ValueError, "does not belong"):
+            update_project_status(
+                assignment_id,
+                "in_progress",
+                candidate_id="candidate_other",
+                database_path=self.database_path,
+            )
+
+        with closing(sqlite3.connect(self.database_path)) as connection:
+            status = connection.execute("""
+                SELECT status
+                FROM project_assignments
+                WHERE assignment_id = ?
+            """, (assignment_id,)).fetchone()[0]
+
+            event_count = connection.execute("""
+                SELECT COUNT(*)
+                FROM project_events
+                WHERE assignment_id = ?
+                  AND event_type = 'status_changed'
+            """, (assignment_id,)).fetchone()[0]
+
+        self.assertEqual(status, "not_started")
+        self.assertEqual(event_count, 0)
 
     def test_valid_project_skill_evidence_is_saved_as_unverified(self):
         assignment_id = assign_project(
@@ -490,7 +534,6 @@ class ProjectTrackingTests(unittest.TestCase):
                 explanation="   ",
                 database_path=self.database_path,
             )
-
 
 
 if __name__ == "__main__":

@@ -26,3 +26,4 @@ data/external/
 # Raw collected job data
 data/raw/
 data/processed/gradpath_progress.db
+data/processed/gradpath_auth.db

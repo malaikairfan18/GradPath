@@ -1,4 +1,3 @@
-
 """Project assignment and progress-history storage for GradPath."""
 
 import sqlite3
@@ -23,6 +22,7 @@ PROJECT_CATALOGUE_PATH = (
 SKILL_VOCABULARY_PATH = (
     PROJECT_ROOT / "data" / "processed" / "initial_skill_vocabulary.csv"
 )
+
 SUPPORTED_SCHEMA_VERSION = 2
 
 PROJECT_STATUSES = {
@@ -92,6 +92,7 @@ def _load_project_catalogue(
 
     return projects
 
+
 def _validate_existing_schema_version(
     database_path: str | Path,
 ) -> None:
@@ -118,9 +119,7 @@ def _validate_existing_schema_version(
         ).fetchone()
 
         if row is None:
-            raise ValueError(
-                "Database schema version is missing."
-            )
+            raise ValueError("Database schema version is missing.")
 
         try:
             version = int(row["value"])
@@ -141,8 +140,7 @@ def initialize_project_tracking_database(
     database_path: str | Path = DEFAULT_DATABASE_PATH,
 ) -> None:
     """Initialize Phase 6 tables and create Phase 8 tracking tables."""
-    # Reuse Phase 6 initialization instead of duplicating its schema.
-        # Reject unsupported schemas before modifying the database.
+    # Reject unsupported schemas before modifying the database.
     _validate_existing_schema_version(database_path)
 
     # Reuse Phase 6 initialization instead of duplicating its schema.
@@ -152,7 +150,8 @@ def initialize_project_tracking_database(
         connection.execute("BEGIN")
 
         try:
-            connection.execute("""
+            connection.execute(
+                """
                 CREATE TABLE IF NOT EXISTS project_assignments (
                     assignment_id INTEGER PRIMARY KEY AUTOINCREMENT,
                     candidate_id TEXT NOT NULL
@@ -180,9 +179,11 @@ def initialize_project_tracking_database(
                     updated_at TEXT NOT NULL,
                     UNIQUE (candidate_id, project_id, target_role)
                 )
-            """)
+                """
+            )
 
-            connection.execute("""
+            connection.execute(
+                """
                 CREATE TABLE IF NOT EXISTS project_events (
                     event_id INTEGER PRIMARY KEY AUTOINCREMENT,
                     assignment_id INTEGER NOT NULL,
@@ -203,21 +204,24 @@ def initialize_project_tracking_database(
                         REFERENCES project_assignments(assignment_id)
                         ON DELETE CASCADE
                 )
-            """)
+                """
+            )
 
-            connection.execute("""
+            connection.execute(
+                """
                 CREATE INDEX IF NOT EXISTS
                     idx_project_assignments_candidate
                 ON project_assignments(candidate_id)
-            """)
+                """
+            )
 
-            connection.execute("""
+            connection.execute(
+                """
                 CREATE INDEX IF NOT EXISTS
                     idx_project_events_assignment_time
                 ON project_events(assignment_id, occurred_at)
-            """)
-
-
+                """
+            )
 
             connection.execute(
                 """
@@ -317,11 +321,16 @@ def assign_project(
     if target_role not in {"Data Analyst", "Data Scientist"}:
         raise ValueError("Unsupported target_role.")
 
+    normalized_candidate = candidate_id.strip()
+    normalized_project = project_id.strip()
+
     projects = _load_project_catalogue(project_path)
-    matches = projects.loc[projects["project_id"] == project_id]
+    matches = projects.loc[
+        projects["project_id"] == normalized_project
+    ]
 
     if matches.empty:
-        raise ValueError(f"Unknown project_id: {project_id}")
+        raise ValueError(f"Unknown project_id: {normalized_project}")
 
     project = matches.iloc[0]
     allowed_roles = {
@@ -332,7 +341,8 @@ def assign_project(
 
     if "Both" not in allowed_roles and target_role not in allowed_roles:
         raise ValueError(
-            f"Project {project_id} is not compatible with {target_role}."
+            f"Project {normalized_project} is not compatible "
+            f"with {target_role}."
         )
 
     initialize_project_tracking_database(database_path)
@@ -342,7 +352,8 @@ def assign_project(
         try:
             connection.execute("BEGIN")
 
-            cursor = connection.execute("""
+            cursor = connection.execute(
+                """
                 INSERT INTO project_assignments (
                     candidate_id,
                     project_id,
@@ -352,17 +363,20 @@ def assign_project(
                     updated_at
                 )
                 VALUES (?, ?, ?, 'not_started', ?, ?)
-            """, (
-                candidate_id.strip(),
-                project_id,
-                target_role,
-                timestamp,
-                timestamp,
-            ))
+                """,
+                (
+                    normalized_candidate,
+                    normalized_project,
+                    target_role,
+                    timestamp,
+                    timestamp,
+                ),
+            )
 
             assignment_id = cursor.lastrowid
 
-            connection.execute("""
+            connection.execute(
+                """
                 INSERT INTO project_events (
                     assignment_id,
                     event_type,
@@ -372,7 +386,9 @@ def assign_project(
                     details
                 )
                 VALUES (?, 'assigned', NULL, 'not_started', ?, NULL)
-            """, (assignment_id, timestamp))
+                """,
+                (assignment_id, timestamp),
+            )
 
             connection.commit()
             return int(assignment_id)
@@ -387,18 +403,26 @@ def assign_project(
             connection.rollback()
             raise
 
+
 def update_project_status(
     assignment_id: int,
     new_status: str,
+    *,
+    candidate_id: str,
     database_path: str | Path = DEFAULT_DATABASE_PATH,
 ) -> None:
-    """Update a project status and record the transition in project history."""
+    """Update status only when the assignment belongs to this candidate."""
     if (
         isinstance(assignment_id, bool)
         or not isinstance(assignment_id, int)
         or assignment_id <= 0
     ):
         raise ValueError("assignment_id must be a positive integer.")
+
+    if not isinstance(candidate_id, str) or not candidate_id.strip():
+        raise ValueError("candidate_id must be a non-empty string.")
+
+    normalized_candidate = candidate_id.strip()
 
     if not isinstance(new_status, str) or new_status not in PROJECT_STATUSES:
         raise ValueError(
@@ -415,7 +439,7 @@ def update_project_status(
 
             assignment = connection.execute(
                 """
-                SELECT status
+                SELECT candidate_id, status
                 FROM project_assignments
                 WHERE assignment_id = ?
                 """,
@@ -427,6 +451,11 @@ def update_project_status(
                     f"Unknown project assignment: {assignment_id}"
                 )
 
+            if assignment["candidate_id"] != normalized_candidate:
+                raise ValueError(
+                    "The assignment does not belong to this candidate."
+                )
+
             previous_status = assignment["status"]
             allowed_next = ALLOWED_STATUS_TRANSITIONS[previous_status]
 
@@ -436,10 +465,14 @@ def update_project_status(
                     f"-> {new_status}."
                 )
 
-            started_at = timestamp if new_status == "in_progress" else None
-            completed_at = timestamp if new_status == "completed" else None
+            started_at = (
+                timestamp if new_status == "in_progress" else None
+            )
+            completed_at = (
+                timestamp if new_status == "completed" else None
+            )
 
-            connection.execute(
+            cursor = connection.execute(
                 """
                 UPDATE project_assignments
                 SET
@@ -448,6 +481,7 @@ def update_project_status(
                     completed_at = COALESCE(?, completed_at),
                     updated_at = ?
                 WHERE assignment_id = ?
+                  AND candidate_id = ?
                 """,
                 (
                     new_status,
@@ -455,8 +489,14 @@ def update_project_status(
                     completed_at,
                     timestamp,
                     assignment_id,
+                    normalized_candidate,
                 ),
             )
+
+            if cursor.rowcount != 1:
+                raise ValueError(
+                    "The assignment does not belong to this candidate."
+                )
 
             connection.execute(
                 """
@@ -516,6 +556,7 @@ def submit_project_skill_evidence(
 
     # Validate that the skill exists in GradPath's canonical vocabulary.
     vocabulary_path = Path(skill_vocabulary_path)
+
     if not vocabulary_path.is_file():
         raise FileNotFoundError(
             f"Skill vocabulary not found: {vocabulary_path}"

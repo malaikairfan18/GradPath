@@ -12,6 +12,8 @@ HEADING_CASES = [
     ("Professional Certifications", "certifications"),
     ("Career Objective", "summary"),
     ("Academic & Technical Projects", "projects"),
+    ("T echnical Skills", "skills"),
+    ("Academic & T echnical Projects", "projects"),
 ]
 
 NEGATIVE_CASES = [

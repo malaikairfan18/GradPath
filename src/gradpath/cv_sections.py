@@ -69,6 +69,8 @@ def identify_section_heading(line: str) -> str | None:
     # Remove common Markdown heading markers and numbering.
     heading = re.sub(r"^#+\s*", "", heading)
     heading = re.sub(r"^\d+[\s.)-]+", "", heading).strip()
+    # Repair a common PDF extraction spacing issue in section headings.
+    heading = re.sub(r"\bt\s+echnical\b", "technical", heading)
 
     for section_name, patterns in SECTION_PATTERNS.items():
         for pattern in patterns:

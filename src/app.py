@@ -15,6 +15,11 @@ from gradpath.project_tracking import (
     update_project_status,
     submit_project_skill_evidence,
 )
+from gradpath.auth import (
+    authenticate_user,
+    initialize_auth_database,
+    register_user,
+)
 
 st.set_page_config(
     page_title="GradPath | Career Readiness",
@@ -97,6 +102,48 @@ st.markdown(
         margin: 1.1rem 0 0.3rem 0;
     }
 
+
+    .brand-mark {
+        font-size: 1.65rem;
+        font-weight: 800;
+        letter-spacing: -0.04em;
+        color: #40366f;
+        padding-top: 0.35rem;
+    }
+
+    .brand-caption {
+        font-size: 0.65rem;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        color: #77718f;
+        margin: 0.25rem 0 1.5rem 0;
+    }
+
+    .sidebar-navigation {
+        display: flex;
+        flex-direction: column;
+        gap: 0.45rem;
+        margin-top: 0.8rem;
+    }
+
+    .nav-link {
+        display: block;
+        padding: 0.7rem 0.8rem;
+        border: 1px solid #e7e2f2;
+        border-radius: 0.7rem;
+        background: rgba(255, 255, 255, 0.72);
+        color: #40366f !important;
+        text-decoration: none !important;
+        font-weight: 600;
+        transition: background 0.2s ease, border-color 0.2s ease;
+    }
+
+    .nav-link:hover {
+        background: #eee9fb;
+        border-color: #c8bce9;
+    }
+
+
     .section-description {
         color: #6b7690;
         margin-bottom: 1rem;
@@ -159,31 +206,274 @@ st.markdown(
         padding-top: 2.5rem;
         font-size: 0.82rem;
     }
+
+    /* Cleaner dashboard typography and spacing */
+    h2, h3, h4 {
+        color: #293653;
+        letter-spacing: -0.025em;
+    }
+
+    h3 {
+        margin-top: 1.5rem;
+        margin-bottom: 0.6rem;
+    }
+
+    p {
+        line-height: 1.65;
+    }
+
+    hr {
+        border-color: #e4e7f2;
+        margin: 1.5rem 0;
+    }
+
+    /* More polished buttons */
+    .stButton > button {
+        min-height: 2.65rem;
+        padding: 0.55rem 1.1rem;
+        border: 1px solid #d9d3ef;
+        background: #ffffff;
+        color: #453b78;
+        transition: all 0.18s ease;
+    }
+
+    .stButton > button:hover {
+        border-color: #8e7bd0;
+        background: #f0ecff;
+        color: #34275f;
+    }
+
+
+    /* Authentication tabs: readable labels and clear selection */
+    [data-testid="stTabs"] button[data-baseweb="tab"] {
+        color: #40366f !important;
+        background-color: #f0ecff !important;
+        border-radius: 10px 10px 0 0;
+    }
+
+    [data-testid="stTabs"] button[data-baseweb="tab"][aria-selected="true"] {
+        color: #ffffff !important;
+        background-color: #6250a4 !important;
+        border-bottom: 3px solid #6250a4 !important;
+    }
+
+    [data-testid="stTabs"] [data-baseweb="tab-list"] {
+        background-color: #f0ecff !important;
+        border-bottom: 1px solid #d9d3ef;
+        gap: 8px;
+    }
+
+    /* Form fields: white background with dark, readable text */
+    [data-testid="stTextInput"] input {
+        background-color: #ffffff !important;
+        color: #26324b !important;
+        border: 1px solid #c9c4dc !important;
+    }
+
+    [data-testid="stTextInput"] input::placeholder {
+        color: #73718a !important;
+        opacity: 1;
+    }
+
+    /* Keep authentication buttons readable */
+    [data-testid="stFormSubmitButton"] button {
+        background-color: #6250a4 !important;
+        color: #ffffff !important;
+        border: 1px solid #6250a4 !important;
+        border-radius: 10px !important;
+        font-weight: 650 !important;
+    }
+
+    [data-testid="stFormSubmitButton"] button:hover {
+        background-color: #4f407f !important;
+        color: #ffffff !important;
+    }
+
+
+    /* Consistent card-like surfaces */
+    [data-testid="stMetric"],
+    [data-testid="stExpander"],
+    [data-testid="stFileUploader"] {
+        box-shadow: 0 5px 18px rgba(53, 61, 100, 0.045);
+    }
+
+    /* More readable tables */
+    [data-testid="stDataFrame"] {
+        background: #ffffff;
+        border: 1px solid #e3e6f1;
+        border-radius: 14px;
+    }
+
+    /* Keep the content comfortable on smaller screens */
+    @media (max-width: 768px) {
+        .block-container {
+            padding-top: 1rem;
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+
+        .hero {
+            padding: 1.4rem;
+            border-radius: 18px;
+        }
+    }
+
+
     </style>
     """,
     unsafe_allow_html=True,
 )
 
+
+# ---------- Authentication ----------
+initialize_auth_database()
+
+if "user_id" not in st.session_state:
+    st.session_state.user_id = None
+    st.session_state.username = None
+    st.session_state.email = None
+
+if not st.session_state.user_id:
+    st.markdown(
+        """
+        <div class="hero">
+            <div class="eyebrow">Your next chapter starts here</div>
+            <h1>Welcome to GradPath.</h1>
+            <p>
+                Sign in or create an account to build your career profile,
+                explore learning recommendations, and track your projects.
+            </p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    login_tab, register_tab = st.tabs(["Sign in", "Create account"])
+
+    with login_tab:
+        with st.form("login_form"):
+            login_identifier = st.text_input(
+                "Username or email",
+                key="login_identifier",
+            )
+            login_password = st.text_input(
+                "Password",
+                type="password",
+                key="login_password",
+            )
+            login_submitted = st.form_submit_button(
+                "Sign in",
+                use_container_width=True,
+            )
+
+        if login_submitted:
+            user = authenticate_user(
+                login_identifier,
+                login_password,
+            )
+
+            if user:
+                st.session_state.user_id = user["user_id"]
+                st.session_state.username = user["username"]
+                st.session_state.email = user["email"]
+                st.rerun()
+            else:
+                st.error("Invalid username/email or password.")
+
+    with register_tab:
+        with st.form("register_form"):
+            new_username = st.text_input(
+                "Username",
+                help="Use 3–32 letters, numbers, periods, underscores, or hyphens.",
+            )
+            new_email = st.text_input("Email address")
+            new_password = st.text_input(
+                "Password",
+                type="password",
+                help="Use at least 12 characters.",
+            )
+            confirm_password = st.text_input(
+                "Confirm password",
+                type="password",
+            )
+            register_submitted = st.form_submit_button(
+                "Create account",
+                use_container_width=True,
+            )
+
+        if register_submitted:
+            if new_password != confirm_password:
+                st.error("The passwords do not match.")
+            else:
+                try:
+                    user = register_user(
+                        username=new_username,
+                        email=new_email,
+                        password=new_password,
+                    )
+                    st.session_state.user_id = user["user_id"]
+                    st.session_state.username = user["username"]
+                    st.session_state.email = user["email"]
+                    st.success("Account created successfully.")
+                    st.rerun()
+                except ValueError as exc:
+                    st.error(str(exc))
+
+    st.markdown(
+        '<div class="footer">GradPath · Your progress, your pathway</div>',
+        unsafe_allow_html=True,
+    )
+    st.stop()
+
+# Use the authenticated identity throughout this session.
+candidate_id = st.session_state.user_id
+
+
 # ---------- Navigation ----------
 with st.sidebar:
-    st.markdown("## 🎯 GradPath")
-    st.caption("YOUR CAREER, WITH A CLEARER PATH")
-    st.markdown("---")
+    st.markdown(
+        """
+        <div class="brand-mark">🎯 GradPath</div>
+        <div class="brand-caption">YOUR CAREER, WITH A CLEARER PATH</div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    st.caption(f"Signed in as @{st.session_state.username}")
+
+    if st.button("Log out", use_container_width=True):
+        for key in (
+            "user_id",
+            "username",
+            "email",
+        ):
+            st.session_state.pop(key, None)
+
+        st.rerun()
+
+    st.markdown("### Your workspace")
 
     target_role = st.selectbox(
         "Your target role",
         ["Data Analyst", "Data Scientist"],
+        key="target_role",
     )
 
-    st.markdown("### Your workspace")
-    st.markdown("📄  CV Analysis")
-    st.markdown("🧩  Skill Development")
-    st.markdown("📚  Learning Plan")
-    st.markdown("🚀  Project Workspace")
-    st.markdown("📊  Readiness Report")
+    st.markdown(
+        """
+        <div class="sidebar-navigation">
+            <a class="nav-link" href="#cv-analysis">📄 CV Analysis</a>
+            <a class="nav-link" href="#skill-development">🧩 Skill Development</a>
+            <a class="nav-link" href="#learning-plan">📚 Learning Plan</a>
+            <a class="nav-link" href="#project-workspace">🚀 Project Workspace</a>
+            <a class="nav-link" href="#project-tracking">📌 Project Tracking</a>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
-    st.markdown("---")
-    st.caption("Phase 10 · Interface foundation")
+    st.caption("Phase 10 · Career readiness workspace")
+
 
 # ---------- Welcome ----------
 st.markdown(
@@ -213,6 +503,7 @@ st.markdown(
 )
 
 # ---------- CV analysis ----------
+st.markdown('<div id="cv-analysis"></div>', unsafe_allow_html=True)
 st.markdown("### 📄 CV analysis")
 
 uploaded_file = st.file_uploader(
@@ -239,7 +530,10 @@ else:
             temporary_path = Path(temporary_file.name)
 
         with st.spinner("Reading your CV and organising your profile..."):
-            profile = build_candidate_profile(temporary_path)
+            profile = build_candidate_profile(
+                temporary_path,
+                candidate_id=candidate_id,
+            )
 
         skills = profile.get("skills", [])
         education = profile.get("education", [])
@@ -300,6 +594,7 @@ else:
 
 
         # ---------- Skill-gap analysis ----------
+        st.markdown('<div id="skill-development"></div>', unsafe_allow_html=True)
         st.markdown("#### 🎯 Your skill-gap analysis")
         st.caption(
             f"Comparing your CV evidence with the {target_role} "
@@ -351,6 +646,7 @@ else:
 
 
         # ---------- Learning recommendations ----------
+        st.markdown('<div id="learning-plan"></div>', unsafe_allow_html=True)
         st.markdown("#### 📚 Your learning recommendations")
         st.caption(
             "Explore learning actions based on your skill-gap analysis "
@@ -458,6 +754,10 @@ else:
 
 
         # ---------- Project recommendations ----------
+        st.markdown(
+            '<div id="project-workspace"></div>',
+            unsafe_allow_html=True,
+        )
         st.markdown("#### 🛠️ Your project recommendations")
         st.caption(
             "Explore practical projects that help you practise skills "
@@ -554,6 +854,10 @@ else:
 
 
         # ---------- Project tracking ----------
+        st.markdown(
+            '<div id="project-tracking"></div>',
+            unsafe_allow_html=True,
+        )
         st.markdown("#### 📌 Project tracking")
         st.caption(
             "Assign a recommended project, track your progress, and submit "
@@ -561,7 +865,6 @@ else:
             "unverified until reviewed separately."
         )
 
-        candidate_id = profile.get("candidate_id", "candidate_001")
 
         try:
             assignments = get_candidate_project_assignments(
@@ -653,6 +956,7 @@ else:
                                     update_project_status(
                                         assignment_id=assignment_id,
                                         new_status=new_status,
+                                        candidate_id=candidate_id,
                                     )
                                     st.success("Project status updated.")
                                     st.rerun()
