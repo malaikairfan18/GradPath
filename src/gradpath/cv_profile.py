@@ -44,7 +44,8 @@ ROLE_PATTERN = re.compile(
     r"intern|analyst|engineer|developer|manager|specialist|"
     r"assistant|associate|consultant|researcher|coordinator|"
     r"officer|scientist|designer|executive|lead|director|"
-    r"administrator|trainee|technician|accountant|professor|teacher"
+    r"administrator|trainee|technician|accountant|professor|teacher|"
+    r"representative"
     r")\b",
     re.IGNORECASE,
 )

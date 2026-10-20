@@ -1540,7 +1540,6 @@
   }
 }
 
-
 /* Authentication prototype screens */
 
 .auth-page {
@@ -1714,7 +1713,6 @@
     border-radius: 18px;
   }
 }
-
 
 /* GradPath workspace dashboard */
 
@@ -2903,7 +2901,6 @@
   }
 }
 
-
 .career-skill-evidence {
   margin-top: 12px;
   padding-top: 10px;
@@ -2949,4 +2946,889 @@
   margin-top: 9px;
   color: #7160b5;
   font-weight: 650;
+}
+
+/* Career planning integration */
+.career-role-select {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 20px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.career-role-select select {
+  width: 100%;
+  max-width: 320px;
+  padding: 12px 14px;
+  border: 1px solid var(--ws-border);
+  border-radius: 10px;
+  background: #fff;
+  color: var(--text);
+  font: inherit;
+}
+
+.career-plan-card {
+  display: grid;
+  gap: 18px;
+}
+
+.career-plan-results {
+  display: grid;
+  gap: 18px;
+}
+
+.career-plan-counts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.career-plan-list {
+  display: grid;
+  gap: 12px;
+}
+
+.career-plan-item {
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid var(--ws-border);
+  border-radius: 12px;
+  background: #fff;
+}
+
+.career-plan-item-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.career-plan-item-heading > span {
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: #f0eefb;
+  color: #51418e;
+  font-size: 11px;
+  text-transform: capitalize;
+}
+
+.career-plan-item p {
+  margin: 10px 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.career-plan-item small {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.career-plan-item a {
+  color: #51418e;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+@media (max-width: 480px) {
+  .career-plan-counts {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .career-plan-item {
+    padding: 13px;
+  }
+}
+
+/* CV skill cards: consistent layout and disclosure marker */
+.career-skill-item {
+  overflow: hidden;
+}
+
+.career-skill-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.career-skill-summary::-webkit-details-marker {
+  display: none;
+}
+
+.career-skill-summary::marker {
+  content: "";
+}
+
+.career-skill-name {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 0;
+  font-size: 13px;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+
+.career-skill-name small {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 400;
+}
+
+.career-skill-status {
+  flex-shrink: 0;
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: #f0eefb;
+  color: #51418e;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.career-skill-detail {
+  margin-top: 13px;
+  padding-top: 12px;
+  border-top: 1px solid #ececf3;
+}
+
+.career-skill-detail p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+.career-skill-summary:focus-visible {
+  outline: 2px solid #7160b5;
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+/* Compact learning recommendation cards */
+.learning-action-card {
+  align-content: start;
+  gap: 10px;
+}
+
+.learning-resource-title {
+  margin: 3px 0 0;
+  color: var(--text);
+  font-size: 15px;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+}
+
+.learning-resource-description {
+  margin: 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.65;
+}
+
+.learning-resource-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.learning-resource-meta span {
+  padding: 5px 9px;
+  border-radius: 7px;
+  background: #f3f4f9;
+  color: #626b7e;
+  font-size: 11px;
+}
+
+.learning-resource-link {
+  justify-self: start;
+  width: fit-content;
+  color: #51418e;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.learning-resource-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.learning-evidence-details {
+  padding-top: 10px;
+  border-top: 1px solid var(--ws-border);
+}
+
+.learning-evidence-details summary {
+  color: #51418e;
+  font-size: 12px;
+  font-weight: 650;
+  cursor: pointer;
+}
+
+.learning-evidence-details > p {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+.learning-evidence-stats {
+  display: grid;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.learning-evidence-stats span {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.all-skill-gaps {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--ws-border);
+}
+
+.all-skill-gaps > summary {
+  color: #51418e;
+  font-size: 12px;
+  font-weight: 650;
+  cursor: pointer;
+}
+
+.all-skill-gaps > .career-plan-list {
+  margin-top: 14px;
+}
+
+/* GradPath responsive workspace refinement */
+.workspace-shell,
+.workspace-main,
+.workspace-content {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.workspace-content {
+  overflow-wrap: anywhere;
+}
+
+.workspace-stat-grid,
+.workspace-bottom-grid {
+  min-width: 0;
+}
+
+.workspace-stat-grid > *,
+.workspace-bottom-grid > * {
+  min-width: 0;
+}
+
+.workspace-content img,
+.workspace-content canvas,
+.workspace-content svg {
+  max-width: 100%;
+}
+
+.workspace-content input,
+.workspace-content select,
+.workspace-content textarea {
+  max-width: 100%;
+}
+
+@media (max-width: 1024px) {
+  .workspace-shell {
+    grid-template-columns: 220px minmax(0, 1fr);
+  }
+
+  .workspace-main {
+    padding: 24px;
+  }
+
+  .workspace-stat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .workspace-bottom-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .workspace-shell {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .workspace-sidebar {
+    position: static;
+    width: 100%;
+    height: auto;
+  }
+
+  .workspace-main {
+    width: 100%;
+    padding: 20px 16px;
+  }
+
+  .workspace-topbar {
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .workspace-content {
+    width: 100%;
+  }
+
+  .workspace-stat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .workspace-main {
+    padding: 16px 12px;
+  }
+
+  .workspace-stat-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .workspace-topbar {
+    align-items: flex-start;
+  }
+
+  .workspace-content h1 {
+    font-size: 24px;
+    overflow-wrap: anywhere;
+  }
+
+  .workspace-content h2 {
+    font-size: 19px;
+    overflow-wrap: anywhere;
+  }
+
+  .workspace-content button {
+    max-width: 100%;
+    white-space: normal;
+  }
+
+  .career-plan-counts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .career-skill-summary {
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+}
+
+/* Project Workspace suggestions */
+.project-ideas-section {
+  margin-top: 28px;
+}
+
+.workspace-section-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.workspace-section-heading h3 {
+  margin: 8px 0;
+  color: var(--text-primary, #20243a);
+}
+
+.workspace-section-heading p {
+  max-width: 650px;
+  margin: 0;
+  color: var(--text-secondary, #73788c);
+  line-height: 1.6;
+}
+
+.project-idea-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  min-width: 0;
+}
+
+.project-idea-card h3 {
+  margin: 0;
+  color: var(--text-primary, #20243a);
+  font-size: 1.05rem;
+}
+
+.project-idea-card p {
+  margin: 0;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.project-skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 4px 0;
+}
+
+.project-skill-list span {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  border: 1px solid #e5e3f1;
+  border-radius: 999px;
+  background: #f7f6fc;
+  color: #6250a4;
+  font-size: 0.78rem;
+  font-weight: 500;
+}
+
+.project-idea-card .workspace-status-label {
+  margin-top: auto;
+}
+
+@media (max-width: 640px) {
+  .workspace-section-heading {
+    flex-direction: column;
+  }
+}
+
+.workspace-skills-panel {
+  margin-top: 20px;
+  padding: 24px;
+}
+
+.workspace-skills-panel .workspace-panel-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+
+.workspace-skills-description {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.workspace-skill-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.workspace-skill-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-width: 0;
+  padding: 14px;
+  border: 1px solid var(--ws-border);
+  border-radius: 12px;
+  background: var(--ws-surface, #fff);
+}
+
+.workspace-skill-info {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 0;
+}
+
+.workspace-skill-info strong {
+  overflow-wrap: anywhere;
+  color: var(--ws-text, #292b40);
+  font-size: 13px;
+}
+
+.workspace-skill-info span {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.workspace-skill-status {
+  flex-shrink: 0;
+  padding: 5px 8px;
+  border-radius: 20px;
+  background: #fff3df;
+  color: #91631e;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.workspace-skills-more {
+  margin: 14px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.workspace-skills-link,
+.workspace-skills-empty button {
+  margin-top: 18px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ws-primary, #6250a4);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.workspace-skills-empty p {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+@media (max-width: 640px) {
+  .workspace-skills-panel {
+    padding: 18px;
+  }
+
+  .workspace-skill-list {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .workspace-skill-item {
+    align-items: flex-start;
+  }
+}
+
+.workspace-journey-panel {
+  margin-top: 20px;
+  padding: 24px;
+}
+
+.workspace-journey-description {
+  margin: 0 0 22px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.workspace-journey-steps {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.workspace-journey-step {
+  display: flex;
+  align-items: flex-start;
+  gap: 13px;
+  min-width: 0;
+  padding: 17px;
+  border: 1px solid var(--ws-border);
+  border-radius: 14px;
+  background: var(--ws-surface, #fff);
+}
+
+.workspace-journey-step.is-complete {
+  border-color: #c8e6dc;
+  background: #f4fbf8;
+}
+
+.workspace-journey-step.is-current {
+  border-color: #d7cef5;
+  background: #faf8ff;
+}
+
+.workspace-journey-number {
+  display: grid;
+  place-items: center;
+  flex: 0 0 36px;
+  width: 36px;
+  height: 36px;
+  border-radius: 11px;
+  background: #f0ecfc;
+  color: #6955a5;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.workspace-journey-step.is-complete .workspace-journey-number {
+  background: #dff3eb;
+  color: #277a60;
+}
+
+.workspace-journey-step > div {
+  min-width: 0;
+}
+
+.workspace-journey-step strong {
+  display: block;
+  color: var(--ws-text, #292b40);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.workspace-journey-step p {
+  margin: 6px 0 10px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.workspace-journey-step button {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ws-primary, #6250a4);
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+@media (max-width: 640px) {
+  .workspace-journey-panel {
+    padding: 18px;
+  }
+
+  .workspace-journey-steps {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.workspace-readiness-intro {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.65;
+}
+
+.workspace-evidence-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.workspace-evidence-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 15px 0;
+  border-bottom: 1px solid var(--ws-border);
+}
+
+.workspace-evidence-item:last-child {
+  border-bottom: 0;
+}
+
+.workspace-evidence-icon {
+  display: grid;
+  place-items: center;
+  flex: 0 0 32px;
+  width: 32px;
+  height: 32px;
+  border-radius: 10px;
+  background: #f0ecfc;
+  color: #6955a5;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.workspace-evidence-item > div {
+  flex: 1;
+  min-width: 0;
+}
+
+.workspace-evidence-item strong {
+  color: var(--ws-text, #292b40);
+  font-size: 12px;
+}
+
+.workspace-evidence-item p {
+  margin: 5px 0 0;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.6;
+}
+
+.workspace-evidence-state {
+  flex-shrink: 0;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.workspace-readiness-content > button {
+  margin-top: 16px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ws-primary, #6250a4);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+@media (max-width: 480px) {
+  .workspace-evidence-item {
+    flex-wrap: wrap;
+  }
+
+  .workspace-evidence-state {
+    margin-left: 44px;
+  }
+}
+
+.career-upload-guidance {
+  max-width: 620px;
+  margin: 0 0 16px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.75;
+}
+
+.career-upload-guidance::before {
+  content: "CV ANALYSIS";
+  display: block;
+  margin-bottom: 8px;
+  color: var(--ws-primary, #6250a4);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+}
+
+.career-entry-field {
+  display: grid;
+  grid-template-columns: minmax(100px, 0.32fr) minmax(0, 1fr);
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--ws-border, #ececf3);
+}
+
+.career-entry-field:last-child {
+  border-bottom: 0;
+}
+
+.career-entry-label {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.career-entry-value {
+  color: var(--ws-text, #292b40);
+  font-size: 12px;
+  line-height: 1.75;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 480px) {
+  .career-entry-field {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 4px;
+  }
+}
+
+.career-skills-intro {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+.career-skills-list {
+  display: grid;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.career-skill-item {
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid var(--ws-border, #ececf3);
+  border-radius: 12px;
+  background: var(--ws-surface, #fff);
+}
+
+.career-skill-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.career-skill-top h3 {
+  margin: 0;
+  font-size: 14px;
+  overflow-wrap: anywhere;
+}
+
+.career-skill-category {
+  display: inline-block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.career-skill-status {
+  flex-shrink: 0;
+  padding: 5px 9px;
+  border-radius: 20px;
+  background: #fff4df;
+  color: #875b10;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.career-skill-evidence {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--ws-border, #ececf3);
+}
+
+.career-skill-evidence > strong {
+  font-size: 11px;
+}
+
+.career-skill-evidence-item {
+  margin-top: 10px;
+}
+
+.career-skill-evidence-item > span {
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.career-skill-evidence-item p,
+.career-skill-no-evidence,
+.career-skills-empty {
+  margin: 5px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 480px) {
+  .career-skill-top {
+    flex-direction: column;
+  }
 }

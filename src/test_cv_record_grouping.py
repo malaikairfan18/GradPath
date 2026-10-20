@@ -1,4 +1,4 @@
-﻿from pathlib import Path
+from pathlib import Path
 from tempfile import TemporaryDirectory
 
 from docx import Document
@@ -144,3 +144,49 @@ def test_sentence_case_project_title_is_not_lost_in_description():
     assert "Analyzed sales trends" in projects[0]["description"]
     assert projects[1]["name"] == "Fake news detection system"
     assert "text classification model" in projects[1]["description"]
+
+
+def test_responsibility_with_role_keyword_stays_in_same_experience():
+    from gradpath.cv_profile import extract_entries
+
+    experience = extract_entries(
+        "Data Analyst Intern\n"
+        "Example Company | June 2025 - August 2025\n"
+        "Worked with the project manager to prepare reports.\n"
+        "Analyzed data and created dashboards.",
+        "experience",
+    )
+
+    assert len(experience) == 1
+    assert experience[0]["job_title"] == "Data Analyst Intern"
+    assert (
+        "Worked with the project manager to prepare reports."
+        in experience[0]["description"]
+    )
+    assert (
+        "Analyzed data and created dashboards."
+        in experience[0]["description"]
+    )
+
+def test_unrecognized_job_title_is_preserved_with_its_details():
+    from gradpath.cv_profile import extract_entries
+
+    experience = extract_entries(
+        "Business Operations Representative\n"
+        "Example Company | January 2024 - December 2024\n"
+        "Prepared weekly operational reports.\n"
+        "Analyzed business performance metrics.",
+        "experience",
+    )
+
+    assert len(experience) == 1
+    assert (
+            experience[0]["job_title"]
+            == "Business Operations Representative"
+    )
+    assert (
+        "Business Operations Representative"
+        in experience[0]["description"]
+    )
+    assert "Prepared weekly operational reports." in experience[0]["description"]
+    assert "Analyzed business performance metrics." in experience[0]["description"]
